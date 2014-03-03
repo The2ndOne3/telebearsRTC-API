@@ -1,0 +1,31 @@
+{
+  "name": "TelebearsRTC-API",
+  "author": "Larry Xu <larry@larryxu.com>, Lehao Zhang <leo@lehaozhang.com>",
+  "version": "1.0.2",
+  "private": true,
+  "homepage": "https://github.com/The2ndOne3/telebearsRTC-API",
+  "bugs": "https://github.com/The2ndOne3/telebearsRTC-API/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/The2ndOne3/telebearsRTC-API.git"
+  },
+  "dependencies": {
+    "underscore": "*",
+    "q": "*",
+
+    "cheerio": "*",
+    "request": "*",
+
+    "onceler": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+
+    "express": "*",
+    "jade": "*"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
