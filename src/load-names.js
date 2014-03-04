@@ -21,7 +21,7 @@ _.each(departments, function(dept) {
     return;
   }
 
-  // You need to encode the ampersands, but not the pluses, because why would an api ever need to be consistent?
+  // You need to encode the ampersands, but not the pluses, because why would an API ever need to be consistent?
   var url = 'https://apis-dev.berkeley.edu/cxf/asws/classoffering?departmentCode=' +
     dept.abbreviation.replace(/\s/g, '+').replace('&', '%26') + '&term=' +
     term + '&termYear=' + termYear + '&_type=json&app_id=' + 

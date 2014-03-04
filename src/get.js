@@ -74,6 +74,7 @@ var load_course_list = function(callback) {
         dept.name = JSON.parse(body).CanonicalDepartment[0].departmentName;
         count++;
         console.log('Loading department', count);
+        done();
       });
     });
 

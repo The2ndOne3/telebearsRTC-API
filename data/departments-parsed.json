@@ -214,6 +214,153 @@
   {
     "courses": [
       {
+        "number": "100",
+        "title": "Microeconomic Theory with Application to Natural Resources",
+        "classId": "ENVECON 100"
+      },
+      {
+        "number": "142",
+        "title": "Industrial Organization with Applications to Agriculture and Natu",
+        "classId": "ENVECON 142"
+      },
+      {
+        "number": "147",
+        "title": "Regulation of Energy and the Environment",
+        "classId": "ENVECON 147"
+      },
+      {
+        "number": "153",
+        "title": "Population, Environment, and Development",
+        "classId": "ENVECON 153"
+      },
+      {
+        "number": "154",
+        "title": "Economics of Poverty and Technology",
+        "classId": "ENVECON 154"
+      },
+      {
+        "number": "162",
+        "title": "Economics of Water Resources",
+        "classId": "ENVECON 162"
+      },
+      {
+        "number": "195",
+        "title": "Senior Thesis",
+        "classId": "ENVECON 195"
+      },
+      {
+        "number": "197",
+        "title": "Field Study in Environmental Economics and Policy",
+        "classId": "ENVECON 197"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Studies for Advanced Undergraduates",
+        "classId": "ENVECON 198"
+      },
+      {
+        "number": "199",
+        "title": "Supervised Independent Study and Research",
+        "classId": "ENVECON 199"
+      },
+      {
+        "number": "C1",
+        "title": "Introduction to Environmental Economics and Policy",
+        "classId": "ENVECON C1"
+      },
+      {
+        "number": "C101",
+        "title": "Environmental Economics",
+        "classId": "ENVECON C101"
+      },
+      {
+        "number": "C118",
+        "title": "Introductory Applied Econometrics",
+        "classId": "ENVECON C118"
+      },
+      {
+        "number": "C180",
+        "title": "Ecological Economics in Historical Context",
+        "classId": "ENVECON C180"
+      },
+      {
+        "number": "C181",
+        "title": "International Trade",
+        "classId": "ENVECON C181"
+      },
+      {
+        "number": "C183",
+        "title": "Forest Ecosystem Management",
+        "classId": "ENVECON C183"
+      },
+      {
+        "number": "H196",
+        "title": "Honors Research",
+        "classId": "ENVECON H196"
+      }
+    ],
+    "name": "Environmental Economics and Policy",
+    "abbreviation": "ENVECON"
+  },
+  {
+    "courses": [
+      {
+        "number": "202",
+        "title": "Issues and Concepts in Agricultural Economics",
+        "classId": "A,RESEC 202"
+      },
+      {
+        "number": "212",
+        "title": "Econometrics: Multiple Equation Estimation",
+        "classId": "A,RESEC 212"
+      },
+      {
+        "number": "242",
+        "title": "Quantitative Policy Analysis",
+        "classId": "A,RESEC 242"
+      },
+      {
+        "number": "262",
+        "title": "Non-market Valuation",
+        "classId": "A,RESEC 262"
+      },
+      {
+        "number": "264",
+        "title": "Empirical Energy and Environmental Economics",
+        "classId": "A,RESEC 264"
+      },
+      {
+        "number": "298",
+        "title": "Special Study for Graduate Students",
+        "classId": "A,RESEC 298"
+      },
+      {
+        "number": "299",
+        "title": "Individual Research",
+        "classId": "A,RESEC 299"
+      },
+      {
+        "number": "375",
+        "title": "Professional Preparation: Teaching of Environmental Economics and",
+        "classId": "A,RESEC 375"
+      },
+      {
+        "number": "400",
+        "title": "Professional Training in Research Methodology",
+        "classId": "A,RESEC 400"
+      },
+      {
+        "number": "602",
+        "title": "Individual Study for Doctoral Students",
+        "classId": "A,RESEC 602"
+      }
+    ],
+    "name": "Agricultural and Resource Economics",
+    "abbreviation": "A,RESEC"
+  },
+  {
+    "courses": [
+      {
         "number": "10",
         "title": "Introduction to American Studies",
         "classId": "AMERSTD 10"
@@ -4325,97 +4472,6 @@
   {
     "courses": [
       {
-        "number": "100",
-        "title": "Microeconomic Theory with Application to Natural Resources",
-        "classId": "ENVECON 100"
-      },
-      {
-        "number": "142",
-        "title": "Industrial Organization with Applications to Agriculture and Natu",
-        "classId": "ENVECON 142"
-      },
-      {
-        "number": "147",
-        "title": "Regulation of Energy and the Environment",
-        "classId": "ENVECON 147"
-      },
-      {
-        "number": "153",
-        "title": "Population, Environment, and Development",
-        "classId": "ENVECON 153"
-      },
-      {
-        "number": "154",
-        "title": "Economics of Poverty and Technology",
-        "classId": "ENVECON 154"
-      },
-      {
-        "number": "162",
-        "title": "Economics of Water Resources",
-        "classId": "ENVECON 162"
-      },
-      {
-        "number": "195",
-        "title": "Senior Thesis",
-        "classId": "ENVECON 195"
-      },
-      {
-        "number": "197",
-        "title": "Field Study in Environmental Economics and Policy",
-        "classId": "ENVECON 197"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Studies for Advanced Undergraduates",
-        "classId": "ENVECON 198"
-      },
-      {
-        "number": "199",
-        "title": "Supervised Independent Study and Research",
-        "classId": "ENVECON 199"
-      },
-      {
-        "number": "C1",
-        "title": "Introduction to Environmental Economics and Policy",
-        "classId": "ENVECON C1"
-      },
-      {
-        "number": "C101",
-        "title": "Environmental Economics",
-        "classId": "ENVECON C101"
-      },
-      {
-        "number": "C118",
-        "title": "Introductory Applied Econometrics",
-        "classId": "ENVECON C118"
-      },
-      {
-        "number": "C180",
-        "title": "Ecological Economics in Historical Context",
-        "classId": "ENVECON C180"
-      },
-      {
-        "number": "C181",
-        "title": "International Trade",
-        "classId": "ENVECON C181"
-      },
-      {
-        "number": "C183",
-        "title": "Forest Ecosystem Management",
-        "classId": "ENVECON C183"
-      },
-      {
-        "number": "H196",
-        "title": "Honors Research",
-        "classId": "ENVECON H196"
-      }
-    ],
-    "name": "Environmental Economics and Policy",
-    "abbreviation": "ENVECON"
-  },
-  {
-    "courses": [
-      {
         "number": "100B",
         "title": "Advanced Japanese",
         "classId": "JAPAN 100B"
@@ -4527,62 +4583,6 @@
   {
     "courses": [
       {
-        "number": "202",
-        "title": "Issues and Concepts in Agricultural Economics",
-        "classId": "A,RESEC 202"
-      },
-      {
-        "number": "212",
-        "title": "Econometrics: Multiple Equation Estimation",
-        "classId": "A,RESEC 212"
-      },
-      {
-        "number": "242",
-        "title": "Quantitative Policy Analysis",
-        "classId": "A,RESEC 242"
-      },
-      {
-        "number": "262",
-        "title": "Non-market Valuation",
-        "classId": "A,RESEC 262"
-      },
-      {
-        "number": "264",
-        "title": "Empirical Energy and Environmental Economics",
-        "classId": "A,RESEC 264"
-      },
-      {
-        "number": "298",
-        "title": "Special Study for Graduate Students",
-        "classId": "A,RESEC 298"
-      },
-      {
-        "number": "299",
-        "title": "Individual Research",
-        "classId": "A,RESEC 299"
-      },
-      {
-        "number": "375",
-        "title": "Professional Preparation: Teaching of Environmental Economics and",
-        "classId": "A,RESEC 375"
-      },
-      {
-        "number": "400",
-        "title": "Professional Training in Research Methodology",
-        "classId": "A,RESEC 400"
-      },
-      {
-        "number": "602",
-        "title": "Individual Study for Doctoral Students",
-        "classId": "A,RESEC 602"
-      }
-    ],
-    "name": "Agricultural and Resource Economics",
-    "abbreviation": "A,RESEC"
-  },
-  {
-    "courses": [
-      {
         "number": "100B",
         "title": "Advanced Korean",
         "classId": "KOREAN 100B"
@@ -4681,327 +4681,6 @@
     ],
     "name": "Tibetan",
     "abbreviation": "TIBETAN"
-  },
-  {
-    "courses": [
-      {
-        "number": "105",
-        "title": "Microelectronic Devices and Circuits",
-        "classId": "EL ENG 105"
-      },
-      {
-        "number": "117",
-        "title": "Electromagnetic Fields and Waves",
-        "classId": "EL ENG 117"
-      },
-      {
-        "number": "118",
-        "title": "Introduction to Optical Engineering",
-        "classId": "EL ENG 118"
-      },
-      {
-        "number": "120",
-        "title": "Signals and Systems",
-        "classId": "EL ENG 120"
-      },
-      {
-        "number": "122",
-        "title": "Introduction to Communication Networks",
-        "classId": "EL ENG 122"
-      },
-      {
-        "number": "123",
-        "title": "Digital Signal Processing",
-        "classId": "EL ENG 123"
-      },
-      {
-        "number": "126",
-        "title": "Probability and Random Processes",
-        "classId": "EL ENG 126"
-      },
-      {
-        "number": "127",
-        "title": "Optimization Models in Engineering",
-        "classId": "EL ENG 127"
-      },
-      {
-        "number": "130",
-        "title": "Integrated-Circuit Devices",
-        "classId": "EL ENG 130"
-      },
-      {
-        "number": "134",
-        "title": "Fundamentals of Photovoltaic Devices",
-        "classId": "EL ENG 134"
-      },
-      {
-        "number": "137B",
-        "title": "Introduction to Electric Power Systems",
-        "classId": "EL ENG 137B"
-      },
-      {
-        "number": "140",
-        "title": "Linear Integrated Circuits",
-        "classId": "EL ENG 140"
-      },
-      {
-        "number": "141",
-        "title": "Introduction to Digital Integrated Circuits",
-        "classId": "EL ENG 141"
-      },
-      {
-        "number": "143",
-        "title": "Microfabrication Technology",
-        "classId": "EL ENG 143"
-      },
-      {
-        "number": "192",
-        "title": "Mechatronic Design Laboratory",
-        "classId": "EL ENG 192"
-      },
-      {
-        "number": "197",
-        "title": "Field Study",
-        "classId": "EL ENG 197"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Study for Advanced Undergraduates",
-        "classId": "EL ENG 198"
-      },
-      {
-        "number": "199",
-        "title": "Supervised Independent Study",
-        "classId": "EL ENG 199"
-      },
-      {
-        "number": "20",
-        "title": "Structure and Interpretation of Systems and Signals",
-        "classId": "EL ENG 20"
-      },
-      {
-        "number": "218A",
-        "title": "Introduction to Optical Engineering",
-        "classId": "EL ENG 218A"
-      },
-      {
-        "number": "219C",
-        "title": "Computer-Aided Verification",
-        "classId": "EL ENG 219C"
-      },
-      {
-        "number": "222",
-        "title": "Nonlinear Systems--Analysis, Stability and Control",
-        "classId": "EL ENG 222"
-      },
-      {
-        "number": "225A",
-        "title": "Digital Signal Processing",
-        "classId": "EL ENG 225A"
-      },
-      {
-        "number": "225B",
-        "title": "Digital Image Processing",
-        "classId": "EL ENG 225B"
-      },
-      {
-        "number": "225D",
-        "title": "Audio Signal Processing in Humans and Machines",
-        "classId": "EL ENG 225D"
-      },
-      {
-        "number": "227AT",
-        "title": "Optimization Models in Engineering",
-        "classId": "EL ENG 227AT"
-      },
-      {
-        "number": "228A",
-        "title": "High Speed Communications Networks",
-        "classId": "EL ENG 228A"
-      },
-      {
-        "number": "229A",
-        "title": "Information Theory and Coding",
-        "classId": "EL ENG 229A"
-      },
-      {
-        "number": "230A",
-        "title": "Integrated-Circuit Devices",
-        "classId": "EL ENG 230A"
-      },
-      {
-        "number": "230B",
-        "title": "Solid State Devices",
-        "classId": "EL ENG 230B"
-      },
-      {
-        "number": "24",
-        "title": "Freshman Seminar",
-        "classId": "EL ENG 24"
-      },
-      {
-        "number": "240A",
-        "title": "Analog Integrated Circuits",
-        "classId": "EL ENG 240A"
-      },
-      {
-        "number": "240B",
-        "title": "Advanced Analog Integrated Circuits",
-        "classId": "EL ENG 240B"
-      },
-      {
-        "number": "241A",
-        "title": "Introduction to Digital Integrated Circuits",
-        "classId": "EL ENG 241A"
-      },
-      {
-        "number": "241B",
-        "title": "Advanced Digital Integrated Circuits",
-        "classId": "EL ENG 241B"
-      },
-      {
-        "number": "243",
-        "title": "Advanced IC Processing and Layout",
-        "classId": "EL ENG 243"
-      },
-      {
-        "number": "290A",
-        "title": "Advanced Topics in Computer-Aided Design",
-        "classId": "EL ENG 290A"
-      },
-      {
-        "number": "290C",
-        "title": "Advanced Topics in Circuit Design",
-        "classId": "EL ENG 290C"
-      },
-      {
-        "number": "290E",
-        "title": "Advanced Topics in Electromagnetics and Plasmas",
-        "classId": "EL ENG 290E"
-      },
-      {
-        "number": "290F",
-        "title": "Advanced Topics in Photonics",
-        "classId": "EL ENG 290F"
-      },
-      {
-        "number": "290O",
-        "title": "Advanced Topics in Control",
-        "classId": "EL ENG 290O"
-      },
-      {
-        "number": "290T",
-        "title": "Advanced Topics in Signal Processing",
-        "classId": "EL ENG 290T"
-      },
-      {
-        "number": "290Y",
-        "title": "Organic Materials in Electronics",
-        "classId": "EL ENG 290Y"
-      },
-      {
-        "number": "298",
-        "title": "Group Studies, Seminars, or Group Research",
-        "classId": "EL ENG 298"
-      },
-      {
-        "number": "299",
-        "title": "Individual Research",
-        "classId": "EL ENG 299"
-      },
-      {
-        "number": "375",
-        "title": "Teaching Techniques for Electrical Engineering",
-        "classId": "EL ENG 375"
-      },
-      {
-        "number": "40",
-        "title": "Introduction to Microelectronic Circuits",
-        "classId": "EL ENG 40"
-      },
-      {
-        "number": "602",
-        "title": "Individual Study for Doctoral Students",
-        "classId": "EL ENG 602"
-      },
-      {
-        "number": "97",
-        "title": "Field Study",
-        "classId": "EL ENG 97"
-      },
-      {
-        "number": "98",
-        "title": "Directed Group Study for Undergraduates",
-        "classId": "EL ENG 98"
-      },
-      {
-        "number": "99",
-        "title": "Individual Study and Research for Undergraduates",
-        "classId": "EL ENG 99"
-      },
-      {
-        "number": "C128",
-        "title": "Feedback Control Systems",
-        "classId": "EL ENG C128"
-      },
-      {
-        "number": "C145O",
-        "title": "Laboratory in the Mechanics of Organisms",
-        "classId": "EL ENG C145O"
-      },
-      {
-        "number": "C219D",
-        "title": "Concurrent Models of Computation",
-        "classId": "EL ENG C219D"
-      },
-      {
-        "number": "C225E",
-        "title": "Principles of Magnetic Resonance Imaging",
-        "classId": "EL ENG C225E"
-      },
-      {
-        "number": "C227C",
-        "title": "Convex Optimization and Approximation",
-        "classId": "EL ENG C227C"
-      },
-      {
-        "number": "C247B",
-        "title": "Introduction to MEMS Design",
-        "classId": "EL ENG C247B"
-      },
-      {
-        "number": "C291",
-        "title": "Control and Optimization of Distributed Parameters Systems",
-        "classId": "EL ENG C291"
-      },
-      {
-        "number": "C291E",
-        "title": "Hybrid Systems and Intelligent Control",
-        "classId": "EL ENG C291E"
-      },
-      {
-        "number": "H196A",
-        "title": "Senior Honors Thesis Research",
-        "classId": "EL ENG H196A"
-      },
-      {
-        "number": "H196B",
-        "title": "Senior Honors Thesis Research",
-        "classId": "EL ENG H196B"
-      },
-      {
-        "number": "W230A",
-        "title": "Integrated-Circuit Devices",
-        "classId": "EL ENG W230A"
-      },
-      {
-        "number": "W241A",
-        "title": "Introduction to Digital Integrated Circuits",
-        "classId": "EL ENG W241A"
-      }
-    ],
-    "name": "Electrical Engineering",
-    "abbreviation": "EL ENG"
   },
   {
     "courses": [
@@ -5809,6 +5488,327 @@
     ],
     "name": "Education",
     "abbreviation": "EDUC"
+  },
+  {
+    "courses": [
+      {
+        "number": "105",
+        "title": "Microelectronic Devices and Circuits",
+        "classId": "EL ENG 105"
+      },
+      {
+        "number": "117",
+        "title": "Electromagnetic Fields and Waves",
+        "classId": "EL ENG 117"
+      },
+      {
+        "number": "118",
+        "title": "Introduction to Optical Engineering",
+        "classId": "EL ENG 118"
+      },
+      {
+        "number": "120",
+        "title": "Signals and Systems",
+        "classId": "EL ENG 120"
+      },
+      {
+        "number": "122",
+        "title": "Introduction to Communication Networks",
+        "classId": "EL ENG 122"
+      },
+      {
+        "number": "123",
+        "title": "Digital Signal Processing",
+        "classId": "EL ENG 123"
+      },
+      {
+        "number": "126",
+        "title": "Probability and Random Processes",
+        "classId": "EL ENG 126"
+      },
+      {
+        "number": "127",
+        "title": "Optimization Models in Engineering",
+        "classId": "EL ENG 127"
+      },
+      {
+        "number": "130",
+        "title": "Integrated-Circuit Devices",
+        "classId": "EL ENG 130"
+      },
+      {
+        "number": "134",
+        "title": "Fundamentals of Photovoltaic Devices",
+        "classId": "EL ENG 134"
+      },
+      {
+        "number": "137B",
+        "title": "Introduction to Electric Power Systems",
+        "classId": "EL ENG 137B"
+      },
+      {
+        "number": "140",
+        "title": "Linear Integrated Circuits",
+        "classId": "EL ENG 140"
+      },
+      {
+        "number": "141",
+        "title": "Introduction to Digital Integrated Circuits",
+        "classId": "EL ENG 141"
+      },
+      {
+        "number": "143",
+        "title": "Microfabrication Technology",
+        "classId": "EL ENG 143"
+      },
+      {
+        "number": "192",
+        "title": "Mechatronic Design Laboratory",
+        "classId": "EL ENG 192"
+      },
+      {
+        "number": "197",
+        "title": "Field Study",
+        "classId": "EL ENG 197"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Study for Advanced Undergraduates",
+        "classId": "EL ENG 198"
+      },
+      {
+        "number": "199",
+        "title": "Supervised Independent Study",
+        "classId": "EL ENG 199"
+      },
+      {
+        "number": "20",
+        "title": "Structure and Interpretation of Systems and Signals",
+        "classId": "EL ENG 20"
+      },
+      {
+        "number": "218A",
+        "title": "Introduction to Optical Engineering",
+        "classId": "EL ENG 218A"
+      },
+      {
+        "number": "219C",
+        "title": "Computer-Aided Verification",
+        "classId": "EL ENG 219C"
+      },
+      {
+        "number": "222",
+        "title": "Nonlinear Systems--Analysis, Stability and Control",
+        "classId": "EL ENG 222"
+      },
+      {
+        "number": "225A",
+        "title": "Digital Signal Processing",
+        "classId": "EL ENG 225A"
+      },
+      {
+        "number": "225B",
+        "title": "Digital Image Processing",
+        "classId": "EL ENG 225B"
+      },
+      {
+        "number": "225D",
+        "title": "Audio Signal Processing in Humans and Machines",
+        "classId": "EL ENG 225D"
+      },
+      {
+        "number": "227AT",
+        "title": "Optimization Models in Engineering",
+        "classId": "EL ENG 227AT"
+      },
+      {
+        "number": "228A",
+        "title": "High Speed Communications Networks",
+        "classId": "EL ENG 228A"
+      },
+      {
+        "number": "229A",
+        "title": "Information Theory and Coding",
+        "classId": "EL ENG 229A"
+      },
+      {
+        "number": "230A",
+        "title": "Integrated-Circuit Devices",
+        "classId": "EL ENG 230A"
+      },
+      {
+        "number": "230B",
+        "title": "Solid State Devices",
+        "classId": "EL ENG 230B"
+      },
+      {
+        "number": "24",
+        "title": "Freshman Seminar",
+        "classId": "EL ENG 24"
+      },
+      {
+        "number": "240A",
+        "title": "Analog Integrated Circuits",
+        "classId": "EL ENG 240A"
+      },
+      {
+        "number": "240B",
+        "title": "Advanced Analog Integrated Circuits",
+        "classId": "EL ENG 240B"
+      },
+      {
+        "number": "241A",
+        "title": "Introduction to Digital Integrated Circuits",
+        "classId": "EL ENG 241A"
+      },
+      {
+        "number": "241B",
+        "title": "Advanced Digital Integrated Circuits",
+        "classId": "EL ENG 241B"
+      },
+      {
+        "number": "243",
+        "title": "Advanced IC Processing and Layout",
+        "classId": "EL ENG 243"
+      },
+      {
+        "number": "290A",
+        "title": "Advanced Topics in Computer-Aided Design",
+        "classId": "EL ENG 290A"
+      },
+      {
+        "number": "290C",
+        "title": "Advanced Topics in Circuit Design",
+        "classId": "EL ENG 290C"
+      },
+      {
+        "number": "290E",
+        "title": "Advanced Topics in Electromagnetics and Plasmas",
+        "classId": "EL ENG 290E"
+      },
+      {
+        "number": "290F",
+        "title": "Advanced Topics in Photonics",
+        "classId": "EL ENG 290F"
+      },
+      {
+        "number": "290O",
+        "title": "Advanced Topics in Control",
+        "classId": "EL ENG 290O"
+      },
+      {
+        "number": "290T",
+        "title": "Advanced Topics in Signal Processing",
+        "classId": "EL ENG 290T"
+      },
+      {
+        "number": "290Y",
+        "title": "Organic Materials in Electronics",
+        "classId": "EL ENG 290Y"
+      },
+      {
+        "number": "298",
+        "title": "Group Studies, Seminars, or Group Research",
+        "classId": "EL ENG 298"
+      },
+      {
+        "number": "299",
+        "title": "Individual Research",
+        "classId": "EL ENG 299"
+      },
+      {
+        "number": "375",
+        "title": "Teaching Techniques for Electrical Engineering",
+        "classId": "EL ENG 375"
+      },
+      {
+        "number": "40",
+        "title": "Introduction to Microelectronic Circuits",
+        "classId": "EL ENG 40"
+      },
+      {
+        "number": "602",
+        "title": "Individual Study for Doctoral Students",
+        "classId": "EL ENG 602"
+      },
+      {
+        "number": "97",
+        "title": "Field Study",
+        "classId": "EL ENG 97"
+      },
+      {
+        "number": "98",
+        "title": "Directed Group Study for Undergraduates",
+        "classId": "EL ENG 98"
+      },
+      {
+        "number": "99",
+        "title": "Individual Study and Research for Undergraduates",
+        "classId": "EL ENG 99"
+      },
+      {
+        "number": "C128",
+        "title": "Feedback Control Systems",
+        "classId": "EL ENG C128"
+      },
+      {
+        "number": "C145O",
+        "title": "Laboratory in the Mechanics of Organisms",
+        "classId": "EL ENG C145O"
+      },
+      {
+        "number": "C219D",
+        "title": "Concurrent Models of Computation",
+        "classId": "EL ENG C219D"
+      },
+      {
+        "number": "C225E",
+        "title": "Principles of Magnetic Resonance Imaging",
+        "classId": "EL ENG C225E"
+      },
+      {
+        "number": "C227C",
+        "title": "Convex Optimization and Approximation",
+        "classId": "EL ENG C227C"
+      },
+      {
+        "number": "C247B",
+        "title": "Introduction to MEMS Design",
+        "classId": "EL ENG C247B"
+      },
+      {
+        "number": "C291",
+        "title": "Control and Optimization of Distributed Parameters Systems",
+        "classId": "EL ENG C291"
+      },
+      {
+        "number": "C291E",
+        "title": "Hybrid Systems and Intelligent Control",
+        "classId": "EL ENG C291E"
+      },
+      {
+        "number": "H196A",
+        "title": "Senior Honors Thesis Research",
+        "classId": "EL ENG H196A"
+      },
+      {
+        "number": "H196B",
+        "title": "Senior Honors Thesis Research",
+        "classId": "EL ENG H196B"
+      },
+      {
+        "number": "W230A",
+        "title": "Integrated-Circuit Devices",
+        "classId": "EL ENG W230A"
+      },
+      {
+        "number": "W241A",
+        "title": "Introduction to Digital Integrated Circuits",
+        "classId": "EL ENG W241A"
+      }
+    ],
+    "name": "Electrical Engineering",
+    "abbreviation": "EL ENG"
   },
   {
     "courses": [
@@ -7594,6 +7594,42 @@
   {
     "courses": [
       {
+        "number": "100",
+        "title": "Special Topics",
+        "classId": "LGBT 100"
+      },
+      {
+        "number": "145",
+        "title": " Interpreting the Queer Past: Methods and Problems in the History",
+        "classId": "LGBT 145"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Study for Advanced Undergraduates",
+        "classId": "LGBT 198"
+      },
+      {
+        "number": "98",
+        "title": "Directed Group Study for Advanced Undergraduates",
+        "classId": "LGBT 98"
+      },
+      {
+        "number": "C146A",
+        "title": "Cultural Representations of Sexualities: Queer Literary Culture",
+        "classId": "LGBT C146A"
+      },
+      {
+        "number": "C146B",
+        "title": "Cultural Representations of Sexualities: Queer Visual Culture",
+        "classId": "LGBT C146B"
+      }
+    ],
+    "name": "Lesbian Gay Bisexual Transgender St",
+    "abbreviation": "LGBT"
+  },
+  {
+    "courses": [
+      {
         "number": "130",
         "title": "Food and the Environment",
         "classId": "GEOG 130"
@@ -7791,42 +7827,6 @@
     ],
     "name": "Geography",
     "abbreviation": "GEOG"
-  },
-  {
-    "courses": [
-      {
-        "number": "100",
-        "title": "Special Topics",
-        "classId": "LGBT 100"
-      },
-      {
-        "number": "145",
-        "title": " Interpreting the Queer Past: Methods and Problems in the History",
-        "classId": "LGBT 145"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Study for Advanced Undergraduates",
-        "classId": "LGBT 198"
-      },
-      {
-        "number": "98",
-        "title": "Directed Group Study for Advanced Undergraduates",
-        "classId": "LGBT 98"
-      },
-      {
-        "number": "C146A",
-        "title": "Cultural Representations of Sexualities: Queer Literary Culture",
-        "classId": "LGBT C146A"
-      },
-      {
-        "number": "C146B",
-        "title": "Cultural Representations of Sexualities: Queer Visual Culture",
-        "classId": "LGBT C146B"
-      }
-    ],
-    "name": "Lesbian Gay Bisexual Transgender St",
-    "abbreviation": "LGBT"
   },
   {
     "courses": [
@@ -8090,6 +8090,22 @@
   {
     "courses": [
       {
+        "number": "105",
+        "title": "The Ethics, Methods, and Pragmatics of Global Practice",
+        "classId": "GPP 105"
+      },
+      {
+        "number": "196",
+        "title": "Global Poverty and Practice Capstone Course",
+        "classId": "GPP 196"
+      }
+    ],
+    "name": "Global Poverty and Practice",
+    "abbreviation": "GPP"
+  },
+  {
+    "courses": [
+      {
         "number": "301",
         "title": "Mentoring in Higher Education",
         "classId": "GSPDP 301"
@@ -8112,22 +8128,6 @@
     ],
     "name": "Grad Student Prof Development Pgm",
     "abbreviation": "GSPDP"
-  },
-  {
-    "courses": [
-      {
-        "number": "105",
-        "title": "The Ethics, Methods, and Pragmatics of Global Practice",
-        "classId": "GPP 105"
-      },
-      {
-        "number": "196",
-        "title": "Global Poverty and Practice Capstone Course",
-        "classId": "GPP 196"
-      }
-    ],
-    "name": "Global Poverty and Practice",
-    "abbreviation": "GPP"
   },
   {
     "courses": [
@@ -8155,152 +8155,6 @@
     ],
     "name": "Health and Medical Sciences",
     "abbreviation": "HMEDSCI"
-  },
-  {
-    "courses": [
-      {
-        "number": "131",
-        "title": "Discrete Event Simulation",
-        "classId": "IND ENG 131"
-      },
-      {
-        "number": "153",
-        "title": "Logistics Network Design and Supply Chain Management",
-        "classId": "IND ENG 153"
-      },
-      {
-        "number": "161",
-        "title": "Operations Research II",
-        "classId": "IND ENG 161"
-      },
-      {
-        "number": "162",
-        "title": "Linear Programming",
-        "classId": "IND ENG 162"
-      },
-      {
-        "number": "165",
-        "title": "Engineering Statistics, Quality Control, and Forcasting",
-        "classId": "IND ENG 165"
-      },
-      {
-        "number": "166",
-        "title": "Decision Analysis",
-        "classId": "IND ENG 166"
-      },
-      {
-        "number": "170",
-        "title": "Industrial Design and Human Factors",
-        "classId": "IND ENG 170"
-      },
-      {
-        "number": "171",
-        "title": "Technology Firm Leadership",
-        "classId": "IND ENG 171"
-      },
-      {
-        "number": "180",
-        "title": "Senior Project",
-        "classId": "IND ENG 180"
-      },
-      {
-        "number": "190B",
-        "title": "Entrepreneurial Marketing and Finance",
-        "classId": "IND ENG 190B"
-      },
-      {
-        "number": "190C",
-        "title": "Advanced Topics in Industrial Engineering and Operations Research",
-        "classId": "IND ENG 190C"
-      },
-      {
-        "number": "190D",
-        "title": "Advanced Topics in Industrial Engineering and Operations Research",
-        "classId": "IND ENG 190D"
-      },
-      {
-        "number": "190G",
-        "title": "Advanced Topics in Industrial Engineering and Operations Research",
-        "classId": "IND ENG 190G"
-      },
-      {
-        "number": "220",
-        "title": "Economics and Dynamics of Production",
-        "classId": "IND ENG 220"
-      },
-      {
-        "number": "221",
-        "title": "Introduction to Financial Engineering",
-        "classId": "IND ENG 221"
-      },
-      {
-        "number": "231",
-        "title": "Introduction to Data Modeling, Statistics, and System Simulation",
-        "classId": "IND ENG 231"
-      },
-      {
-        "number": "252",
-        "title": "Service Operations Management",
-        "classId": "IND ENG 252"
-      },
-      {
-        "number": "254",
-        "title": "Production and Inventory Systems",
-        "classId": "IND ENG 254"
-      },
-      {
-        "number": "262B",
-        "title": "Mathematical Programming II",
-        "classId": "IND ENG 262B"
-      },
-      {
-        "number": "263B",
-        "title": "Applied Stochastic Process II",
-        "classId": "IND ENG 263B"
-      },
-      {
-        "number": "264",
-        "title": "Computational Optimization",
-        "classId": "IND ENG 264"
-      },
-      {
-        "number": "266",
-        "title": "Network Flows and Graphs",
-        "classId": "IND ENG 266"
-      },
-      {
-        "number": "290A",
-        "title": "Dynamic Production Theory and Planning Models",
-        "classId": "IND ENG 290A"
-      },
-      {
-        "number": "290G",
-        "title": "Advanced Mathematical Programming",
-        "classId": "IND ENG 290G"
-      },
-      {
-        "number": "290R",
-        "title": "Topics in Risk Theory",
-        "classId": "IND ENG 290R"
-      },
-      {
-        "number": "298",
-        "title": "Group Studies, Seminars, or Group Research",
-        "classId": "IND ENG 298"
-      },
-      {
-        "number": "299",
-        "title": "Individual Study or Research",
-        "classId": "IND ENG 299"
-      },
-      {
-        "number": "C253",
-        "title": "Supply Chain and Logistics Management",
-        "classId": "IND ENG C253"
-      }
-    ],
-    "name": "Industrial Engin and Oper Research",
-    "abbreviation": "IND ENG"
   },
   {
     "courses": [
@@ -8712,6 +8566,152 @@
     ],
     "name": "History",
     "abbreviation": "HISTORY"
+  },
+  {
+    "courses": [
+      {
+        "number": "131",
+        "title": "Discrete Event Simulation",
+        "classId": "IND ENG 131"
+      },
+      {
+        "number": "153",
+        "title": "Logistics Network Design and Supply Chain Management",
+        "classId": "IND ENG 153"
+      },
+      {
+        "number": "161",
+        "title": "Operations Research II",
+        "classId": "IND ENG 161"
+      },
+      {
+        "number": "162",
+        "title": "Linear Programming",
+        "classId": "IND ENG 162"
+      },
+      {
+        "number": "165",
+        "title": "Engineering Statistics, Quality Control, and Forcasting",
+        "classId": "IND ENG 165"
+      },
+      {
+        "number": "166",
+        "title": "Decision Analysis",
+        "classId": "IND ENG 166"
+      },
+      {
+        "number": "170",
+        "title": "Industrial Design and Human Factors",
+        "classId": "IND ENG 170"
+      },
+      {
+        "number": "171",
+        "title": "Technology Firm Leadership",
+        "classId": "IND ENG 171"
+      },
+      {
+        "number": "180",
+        "title": "Senior Project",
+        "classId": "IND ENG 180"
+      },
+      {
+        "number": "190B",
+        "title": "Entrepreneurial Marketing and Finance",
+        "classId": "IND ENG 190B"
+      },
+      {
+        "number": "190C",
+        "title": "Advanced Topics in Industrial Engineering and Operations Research",
+        "classId": "IND ENG 190C"
+      },
+      {
+        "number": "190D",
+        "title": "Advanced Topics in Industrial Engineering and Operations Research",
+        "classId": "IND ENG 190D"
+      },
+      {
+        "number": "190G",
+        "title": "Advanced Topics in Industrial Engineering and Operations Research",
+        "classId": "IND ENG 190G"
+      },
+      {
+        "number": "220",
+        "title": "Economics and Dynamics of Production",
+        "classId": "IND ENG 220"
+      },
+      {
+        "number": "221",
+        "title": "Introduction to Financial Engineering",
+        "classId": "IND ENG 221"
+      },
+      {
+        "number": "231",
+        "title": "Introduction to Data Modeling, Statistics, and System Simulation",
+        "classId": "IND ENG 231"
+      },
+      {
+        "number": "252",
+        "title": "Service Operations Management",
+        "classId": "IND ENG 252"
+      },
+      {
+        "number": "254",
+        "title": "Production and Inventory Systems",
+        "classId": "IND ENG 254"
+      },
+      {
+        "number": "262B",
+        "title": "Mathematical Programming II",
+        "classId": "IND ENG 262B"
+      },
+      {
+        "number": "263B",
+        "title": "Applied Stochastic Process II",
+        "classId": "IND ENG 263B"
+      },
+      {
+        "number": "264",
+        "title": "Computational Optimization",
+        "classId": "IND ENG 264"
+      },
+      {
+        "number": "266",
+        "title": "Network Flows and Graphs",
+        "classId": "IND ENG 266"
+      },
+      {
+        "number": "290A",
+        "title": "Dynamic Production Theory and Planning Models",
+        "classId": "IND ENG 290A"
+      },
+      {
+        "number": "290G",
+        "title": "Advanced Mathematical Programming",
+        "classId": "IND ENG 290G"
+      },
+      {
+        "number": "290R",
+        "title": "Topics in Risk Theory",
+        "classId": "IND ENG 290R"
+      },
+      {
+        "number": "298",
+        "title": "Group Studies, Seminars, or Group Research",
+        "classId": "IND ENG 298"
+      },
+      {
+        "number": "299",
+        "title": "Individual Study or Research",
+        "classId": "IND ENG 299"
+      },
+      {
+        "number": "C253",
+        "title": "Supply Chain and Logistics Management",
+        "classId": "IND ENG C253"
+      }
+    ],
+    "name": "Industrial Engin and Oper Research",
+    "abbreviation": "IND ENG"
   },
   {
     "courses": [
@@ -9647,6 +9647,27 @@
   {
     "courses": [
       {
+        "number": "150",
+        "title": "Advanced Studies in Latin American Studies",
+        "classId": "LATAMST 150"
+      },
+      {
+        "number": "250",
+        "title": "Selected Topics in Latin American Studies",
+        "classId": "LATAMST 250"
+      },
+      {
+        "number": "298",
+        "title": "Directed Graduate Group Study",
+        "classId": "LATAMST 298"
+      }
+    ],
+    "name": "Latin American Studies",
+    "abbreviation": "LATAMST"
+  },
+  {
+    "courses": [
+      {
         "number": "100",
         "title": "Foundations of Legal Studies",
         "classId": "LEGALST 100"
@@ -9763,23 +9784,93 @@
   {
     "courses": [
       {
-        "number": "150",
-        "title": "Advanced Studies in Latin American Studies",
-        "classId": "LATAMST 150"
+        "number": "105",
+        "title": "Arts Entrepreneurship",
+        "classId": "L & S 105"
       },
       {
-        "number": "250",
-        "title": "Selected Topics in Latin American Studies",
-        "classId": "LATAMST 250"
+        "number": "122",
+        "title": "Time",
+        "classId": "L & S 122"
       },
       {
-        "number": "298",
-        "title": "Directed Graduate Group Study",
-        "classId": "LATAMST 298"
+        "number": "124",
+        "title": "Consciousness: Buddhist and Neuroscientific Perspectives",
+        "classId": "L & S 124"
+      },
+      {
+        "number": "160B",
+        "title": "Philosophy and Values",
+        "classId": "L & S 160B"
+      },
+      {
+        "number": "180AC",
+        "title": "Archaeology of Sex and Gender",
+        "classId": "L & S 180AC"
+      },
+      {
+        "number": "22",
+        "title": "Sense and Sensibility and Science",
+        "classId": "L & S 22"
+      },
+      {
+        "number": "C101",
+        "title": "Edible Education: The Rise and Future of the Food Movement",
+        "classId": "L & S C101"
+      },
+      {
+        "number": "C180U",
+        "title": "Wealth and Poverty",
+        "classId": "L & S C180U"
+      },
+      {
+        "number": "C180X",
+        "title": "Arts and Cultural Policy",
+        "classId": "L & S C180X"
+      },
+      {
+        "number": "C30U",
+        "title": "Americans and the Global Forest",
+        "classId": "L & S C30U"
+      },
+      {
+        "number": "C30V",
+        "title": "Environmental Issues",
+        "classId": "L & S C30V"
+      },
+      {
+        "number": "C30X",
+        "title": "Big Ideas in Cell Biology",
+        "classId": "L & S C30X"
+      },
+      {
+        "number": "C30Y",
+        "title": "Biology for Voters",
+        "classId": "L & S C30Y"
+      },
+      {
+        "number": "C70U",
+        "title": "Introduction to General Astronomy",
+        "classId": "L & S C70U"
+      },
+      {
+        "number": "C70V",
+        "title": "Descriptive Introduction to Physics",
+        "classId": "L & S C70V"
+      },
+      {
+        "number": "C70W",
+        "title": "Physics and Music",
+        "classId": "L & S C70W"
+      },
+      {
+        "number": "C76",
+        "title": "Beauty and the Beholder: Approaching Art at the Berkeley Art Muse",
+        "classId": "L & S C76"
       }
     ],
-    "name": "Latin American Studies",
-    "abbreviation": "LATAMST"
+    "name": "Letters and Science",
+    "abbreviation": "L & S"
   },
   {
     "courses": [
@@ -9955,97 +10046,6 @@
   {
     "courses": [
       {
-        "number": "105",
-        "title": "Arts Entrepreneurship",
-        "classId": "L & S 105"
-      },
-      {
-        "number": "122",
-        "title": "Time",
-        "classId": "L & S 122"
-      },
-      {
-        "number": "124",
-        "title": "Consciousness: Buddhist and Neuroscientific Perspectives",
-        "classId": "L & S 124"
-      },
-      {
-        "number": "160B",
-        "title": "Philosophy and Values",
-        "classId": "L & S 160B"
-      },
-      {
-        "number": "180AC",
-        "title": "Archaeology of Sex and Gender",
-        "classId": "L & S 180AC"
-      },
-      {
-        "number": "22",
-        "title": "Sense and Sensibility and Science",
-        "classId": "L & S 22"
-      },
-      {
-        "number": "C101",
-        "title": "Edible Education: The Rise and Future of the Food Movement",
-        "classId": "L & S C101"
-      },
-      {
-        "number": "C180U",
-        "title": "Wealth and Poverty",
-        "classId": "L & S C180U"
-      },
-      {
-        "number": "C180X",
-        "title": "Arts and Cultural Policy",
-        "classId": "L & S C180X"
-      },
-      {
-        "number": "C30U",
-        "title": "Americans and the Global Forest",
-        "classId": "L & S C30U"
-      },
-      {
-        "number": "C30V",
-        "title": "Environmental Issues",
-        "classId": "L & S C30V"
-      },
-      {
-        "number": "C30X",
-        "title": "Big Ideas in Cell Biology",
-        "classId": "L & S C30X"
-      },
-      {
-        "number": "C30Y",
-        "title": "Biology for Voters",
-        "classId": "L & S C30Y"
-      },
-      {
-        "number": "C70U",
-        "title": "Introduction to General Astronomy",
-        "classId": "L & S C70U"
-      },
-      {
-        "number": "C70V",
-        "title": "Descriptive Introduction to Physics",
-        "classId": "L & S C70V"
-      },
-      {
-        "number": "C70W",
-        "title": "Physics and Music",
-        "classId": "L & S C70W"
-      },
-      {
-        "number": "C76",
-        "title": "Beauty and the Beholder: Approaching Art at the Berkeley Art Muse",
-        "classId": "L & S C76"
-      }
-    ],
-    "name": "Letters and Science",
-    "abbreviation": "L & S"
-  },
-  {
-    "courses": [
-      {
         "number": "103",
         "title": "Phase Transformations and Kinetics",
         "classId": "MAT SCI 103"
@@ -10153,6 +10153,366 @@
     ],
     "name": "Materials Science and Engineering",
     "abbreviation": "MAT SCI"
+  },
+  {
+    "courses": [
+      {
+        "number": "104",
+        "title": "Introduction to Analysis",
+        "classId": "MATH 104"
+      },
+      {
+        "number": "105",
+        "title": "Second Course in Analysis",
+        "classId": "MATH 105"
+      },
+      {
+        "number": "10A",
+        "title": "Methods of Mathematics: Calculus, Statistics, and Combinatorics",
+        "classId": "MATH 10A"
+      },
+      {
+        "number": "10B",
+        "title": "Methods of Mathematics: Calculus, Statistics, and Combinatorics",
+        "classId": "MATH 10B"
+      },
+      {
+        "number": "110",
+        "title": "Linear Algebra",
+        "classId": "MATH 110"
+      },
+      {
+        "number": "113",
+        "title": "Introduction to Abstract Algebra",
+        "classId": "MATH 113"
+      },
+      {
+        "number": "118",
+        "title": "Fourier Analysis, Wavelets, and Signal Processing",
+        "classId": "MATH 118"
+      },
+      {
+        "number": "121A",
+        "title": "Mathematical Tools for the Physical Sciences",
+        "classId": "MATH 121A"
+      },
+      {
+        "number": "121B",
+        "title": "Mathematical Tools for the Physical Sciences",
+        "classId": "MATH 121B"
+      },
+      {
+        "number": "123",
+        "title": "Ordinary Differential Equations",
+        "classId": "MATH 123"
+      },
+      {
+        "number": "128A",
+        "title": "Numerical Analysis",
+        "classId": "MATH 128A"
+      },
+      {
+        "number": "128B",
+        "title": "Numerical Analysis",
+        "classId": "MATH 128B"
+      },
+      {
+        "number": "130",
+        "title": "The Classical Geometries",
+        "classId": "MATH 130"
+      },
+      {
+        "number": "136",
+        "title": "Incompleteness and Undecidability",
+        "classId": "MATH 136"
+      },
+      {
+        "number": "140",
+        "title": "Metric Differential Geometry",
+        "classId": "MATH 140"
+      },
+      {
+        "number": "142",
+        "title": "Elementary Algebraic Topology",
+        "classId": "MATH 142"
+      },
+      {
+        "number": "151",
+        "title": "Mathematics of the Secondary School Curriculum I",
+        "classId": "MATH 151"
+      },
+      {
+        "number": "153",
+        "title": "Mathematics of the Secondary School Curriculum III",
+        "classId": "MATH 153"
+      },
+      {
+        "number": "160",
+        "title": "History of Mathematics",
+        "classId": "MATH 160"
+      },
+      {
+        "number": "16A",
+        "title": "Analytic Geometry and Calculus",
+        "classId": "MATH 16A"
+      },
+      {
+        "number": "16B",
+        "title": "Analytic Geometry and Calculus",
+        "classId": "MATH 16B"
+      },
+      {
+        "number": "172",
+        "title": "Combinatorics",
+        "classId": "MATH 172"
+      },
+      {
+        "number": "185",
+        "title": "Introduction to Complex Analysis",
+        "classId": "MATH 185"
+      },
+      {
+        "number": "191",
+        "title": "Experimental Courses in Mathematics",
+        "classId": "MATH 191"
+      },
+      {
+        "number": "196",
+        "title": "Honors Thesis",
+        "classId": "MATH 196"
+      },
+      {
+        "number": "197",
+        "title": "Field Study",
+        "classId": "MATH 197"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Study",
+        "classId": "MATH 198"
+      },
+      {
+        "number": "199",
+        "title": "Supervised Independent Study and Research",
+        "classId": "MATH 199"
+      },
+      {
+        "number": "1A",
+        "title": "Calculus",
+        "classId": "MATH 1A"
+      },
+      {
+        "number": "1B",
+        "title": "Calculus",
+        "classId": "MATH 1B"
+      },
+      {
+        "number": "202B",
+        "title": "Introduction to Topology and Analysis",
+        "classId": "MATH 202B"
+      },
+      {
+        "number": "209",
+        "title": "Von Neumann Algebras",
+        "classId": "MATH 209"
+      },
+      {
+        "number": "215B",
+        "title": "Algebraic Topology",
+        "classId": "MATH 215B"
+      },
+      {
+        "number": "222B",
+        "title": "Partial Differential Equations",
+        "classId": "MATH 222B"
+      },
+      {
+        "number": "224B",
+        "title": "Mathematical Methods for the Physical Sciences",
+        "classId": "MATH 224B"
+      },
+      {
+        "number": "225B",
+        "title": "Metamathematics",
+        "classId": "MATH 225B"
+      },
+      {
+        "number": "228B",
+        "title": "Numerical Solution of Differential Equations",
+        "classId": "MATH 228B"
+      },
+      {
+        "number": "235A",
+        "title": "Theory of Sets",
+        "classId": "MATH 235A"
+      },
+      {
+        "number": "24",
+        "title": "Freshman Seminars",
+        "classId": "MATH 24"
+      },
+      {
+        "number": "242",
+        "title": "Symplectic Geometry",
+        "classId": "MATH 242"
+      },
+      {
+        "number": "245A",
+        "title": "General Theory of Algebraic Structures",
+        "classId": "MATH 245A"
+      },
+      {
+        "number": "250B",
+        "title": "Multilinear Algebra and Further Topics",
+        "classId": "MATH 250B"
+      },
+      {
+        "number": "254B",
+        "title": "Number Theory",
+        "classId": "MATH 254B"
+      },
+      {
+        "number": "256B",
+        "title": "Algebraic Geometry",
+        "classId": "MATH 256B"
+      },
+      {
+        "number": "257",
+        "title": "Group Theory",
+        "classId": "MATH 257"
+      },
+      {
+        "number": "261B",
+        "title": "Lie Groups",
+        "classId": "MATH 261B"
+      },
+      {
+        "number": "273",
+        "title": "Topics in Numerical Analysis",
+        "classId": "MATH 273"
+      },
+      {
+        "number": "273I",
+        "title": "Approximation Theory",
+        "classId": "MATH 273I"
+      },
+      {
+        "number": "274",
+        "title": "Topics in Algebra",
+        "classId": "MATH 274"
+      },
+      {
+        "number": "275",
+        "title": "Topics in Applied Mathematics",
+        "classId": "MATH 275"
+      },
+      {
+        "number": "276",
+        "title": "Topics in Topology",
+        "classId": "MATH 276"
+      },
+      {
+        "number": "290",
+        "title": "Seminars",
+        "classId": "MATH 290"
+      },
+      {
+        "number": "299",
+        "title": "Reading Course for Graduate Students",
+        "classId": "MATH 299"
+      },
+      {
+        "number": "301",
+        "title": "Undergraduate Mathematics Instruction",
+        "classId": "MATH 301"
+      },
+      {
+        "number": "303",
+        "title": "Professional Preparation: Supervised Teaching of Mathematics",
+        "classId": "MATH 303"
+      },
+      {
+        "number": "32",
+        "title": "Precalculus",
+        "classId": "MATH 32"
+      },
+      {
+        "number": "375",
+        "title": "Teaching Workshop",
+        "classId": "MATH 375"
+      },
+      {
+        "number": "49",
+        "title": "Supplementary Work in Lower Division Mathematics",
+        "classId": "MATH 49"
+      },
+      {
+        "number": "53",
+        "title": "Multivariable Calculus",
+        "classId": "MATH 53"
+      },
+      {
+        "number": "54",
+        "title": "Linear Algebra and Differential Equations",
+        "classId": "MATH 54"
+      },
+      {
+        "number": "55",
+        "title": "Discrete Mathematics",
+        "classId": "MATH 55"
+      },
+      {
+        "number": "602",
+        "title": "Individual Study for Doctoral Students",
+        "classId": "MATH 602"
+      },
+      {
+        "number": "98",
+        "title": "Supervised Group Study",
+        "classId": "MATH 98"
+      },
+      {
+        "number": "99",
+        "title": "Supervised Independent Study",
+        "classId": "MATH 99"
+      },
+      {
+        "number": "999",
+        "classId": "MATH 999"
+      },
+      {
+        "number": "C218B",
+        "title": "Probability Theory",
+        "classId": "MATH C218B"
+      },
+      {
+        "number": "C223B",
+        "title": "Advanced Topics in Probablity and Stochastic Processes",
+        "classId": "MATH C223B"
+      },
+      {
+        "number": "C243",
+        "title": "Seq: Methods and Applications",
+        "classId": "MATH C243"
+      },
+      {
+        "number": "H113",
+        "title": "Honors Introduction to Abstract Algebra",
+        "classId": "MATH H113"
+      },
+      {
+        "number": "H185",
+        "title": "Honors Introduction to Complex Analysis",
+        "classId": "MATH H185"
+      },
+      {
+        "number": "H53",
+        "title": "Honors Multivariable Calculus",
+        "classId": "MATH H53"
+      }
+    ],
+    "name": "Mathematics",
+    "abbreviation": "MATH"
   },
   {
     "courses": [
@@ -10519,366 +10879,6 @@
   {
     "courses": [
       {
-        "number": "104",
-        "title": "Introduction to Analysis",
-        "classId": "MATH 104"
-      },
-      {
-        "number": "105",
-        "title": "Second Course in Analysis",
-        "classId": "MATH 105"
-      },
-      {
-        "number": "10A",
-        "title": "Methods of Mathematics: Calculus, Statistics, and Combinatorics",
-        "classId": "MATH 10A"
-      },
-      {
-        "number": "10B",
-        "title": "Methods of Mathematics: Calculus, Statistics, and Combinatorics",
-        "classId": "MATH 10B"
-      },
-      {
-        "number": "110",
-        "title": "Linear Algebra",
-        "classId": "MATH 110"
-      },
-      {
-        "number": "113",
-        "title": "Introduction to Abstract Algebra",
-        "classId": "MATH 113"
-      },
-      {
-        "number": "118",
-        "title": "Fourier Analysis, Wavelets, and Signal Processing",
-        "classId": "MATH 118"
-      },
-      {
-        "number": "121A",
-        "title": "Mathematical Tools for the Physical Sciences",
-        "classId": "MATH 121A"
-      },
-      {
-        "number": "121B",
-        "title": "Mathematical Tools for the Physical Sciences",
-        "classId": "MATH 121B"
-      },
-      {
-        "number": "123",
-        "title": "Ordinary Differential Equations",
-        "classId": "MATH 123"
-      },
-      {
-        "number": "128A",
-        "title": "Numerical Analysis",
-        "classId": "MATH 128A"
-      },
-      {
-        "number": "128B",
-        "title": "Numerical Analysis",
-        "classId": "MATH 128B"
-      },
-      {
-        "number": "130",
-        "title": "The Classical Geometries",
-        "classId": "MATH 130"
-      },
-      {
-        "number": "136",
-        "title": "Incompleteness and Undecidability",
-        "classId": "MATH 136"
-      },
-      {
-        "number": "140",
-        "title": "Metric Differential Geometry",
-        "classId": "MATH 140"
-      },
-      {
-        "number": "142",
-        "title": "Elementary Algebraic Topology",
-        "classId": "MATH 142"
-      },
-      {
-        "number": "151",
-        "title": "Mathematics of the Secondary School Curriculum I",
-        "classId": "MATH 151"
-      },
-      {
-        "number": "153",
-        "title": "Mathematics of the Secondary School Curriculum III",
-        "classId": "MATH 153"
-      },
-      {
-        "number": "160",
-        "title": "History of Mathematics",
-        "classId": "MATH 160"
-      },
-      {
-        "number": "16A",
-        "title": "Analytic Geometry and Calculus",
-        "classId": "MATH 16A"
-      },
-      {
-        "number": "16B",
-        "title": "Analytic Geometry and Calculus",
-        "classId": "MATH 16B"
-      },
-      {
-        "number": "172",
-        "title": "Combinatorics",
-        "classId": "MATH 172"
-      },
-      {
-        "number": "185",
-        "title": "Introduction to Complex Analysis",
-        "classId": "MATH 185"
-      },
-      {
-        "number": "191",
-        "title": "Experimental Courses in Mathematics",
-        "classId": "MATH 191"
-      },
-      {
-        "number": "196",
-        "title": "Honors Thesis",
-        "classId": "MATH 196"
-      },
-      {
-        "number": "197",
-        "title": "Field Study",
-        "classId": "MATH 197"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Study",
-        "classId": "MATH 198"
-      },
-      {
-        "number": "199",
-        "title": "Supervised Independent Study and Research",
-        "classId": "MATH 199"
-      },
-      {
-        "number": "1A",
-        "title": "Calculus",
-        "classId": "MATH 1A"
-      },
-      {
-        "number": "1B",
-        "title": "Calculus",
-        "classId": "MATH 1B"
-      },
-      {
-        "number": "202B",
-        "title": "Introduction to Topology and Analysis",
-        "classId": "MATH 202B"
-      },
-      {
-        "number": "209",
-        "title": "Von Neumann Algebras",
-        "classId": "MATH 209"
-      },
-      {
-        "number": "215B",
-        "title": "Algebraic Topology",
-        "classId": "MATH 215B"
-      },
-      {
-        "number": "222B",
-        "title": "Partial Differential Equations",
-        "classId": "MATH 222B"
-      },
-      {
-        "number": "224B",
-        "title": "Mathematical Methods for the Physical Sciences",
-        "classId": "MATH 224B"
-      },
-      {
-        "number": "225B",
-        "title": "Metamathematics",
-        "classId": "MATH 225B"
-      },
-      {
-        "number": "228B",
-        "title": "Numerical Solution of Differential Equations",
-        "classId": "MATH 228B"
-      },
-      {
-        "number": "235A",
-        "title": "Theory of Sets",
-        "classId": "MATH 235A"
-      },
-      {
-        "number": "24",
-        "title": "Freshman Seminars",
-        "classId": "MATH 24"
-      },
-      {
-        "number": "242",
-        "title": "Symplectic Geometry",
-        "classId": "MATH 242"
-      },
-      {
-        "number": "245A",
-        "title": "General Theory of Algebraic Structures",
-        "classId": "MATH 245A"
-      },
-      {
-        "number": "250B",
-        "title": "Multilinear Algebra and Further Topics",
-        "classId": "MATH 250B"
-      },
-      {
-        "number": "254B",
-        "title": "Number Theory",
-        "classId": "MATH 254B"
-      },
-      {
-        "number": "256B",
-        "title": "Algebraic Geometry",
-        "classId": "MATH 256B"
-      },
-      {
-        "number": "257",
-        "title": "Group Theory",
-        "classId": "MATH 257"
-      },
-      {
-        "number": "261B",
-        "title": "Lie Groups",
-        "classId": "MATH 261B"
-      },
-      {
-        "number": "273",
-        "title": "Topics in Numerical Analysis",
-        "classId": "MATH 273"
-      },
-      {
-        "number": "273I",
-        "title": "Approximation Theory",
-        "classId": "MATH 273I"
-      },
-      {
-        "number": "274",
-        "title": "Topics in Algebra",
-        "classId": "MATH 274"
-      },
-      {
-        "number": "275",
-        "title": "Topics in Applied Mathematics",
-        "classId": "MATH 275"
-      },
-      {
-        "number": "276",
-        "title": "Topics in Topology",
-        "classId": "MATH 276"
-      },
-      {
-        "number": "290",
-        "title": "Seminars",
-        "classId": "MATH 290"
-      },
-      {
-        "number": "299",
-        "title": "Reading Course for Graduate Students",
-        "classId": "MATH 299"
-      },
-      {
-        "number": "301",
-        "title": "Undergraduate Mathematics Instruction",
-        "classId": "MATH 301"
-      },
-      {
-        "number": "303",
-        "title": "Professional Preparation: Supervised Teaching of Mathematics",
-        "classId": "MATH 303"
-      },
-      {
-        "number": "32",
-        "title": "Precalculus",
-        "classId": "MATH 32"
-      },
-      {
-        "number": "375",
-        "title": "Teaching Workshop",
-        "classId": "MATH 375"
-      },
-      {
-        "number": "49",
-        "title": "Supplementary Work in Lower Division Mathematics",
-        "classId": "MATH 49"
-      },
-      {
-        "number": "53",
-        "title": "Multivariable Calculus",
-        "classId": "MATH 53"
-      },
-      {
-        "number": "54",
-        "title": "Linear Algebra and Differential Equations",
-        "classId": "MATH 54"
-      },
-      {
-        "number": "55",
-        "title": "Discrete Mathematics",
-        "classId": "MATH 55"
-      },
-      {
-        "number": "602",
-        "title": "Individual Study for Doctoral Students",
-        "classId": "MATH 602"
-      },
-      {
-        "number": "98",
-        "title": "Supervised Group Study",
-        "classId": "MATH 98"
-      },
-      {
-        "number": "99",
-        "title": "Supervised Independent Study",
-        "classId": "MATH 99"
-      },
-      {
-        "number": "999",
-        "classId": "MATH 999"
-      },
-      {
-        "number": "C218B",
-        "title": "Probability Theory",
-        "classId": "MATH C218B"
-      },
-      {
-        "number": "C223B",
-        "title": "Advanced Topics in Probablity and Stochastic Processes",
-        "classId": "MATH C223B"
-      },
-      {
-        "number": "C243",
-        "title": "Seq: Methods and Applications",
-        "classId": "MATH C243"
-      },
-      {
-        "number": "H113",
-        "title": "Honors Introduction to Abstract Algebra",
-        "classId": "MATH H113"
-      },
-      {
-        "number": "H185",
-        "title": "Honors Introduction to Complex Analysis",
-        "classId": "MATH H185"
-      },
-      {
-        "number": "H53",
-        "title": "Honors Multivariable Calculus",
-        "classId": "MATH H53"
-      }
-    ],
-    "name": "Mathematics",
-    "abbreviation": "MATH"
-  },
-  {
-    "courses": [
-      {
         "number": "109",
         "title": "Model Arab League",
         "classId": "M E STU 109"
@@ -10973,6 +10973,37 @@
     ],
     "name": "Aerospace Studies",
     "abbreviation": "AEROSPC"
+  },
+  {
+    "courses": [
+      {
+        "number": "1",
+        "title": "Leadership Laboratory",
+        "classId": "MIL SCI 1"
+      },
+      {
+        "number": "101",
+        "title": "Foundations of Leadership",
+        "classId": "MIL SCI 101"
+      },
+      {
+        "number": "132",
+        "title": "Leadership and Ethics",
+        "classId": "MIL SCI 132"
+      },
+      {
+        "number": "142",
+        "title": "Leadership in a Complex World",
+        "classId": "MIL SCI 142"
+      },
+      {
+        "number": "3",
+        "title": "Introduction to Tactical Leadership",
+        "classId": "MIL SCI 3"
+      }
+    ],
+    "name": "Military Science",
+    "abbreviation": "MIL SCI"
   },
   {
     "courses": [
@@ -11784,37 +11815,6 @@
   {
     "courses": [
       {
-        "number": "1",
-        "title": "Leadership Laboratory",
-        "classId": "MIL SCI 1"
-      },
-      {
-        "number": "101",
-        "title": "Foundations of Leadership",
-        "classId": "MIL SCI 101"
-      },
-      {
-        "number": "132",
-        "title": "Leadership and Ethics",
-        "classId": "MIL SCI 132"
-      },
-      {
-        "number": "142",
-        "title": "Leadership in a Complex World",
-        "classId": "MIL SCI 142"
-      },
-      {
-        "number": "3",
-        "title": "Introduction to Tactical Leadership",
-        "classId": "MIL SCI 3"
-      }
-    ],
-    "name": "Military Science",
-    "abbreviation": "MIL SCI"
-  },
-  {
-    "courses": [
-      {
         "number": "116B",
         "title": "Jazz Theory and Performance 2",
         "classId": "MUSIC 116B"
@@ -12454,32 +12454,6 @@
     "courses": [
       {
         "number": "100B",
-        "title": "Intermediate Modern Persian",
-        "classId": "PERSIAN 100B"
-      },
-      {
-        "number": "101B",
-        "title": "Readings in Persian Literature",
-        "classId": "PERSIAN 101B"
-      },
-      {
-        "number": "11B",
-        "title": "Reading and Composition for Persian-Speaking Students",
-        "classId": "PERSIAN 11B"
-      },
-      {
-        "number": "1B",
-        "title": "Elementary Modern Persian",
-        "classId": "PERSIAN 1B"
-      }
-    ],
-    "name": "Persian",
-    "abbreviation": "PERSIAN"
-  },
-  {
-    "courses": [
-      {
-        "number": "100B",
         "title": "Advanced Hebrew",
         "classId": "HEBREW 100B"
       },
@@ -12516,6 +12490,32 @@
     ],
     "name": "Hebrew",
     "abbreviation": "HEBREW"
+  },
+  {
+    "courses": [
+      {
+        "number": "100B",
+        "title": "Intermediate Modern Persian",
+        "classId": "PERSIAN 100B"
+      },
+      {
+        "number": "101B",
+        "title": "Readings in Persian Literature",
+        "classId": "PERSIAN 101B"
+      },
+      {
+        "number": "11B",
+        "title": "Reading and Composition for Persian-Speaking Students",
+        "classId": "PERSIAN 11B"
+      },
+      {
+        "number": "1B",
+        "title": "Elementary Modern Persian",
+        "classId": "PERSIAN 1B"
+      }
+    ],
+    "name": "Persian",
+    "abbreviation": "PERSIAN"
   },
   {
     "courses": [
@@ -13091,72 +13091,6 @@
   {
     "courses": [
       {
-        "number": "10",
-        "title": "Introduction to Peace and Conflict Studies",
-        "classId": "PACS 10"
-      },
-      {
-        "number": "100",
-        "title": "Peace Theory: Approaches and Analyses",
-        "classId": "PACS 100"
-      },
-      {
-        "number": "119",
-        "title": "Special Topics in Peace and Conflict Issues",
-        "classId": "PACS 119"
-      },
-      {
-        "number": "127",
-        "title": "Human Rights and Global Politics",
-        "classId": "PACS 127"
-      },
-      {
-        "number": "128AC",
-        "title": "Human Rights and American Cultures",
-        "classId": "PACS 128AC"
-      },
-      {
-        "number": "148AC",
-        "title": "Social Movements, Urban Histories, and the Politics of Memory",
-        "classId": "PACS 148AC"
-      },
-      {
-        "number": "154",
-        "title": "Multicultural Conflict Resolution",
-        "classId": "PACS 154"
-      },
-      {
-        "number": "190",
-        "title": "Senior Seminar",
-        "classId": "PACS 190"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Study for Upper Division Students",
-        "classId": "PACS 198"
-      },
-      {
-        "number": "94",
-        "title": "Theory and Practice of Meditation",
-        "classId": "PACS 94"
-      },
-      {
-        "number": "98",
-        "title": "Directed Group Study",
-        "classId": "PACS 98"
-      },
-      {
-        "number": "H195",
-        "title": "Senior Honors Thesis Seminar",
-        "classId": "PACS H195"
-      }
-    ],
-    "name": "Peace and Conflict Studies",
-    "abbreviation": "PACS"
-  },
-  {
-    "courses": [
-      {
         "number": "199",
         "title": "Supervised Independent Study and Research",
         "classId": "VIS SCI 199"
@@ -13254,6 +13188,72 @@
     ],
     "name": "Vision Science",
     "abbreviation": "VIS SCI"
+  },
+  {
+    "courses": [
+      {
+        "number": "10",
+        "title": "Introduction to Peace and Conflict Studies",
+        "classId": "PACS 10"
+      },
+      {
+        "number": "100",
+        "title": "Peace Theory: Approaches and Analyses",
+        "classId": "PACS 100"
+      },
+      {
+        "number": "119",
+        "title": "Special Topics in Peace and Conflict Issues",
+        "classId": "PACS 119"
+      },
+      {
+        "number": "127",
+        "title": "Human Rights and Global Politics",
+        "classId": "PACS 127"
+      },
+      {
+        "number": "128AC",
+        "title": "Human Rights and American Cultures",
+        "classId": "PACS 128AC"
+      },
+      {
+        "number": "148AC",
+        "title": "Social Movements, Urban Histories, and the Politics of Memory",
+        "classId": "PACS 148AC"
+      },
+      {
+        "number": "154",
+        "title": "Multicultural Conflict Resolution",
+        "classId": "PACS 154"
+      },
+      {
+        "number": "190",
+        "title": "Senior Seminar",
+        "classId": "PACS 190"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Study for Upper Division Students",
+        "classId": "PACS 198"
+      },
+      {
+        "number": "94",
+        "title": "Theory and Practice of Meditation",
+        "classId": "PACS 94"
+      },
+      {
+        "number": "98",
+        "title": "Directed Group Study",
+        "classId": "PACS 98"
+      },
+      {
+        "number": "H195",
+        "title": "Senior Honors Thesis Seminar",
+        "classId": "PACS H195"
+      }
+    ],
+    "name": "Peace and Conflict Studies",
+    "abbreviation": "PACS"
   },
   {
     "courses": [
@@ -13501,202 +13501,6 @@
     ],
     "name": "Physical Education",
     "abbreviation": "PHYS ED"
-  },
-  {
-    "courses": [
-      {
-        "number": "101L",
-        "title": "Experimental Plant Biology Laboratory",
-        "classId": "PLANTBI 101L"
-      },
-      {
-        "number": "11",
-        "title": "Fungi, History, and Society",
-        "classId": "PLANTBI 11"
-      },
-      {
-        "number": "120",
-        "title": "Biology of Algae",
-        "classId": "PLANTBI 120"
-      },
-      {
-        "number": "120L",
-        "title": "Laboratory for Biology of Algae",
-        "classId": "PLANTBI 120L"
-      },
-      {
-        "number": "122",
-        "title": "Bioenergy",
-        "classId": "PLANTBI 122"
-      },
-      {
-        "number": "13",
-        "title": "Genetic Revolutions",
-        "classId": "PLANTBI 13"
-      },
-      {
-        "number": "150",
-        "title": "Plant Cell Biology",
-        "classId": "PLANTBI 150"
-      },
-      {
-        "number": "160",
-        "title": "Plant Molecular Genetics",
-        "classId": "PLANTBI 160"
-      },
-      {
-        "number": "165",
-        "title": "Plant-Microbe Interactions",
-        "classId": "PLANTBI 165"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Studies in Plant Biology",
-        "classId": "PLANTBI 198"
-      },
-      {
-        "number": "199",
-        "title": "Supervised Independent Study and Research",
-        "classId": "PLANTBI 199"
-      },
-      {
-        "number": "200B",
-        "title": "Genomics and Computational Biology",
-        "classId": "PLANTBI 200B"
-      },
-      {
-        "number": "200D",
-        "title": "Plant Cell Biology",
-        "classId": "PLANTBI 200D"
-      },
-      {
-        "number": "200F",
-        "title": "Plant Systems Biology",
-        "classId": "PLANTBI 200F"
-      },
-      {
-        "number": "210",
-        "title": "Scientific Reasoning and Logic",
-        "classId": "PLANTBI 210"
-      },
-      {
-        "number": "220B",
-        "title": "Genomics and Computational Biology",
-        "classId": "PLANTBI 220B"
-      },
-      {
-        "number": "220C",
-        "title": "Microbial Diversity and Evolution",
-        "classId": "PLANTBI 220C"
-      },
-      {
-        "number": "220F",
-        "title": "Microbial Ecology",
-        "classId": "PLANTBI 220F"
-      },
-      {
-        "number": "222",
-        "title": "Biochemistry of Biofuels: Concepts and Foundations",
-        "classId": "PLANTBI 222"
-      },
-      {
-        "number": "238",
-        "title": "Readings in Environmental Microbiology",
-        "classId": "PLANTBI 238"
-      },
-      {
-        "number": "290",
-        "title": "Seminar",
-        "classId": "PLANTBI 290"
-      },
-      {
-        "number": "296",
-        "title": "Graduate Supervised Independent Study",
-        "classId": "PLANTBI 296"
-      },
-      {
-        "number": "297",
-        "title": "Grant Writing and Research Presentations",
-        "classId": "PLANTBI 297"
-      },
-      {
-        "number": "298",
-        "title": "Plant Biology Group Studies",
-        "classId": "PLANTBI 298"
-      },
-      {
-        "number": "299",
-        "title": "Graduate Research",
-        "classId": "PLANTBI 299"
-      },
-      {
-        "number": "40",
-        "title": "The (Secret) Life of Plants",
-        "classId": "PLANTBI 40"
-      },
-      {
-        "number": "98",
-        "title": "Directed Group Study",
-        "classId": "PLANTBI 98"
-      },
-      {
-        "number": "99",
-        "title": "Supervised Independent Study and Research",
-        "classId": "PLANTBI 99"
-      },
-      {
-        "number": "C103",
-        "title": "Bacterial Pathogenesis",
-        "classId": "PLANTBI C103"
-      },
-      {
-        "number": "C112L",
-        "title": "General Microbiology Laboratory",
-        "classId": "PLANTBI C112L"
-      },
-      {
-        "number": "C114",
-        "title": "Introduction to Comparative Virology",
-        "classId": "PLANTBI C114"
-      },
-      {
-        "number": "C134",
-        "title": "Chromosome Biology/Cytogenetics",
-        "classId": "PLANTBI C134"
-      },
-      {
-        "number": "C144",
-        "title": "Introduction to Protein Informatics",
-        "classId": "PLANTBI C144"
-      },
-      {
-        "number": "C144L",
-        "title": "Protein Informatics Laboratory",
-        "classId": "PLANTBI C144L"
-      },
-      {
-        "number": "C148",
-        "title": "Microbial Genomics and Genetics",
-        "classId": "PLANTBI C148"
-      },
-      {
-        "number": "C244",
-        "title": "Introduction to Protein Informatics",
-        "classId": "PLANTBI C244"
-      },
-      {
-        "number": "C244L",
-        "title": "Protein Informatics Laboratory",
-        "classId": "PLANTBI C244L"
-      },
-      {
-        "number": "H196",
-        "title": "Honors Research - Plant and Microbial Biology",
-        "classId": "PLANTBI H196"
-      }
-    ],
-    "name": "Plant and Microbial Biology",
-    "abbreviation": "PLANTBI"
   },
   {
     "courses": [
@@ -13997,6 +13801,202 @@
     ],
     "name": "Physics",
     "abbreviation": "PHYSICS"
+  },
+  {
+    "courses": [
+      {
+        "number": "101L",
+        "title": "Experimental Plant Biology Laboratory",
+        "classId": "PLANTBI 101L"
+      },
+      {
+        "number": "11",
+        "title": "Fungi, History, and Society",
+        "classId": "PLANTBI 11"
+      },
+      {
+        "number": "120",
+        "title": "Biology of Algae",
+        "classId": "PLANTBI 120"
+      },
+      {
+        "number": "120L",
+        "title": "Laboratory for Biology of Algae",
+        "classId": "PLANTBI 120L"
+      },
+      {
+        "number": "122",
+        "title": "Bioenergy",
+        "classId": "PLANTBI 122"
+      },
+      {
+        "number": "13",
+        "title": "Genetic Revolutions",
+        "classId": "PLANTBI 13"
+      },
+      {
+        "number": "150",
+        "title": "Plant Cell Biology",
+        "classId": "PLANTBI 150"
+      },
+      {
+        "number": "160",
+        "title": "Plant Molecular Genetics",
+        "classId": "PLANTBI 160"
+      },
+      {
+        "number": "165",
+        "title": "Plant-Microbe Interactions",
+        "classId": "PLANTBI 165"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Studies in Plant Biology",
+        "classId": "PLANTBI 198"
+      },
+      {
+        "number": "199",
+        "title": "Supervised Independent Study and Research",
+        "classId": "PLANTBI 199"
+      },
+      {
+        "number": "200B",
+        "title": "Genomics and Computational Biology",
+        "classId": "PLANTBI 200B"
+      },
+      {
+        "number": "200D",
+        "title": "Plant Cell Biology",
+        "classId": "PLANTBI 200D"
+      },
+      {
+        "number": "200F",
+        "title": "Plant Systems Biology",
+        "classId": "PLANTBI 200F"
+      },
+      {
+        "number": "210",
+        "title": "Scientific Reasoning and Logic",
+        "classId": "PLANTBI 210"
+      },
+      {
+        "number": "220B",
+        "title": "Genomics and Computational Biology",
+        "classId": "PLANTBI 220B"
+      },
+      {
+        "number": "220C",
+        "title": "Microbial Diversity and Evolution",
+        "classId": "PLANTBI 220C"
+      },
+      {
+        "number": "220F",
+        "title": "Microbial Ecology",
+        "classId": "PLANTBI 220F"
+      },
+      {
+        "number": "222",
+        "title": "Biochemistry of Biofuels: Concepts and Foundations",
+        "classId": "PLANTBI 222"
+      },
+      {
+        "number": "238",
+        "title": "Readings in Environmental Microbiology",
+        "classId": "PLANTBI 238"
+      },
+      {
+        "number": "290",
+        "title": "Seminar",
+        "classId": "PLANTBI 290"
+      },
+      {
+        "number": "296",
+        "title": "Graduate Supervised Independent Study",
+        "classId": "PLANTBI 296"
+      },
+      {
+        "number": "297",
+        "title": "Grant Writing and Research Presentations",
+        "classId": "PLANTBI 297"
+      },
+      {
+        "number": "298",
+        "title": "Plant Biology Group Studies",
+        "classId": "PLANTBI 298"
+      },
+      {
+        "number": "299",
+        "title": "Graduate Research",
+        "classId": "PLANTBI 299"
+      },
+      {
+        "number": "40",
+        "title": "The (Secret) Life of Plants",
+        "classId": "PLANTBI 40"
+      },
+      {
+        "number": "98",
+        "title": "Directed Group Study",
+        "classId": "PLANTBI 98"
+      },
+      {
+        "number": "99",
+        "title": "Supervised Independent Study and Research",
+        "classId": "PLANTBI 99"
+      },
+      {
+        "number": "C103",
+        "title": "Bacterial Pathogenesis",
+        "classId": "PLANTBI C103"
+      },
+      {
+        "number": "C112L",
+        "title": "General Microbiology Laboratory",
+        "classId": "PLANTBI C112L"
+      },
+      {
+        "number": "C114",
+        "title": "Introduction to Comparative Virology",
+        "classId": "PLANTBI C114"
+      },
+      {
+        "number": "C134",
+        "title": "Chromosome Biology/Cytogenetics",
+        "classId": "PLANTBI C134"
+      },
+      {
+        "number": "C144",
+        "title": "Introduction to Protein Informatics",
+        "classId": "PLANTBI C144"
+      },
+      {
+        "number": "C144L",
+        "title": "Protein Informatics Laboratory",
+        "classId": "PLANTBI C144L"
+      },
+      {
+        "number": "C148",
+        "title": "Microbial Genomics and Genetics",
+        "classId": "PLANTBI C148"
+      },
+      {
+        "number": "C244",
+        "title": "Introduction to Protein Informatics",
+        "classId": "PLANTBI C244"
+      },
+      {
+        "number": "C244L",
+        "title": "Protein Informatics Laboratory",
+        "classId": "PLANTBI C244L"
+      },
+      {
+        "number": "H196",
+        "title": "Honors Research - Plant and Microbial Biology",
+        "classId": "PLANTBI H196"
+      }
+    ],
+    "name": "Plant and Microbial Biology",
+    "abbreviation": "PLANTBI"
   },
   {
     "courses": [
@@ -14609,122 +14609,6 @@
   {
     "courses": [
       {
-        "number": "101",
-        "title": "Introduction to Public Policy Analysis",
-        "classId": "PUB POL 101"
-      },
-      {
-        "number": "117AC",
-        "title": "Race, Ethnicity, and Public Policy",
-        "classId": "PUB POL 117AC"
-      },
-      {
-        "number": "179",
-        "title": "Public Budgeting",
-        "classId": "PUB POL 179"
-      },
-      {
-        "number": "190",
-        "title": "Special Topics in Public Policy",
-        "classId": "PUB POL 190"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Study",
-        "classId": "PUB POL 198"
-      },
-      {
-        "number": "200",
-        "title": "Introduction to Policy Analysis",
-        "classId": "PUB POL 200"
-      },
-      {
-        "number": "205",
-        "title": "Advanced Policy Analysis",
-        "classId": "PUB POL 205"
-      },
-      {
-        "number": "210B",
-        "title": "The Economics of Public Policy Analysis",
-        "classId": "PUB POL 210B"
-      },
-      {
-        "number": "240B",
-        "title": "Decision Analysis, Modeling, and Quantitative Methods",
-        "classId": "PUB POL 240B"
-      },
-      {
-        "number": "269",
-        "title": "Public Budgeting",
-        "classId": "PUB POL 269"
-      },
-      {
-        "number": "270",
-        "title": "Kid-First Policy: Family, School, and Community",
-        "classId": "PUB POL 270"
-      },
-      {
-        "number": "290",
-        "title": "Special Topics in Public Policy",
-        "classId": "PUB POL 290"
-      },
-      {
-        "number": "296",
-        "title": "Ph.D. Seminar",
-        "classId": "PUB POL 296"
-      },
-      {
-        "number": "297",
-        "title": "Graduate Student Led Course in Public Policy",
-        "classId": "PUB POL 297"
-      },
-      {
-        "number": "298",
-        "title": "Directed Advanced Study",
-        "classId": "PUB POL 298"
-      },
-      {
-        "number": "299",
-        "title": "Independent Study in Preparation for the Advanced Policy Analysis",
-        "classId": "PUB POL 299"
-      },
-      {
-        "number": "375",
-        "title": "GSI Practicum",
-        "classId": "PUB POL 375"
-      },
-      {
-        "number": "98",
-        "title": "Group Study in Public Policy",
-        "classId": "PUB POL 98"
-      },
-      {
-        "number": "C103",
-        "title": "Wealth and Poverty",
-        "classId": "PUB POL C103"
-      },
-      {
-        "number": "C142",
-        "title": "Applied Econometrics and Public Policy",
-        "classId": "PUB POL C142"
-      },
-      {
-        "number": "C157",
-        "title": "Arts and Cultural Policy",
-        "classId": "PUB POL C157"
-      },
-      {
-        "number": "C285",
-        "title": "Nuclear Security: The Nexus Between Policy and Technology",
-        "classId": "PUB POL C285"
-      }
-    ],
-    "name": "Public Policy",
-    "abbreviation": "PUB POL"
-  },
-  {
-    "courses": [
-      {
         "number": "104B",
         "title": "Health Promotion in a College Setting",
         "classId": "PB HLTH 104B"
@@ -15211,6 +15095,122 @@
   {
     "courses": [
       {
+        "number": "101",
+        "title": "Introduction to Public Policy Analysis",
+        "classId": "PUB POL 101"
+      },
+      {
+        "number": "117AC",
+        "title": "Race, Ethnicity, and Public Policy",
+        "classId": "PUB POL 117AC"
+      },
+      {
+        "number": "179",
+        "title": "Public Budgeting",
+        "classId": "PUB POL 179"
+      },
+      {
+        "number": "190",
+        "title": "Special Topics in Public Policy",
+        "classId": "PUB POL 190"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Study",
+        "classId": "PUB POL 198"
+      },
+      {
+        "number": "200",
+        "title": "Introduction to Policy Analysis",
+        "classId": "PUB POL 200"
+      },
+      {
+        "number": "205",
+        "title": "Advanced Policy Analysis",
+        "classId": "PUB POL 205"
+      },
+      {
+        "number": "210B",
+        "title": "The Economics of Public Policy Analysis",
+        "classId": "PUB POL 210B"
+      },
+      {
+        "number": "240B",
+        "title": "Decision Analysis, Modeling, and Quantitative Methods",
+        "classId": "PUB POL 240B"
+      },
+      {
+        "number": "269",
+        "title": "Public Budgeting",
+        "classId": "PUB POL 269"
+      },
+      {
+        "number": "270",
+        "title": "Kid-First Policy: Family, School, and Community",
+        "classId": "PUB POL 270"
+      },
+      {
+        "number": "290",
+        "title": "Special Topics in Public Policy",
+        "classId": "PUB POL 290"
+      },
+      {
+        "number": "296",
+        "title": "Ph.D. Seminar",
+        "classId": "PUB POL 296"
+      },
+      {
+        "number": "297",
+        "title": "Graduate Student Led Course in Public Policy",
+        "classId": "PUB POL 297"
+      },
+      {
+        "number": "298",
+        "title": "Directed Advanced Study",
+        "classId": "PUB POL 298"
+      },
+      {
+        "number": "299",
+        "title": "Independent Study in Preparation for the Advanced Policy Analysis",
+        "classId": "PUB POL 299"
+      },
+      {
+        "number": "375",
+        "title": "GSI Practicum",
+        "classId": "PUB POL 375"
+      },
+      {
+        "number": "98",
+        "title": "Group Study in Public Policy",
+        "classId": "PUB POL 98"
+      },
+      {
+        "number": "C103",
+        "title": "Wealth and Poverty",
+        "classId": "PUB POL C103"
+      },
+      {
+        "number": "C142",
+        "title": "Applied Econometrics and Public Policy",
+        "classId": "PUB POL C142"
+      },
+      {
+        "number": "C157",
+        "title": "Arts and Cultural Policy",
+        "classId": "PUB POL C157"
+      },
+      {
+        "number": "C285",
+        "title": "Nuclear Security: The Nexus Between Policy and Technology",
+        "classId": "PUB POL C285"
+      }
+    ],
+    "name": "Public Policy",
+    "abbreviation": "PUB POL"
+  },
+  {
+    "courses": [
+      {
         "number": "173AC",
         "title": "Gandhi and the Civil Rights Movement in America",
         "classId": "RELIGST 173AC"
@@ -15620,6 +15620,17 @@
   {
     "courses": [
       {
+        "number": "C250",
+        "title": "Science and Technology Studies Research Seminar",
+        "classId": "STS C250"
+      }
+    ],
+    "name": "Science and Technology Studies",
+    "abbreviation": "STS"
+  },
+  {
+    "courses": [
+      {
         "number": "1",
         "title": "Elementary Russian",
         "classId": "SLAVIC 1"
@@ -15832,17 +15843,6 @@
     ],
     "name": "Slavic Languages and Literatures",
     "abbreviation": "SLAVIC"
-  },
-  {
-    "courses": [
-      {
-        "number": "C250",
-        "title": "Science and Technology Studies Research Seminar",
-        "classId": "STS C250"
-      }
-    ],
-    "name": "Science and Technology Studies",
-    "abbreviation": "STS"
   },
   {
     "courses": [
@@ -16461,47 +16461,6 @@
   {
     "courses": [
       {
-        "number": "124",
-        "title": "Modern Indian Literature",
-        "classId": "S ASIAN 124"
-      },
-      {
-        "number": "144",
-        "title": "Islam in South Asia",
-        "classId": "S ASIAN 144"
-      },
-      {
-        "number": "1B",
-        "title": "Introduction to the Civilization of Medieval and Modern India",
-        "classId": "S ASIAN 1B"
-      },
-      {
-        "number": "C142",
-        "title": "India's Great Epics: The Mahabharata and the Ramayana",
-        "classId": "S ASIAN C142"
-      },
-      {
-        "number": "C215B",
-        "title": "Readings in Indian Buddhist Texts",
-        "classId": "S ASIAN C215B"
-      },
-      {
-        "number": "C224",
-        "title": "Readings in Tibetan Buddhist Texts",
-        "classId": "S ASIAN C224"
-      },
-      {
-        "number": "R5B",
-        "title": "India in the Writer's Eye",
-        "classId": "S ASIAN R5B"
-      }
-    ],
-    "name": "South Asian",
-    "abbreviation": "S ASIAN"
-  },
-  {
-    "courses": [
-      {
         "number": "190",
         "title": "Seminar in South and Southeast Asian Studies",
         "classId": "S,SEASN 190"
@@ -16728,6 +16687,47 @@
   {
     "courses": [
       {
+        "number": "124",
+        "title": "Modern Indian Literature",
+        "classId": "S ASIAN 124"
+      },
+      {
+        "number": "144",
+        "title": "Islam in South Asia",
+        "classId": "S ASIAN 144"
+      },
+      {
+        "number": "1B",
+        "title": "Introduction to the Civilization of Medieval and Modern India",
+        "classId": "S ASIAN 1B"
+      },
+      {
+        "number": "C142",
+        "title": "India's Great Epics: The Mahabharata and the Ramayana",
+        "classId": "S ASIAN C142"
+      },
+      {
+        "number": "C215B",
+        "title": "Readings in Indian Buddhist Texts",
+        "classId": "S ASIAN C215B"
+      },
+      {
+        "number": "C224",
+        "title": "Readings in Tibetan Buddhist Texts",
+        "classId": "S ASIAN C224"
+      },
+      {
+        "number": "R5B",
+        "title": "India in the Writer's Eye",
+        "classId": "S ASIAN R5B"
+      }
+    ],
+    "name": "South Asian",
+    "abbreviation": "S ASIAN"
+  },
+  {
+    "courses": [
+      {
         "number": "10B",
         "title": "Introduction to the Civilization of Southeast Asia",
         "classId": "SEASIAN 10B"
@@ -16756,6 +16756,27 @@
     ],
     "name": "Bengali",
     "abbreviation": "BANGLA"
+  },
+  {
+    "courses": [
+      {
+        "number": "100B",
+        "title": "Intermediate Filipino",
+        "classId": "FILIPN 100B"
+      },
+      {
+        "number": "101B",
+        "title": "Advanced Filipino",
+        "classId": "FILIPN 101B"
+      },
+      {
+        "number": "1B",
+        "title": "Introductory Filipino",
+        "classId": "FILIPN 1B"
+      }
+    ],
+    "name": "Filipino",
+    "abbreviation": "FILIPN"
   },
   {
     "courses": [
@@ -16802,27 +16823,6 @@
     "courses": [
       {
         "number": "100B",
-        "title": "Intermediate Filipino",
-        "classId": "FILIPN 100B"
-      },
-      {
-        "number": "101B",
-        "title": "Advanced Filipino",
-        "classId": "FILIPN 101B"
-      },
-      {
-        "number": "1B",
-        "title": "Introductory Filipino",
-        "classId": "FILIPN 1B"
-      }
-    ],
-    "name": "Filipino",
-    "abbreviation": "FILIPN"
-  },
-  {
-    "courses": [
-      {
-        "number": "100B",
         "title": "Intermediate Khmer",
         "classId": "KHMER 100B"
       },
@@ -16844,22 +16844,6 @@
     "courses": [
       {
         "number": "100B",
-        "title": "Intermediate Punjabi",
-        "classId": "PUNJABI 100B"
-      },
-      {
-        "number": "1B",
-        "title": "Introductory Punjabi",
-        "classId": "PUNJABI 1B"
-      }
-    ],
-    "name": "Punjabi",
-    "abbreviation": "PUNJABI"
-  },
-  {
-    "courses": [
-      {
-        "number": "100B",
         "title": "Intermediate Indonesian",
         "classId": "MALAY/I 100B"
       },
@@ -16876,6 +16860,22 @@
     ],
     "name": "Malay/Indonesian",
     "abbreviation": "MALAY/I"
+  },
+  {
+    "courses": [
+      {
+        "number": "100B",
+        "title": "Intermediate Punjabi",
+        "classId": "PUNJABI 100B"
+      },
+      {
+        "number": "1B",
+        "title": "Introductory Punjabi",
+        "classId": "PUNJABI 1B"
+      }
+    ],
+    "name": "Punjabi",
+    "abbreviation": "PUNJABI"
   },
   {
     "courses": [
@@ -17171,17 +17171,6 @@
   {
     "courses": [
       {
-        "number": "101",
-        "title": "Catalan for Advanced Students",
-        "classId": "CATALAN 101"
-      }
-    ],
-    "name": "Catalan",
-    "abbreviation": "CATALAN"
-  },
-  {
-    "courses": [
-      {
         "number": "101A",
         "title": "Portuguese for Advanced Students",
         "classId": "PORTUG 101A"
@@ -17249,6 +17238,17 @@
     ],
     "name": "Portuguese",
     "abbreviation": "PORTUG"
+  },
+  {
+    "courses": [
+      {
+        "number": "101",
+        "title": "Catalan for Advanced Students",
+        "classId": "CATALAN 101"
+      }
+    ],
+    "name": "Catalan",
+    "abbreviation": "CATALAN"
   },
   {
     "courses": [
@@ -17425,102 +17425,6 @@
     ],
     "name": "Statistics",
     "abbreviation": "STAT"
-  },
-  {
-    "courses": [
-      {
-        "number": "112",
-        "title": "Women and Disability",
-        "classId": "UGIS 112"
-      },
-      {
-        "number": "140",
-        "title": "The Hand-Printed Book in Its Historical Context",
-        "classId": "UGIS 140"
-      },
-      {
-        "number": "156",
-        "title": "Human Rights Interdisciplinary Minor Capstone Workshop",
-        "classId": "UGIS 156"
-      },
-      {
-        "number": "162K",
-        "title": "Spies! The Politics of Intelligence",
-        "classId": "UGIS 162K"
-      },
-      {
-        "number": "187",
-        "title": "Project-Based Instruction",
-        "classId": "UGIS 187"
-      },
-      {
-        "number": "188",
-        "title": "Research Methods for Science and Mathematics K-12 Teachers",
-        "classId": "UGIS 188"
-      },
-      {
-        "number": "192A",
-        "title": "Humanities",
-        "classId": "UGIS 192A"
-      },
-      {
-        "number": "192B",
-        "title": "Social Sciences",
-        "classId": "UGIS 192B"
-      },
-      {
-        "number": "192C",
-        "title": "Biological Sciences",
-        "classId": "UGIS 192C"
-      },
-      {
-        "number": "192D",
-        "title": "Physical Sciences",
-        "classId": "UGIS 192D"
-      },
-      {
-        "number": "192E",
-        "title": "Interdisciplinary Studies",
-        "classId": "UGIS 192E"
-      },
-      {
-        "number": "303",
-        "title": "Apprentice Teaching in Science and Mathematics",
-        "classId": "UGIS 303"
-      },
-      {
-        "number": "80A",
-        "title": "It's Elementary! Exploring Science with Young Students",
-        "classId": "UGIS 80A"
-      },
-      {
-        "number": "80B",
-        "title": "It's Elementary! Exploring Math with Young Students",
-        "classId": "UGIS 80B"
-      },
-      {
-        "number": "81A",
-        "title": "Teaching Science with Middle School Students",
-        "classId": "UGIS 81A"
-      },
-      {
-        "number": "81B",
-        "title": "Teaching Math with Middle School Students",
-        "classId": "UGIS 81B"
-      },
-      {
-        "number": "82",
-        "title": "K-8 Teaching and Inquiry-Based Lesson Design in the Science and M",
-        "classId": "UGIS 82"
-      },
-      {
-        "number": "98",
-        "title": "Directed Group Study for Lower Division Students",
-        "classId": "UGIS 98"
-      }
-    ],
-    "name": "Undergrad Interdisciplinary Studies",
-    "abbreviation": "UGIS"
   },
   {
     "courses": [
@@ -17762,5 +17666,101 @@
     ],
     "name": "Theater, Dance, and Performance St",
     "abbreviation": "THEATER"
+  },
+  {
+    "courses": [
+      {
+        "number": "112",
+        "title": "Women and Disability",
+        "classId": "UGIS 112"
+      },
+      {
+        "number": "140",
+        "title": "The Hand-Printed Book in Its Historical Context",
+        "classId": "UGIS 140"
+      },
+      {
+        "number": "156",
+        "title": "Human Rights Interdisciplinary Minor Capstone Workshop",
+        "classId": "UGIS 156"
+      },
+      {
+        "number": "162K",
+        "title": "Spies! The Politics of Intelligence",
+        "classId": "UGIS 162K"
+      },
+      {
+        "number": "187",
+        "title": "Project-Based Instruction",
+        "classId": "UGIS 187"
+      },
+      {
+        "number": "188",
+        "title": "Research Methods for Science and Mathematics K-12 Teachers",
+        "classId": "UGIS 188"
+      },
+      {
+        "number": "192A",
+        "title": "Humanities",
+        "classId": "UGIS 192A"
+      },
+      {
+        "number": "192B",
+        "title": "Social Sciences",
+        "classId": "UGIS 192B"
+      },
+      {
+        "number": "192C",
+        "title": "Biological Sciences",
+        "classId": "UGIS 192C"
+      },
+      {
+        "number": "192D",
+        "title": "Physical Sciences",
+        "classId": "UGIS 192D"
+      },
+      {
+        "number": "192E",
+        "title": "Interdisciplinary Studies",
+        "classId": "UGIS 192E"
+      },
+      {
+        "number": "303",
+        "title": "Apprentice Teaching in Science and Mathematics",
+        "classId": "UGIS 303"
+      },
+      {
+        "number": "80A",
+        "title": "It's Elementary! Exploring Science with Young Students",
+        "classId": "UGIS 80A"
+      },
+      {
+        "number": "80B",
+        "title": "It's Elementary! Exploring Math with Young Students",
+        "classId": "UGIS 80B"
+      },
+      {
+        "number": "81A",
+        "title": "Teaching Science with Middle School Students",
+        "classId": "UGIS 81A"
+      },
+      {
+        "number": "81B",
+        "title": "Teaching Math with Middle School Students",
+        "classId": "UGIS 81B"
+      },
+      {
+        "number": "82",
+        "title": "K-8 Teaching and Inquiry-Based Lesson Design in the Science and M",
+        "classId": "UGIS 82"
+      },
+      {
+        "number": "98",
+        "title": "Directed Group Study for Lower Division Students",
+        "classId": "UGIS 98"
+      }
+    ],
+    "name": "Undergrad Interdisciplinary Studies",
+    "abbreviation": "UGIS"
   }
 ]

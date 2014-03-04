@@ -9,7 +9,7 @@ var fs = require('fs')
 
 var output = [];
 
-// Build section UIDs.
+// Build section UIDs and enrollment.
 var progress = 0;
 _.each(departments, function(dept) {
   _.each(dept.courses, function(course) {
