@@ -1,8 +1,3 @@
-
-/*
- * GET listing of all courses from schedule.berkeley.edu
- */
-
 var fs = require('fs')
   , path = require('path')
 
