@@ -9,6 +9,7 @@ This repository also contains all the data dumps of classes and sections to init
 
 # Data-dumping
 ```bash
+cd src
 foreman run node load-courses.js
 foreman run node canonify-names.js
 foreman run node load-sections.js # This one is REEAAAAALLY slow
