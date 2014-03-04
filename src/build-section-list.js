@@ -1,7 +1,6 @@
 var fs = require('fs')
   , path = require('path')
 
-  , config = require(path.join('..', 'config'))
   , departments = require(path.join('..', 'data', 'sections'));
 
 var output = [];

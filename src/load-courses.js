@@ -9,7 +9,7 @@ var fs = require('fs')
   , cheerio = require('cheerio')
   , request = require('request')
 
-  , config = require(path.join('..', 'config'))
+  , config = process.env
   , term = config.semester;
 
 var url = 'http://osoc.berkeley.edu/OSOC/osoc?p_term=' + term + '&p_list_all=Y'

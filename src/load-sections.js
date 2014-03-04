@@ -4,7 +4,7 @@ var fs = require('fs')
   , cheerio = require('cheerio')
   , request = require('request')
 
-  , config = require(path.join('..', 'config'))
+  , config = process.env
   , semester = config.semester
   , year = config.year;
 
