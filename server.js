@@ -2,14 +2,13 @@
 
 var path = require('path')
   , url = require('url')
-
-  , Child = require('intercom').EventChild
+  , fork = require('child_process').fork
 
   , restify = require('restify')
   , bunyan = require('bunyan')
 
+  , _ = require('underscore')
   , TOTP = require('onceler').TOTP
-
   , request = require('request')
 
   , config = process.env
@@ -38,8 +37,10 @@ server.on('after', restify.auditLogger({
 }));
 
 var totp = new TOTP(key)
-  , enrollment_monitor = new Child('.' + path.sep + path.join('src', 'poll-enrollment'))
-  , section_monitor = new Child('.' + path.sep + path.join('src', 'poll-sections'));
+  , enrollment_monitor = fork(path.join(__dirname, 'src', 'poll-enrollment'), {
+    cwd: path.join(__dirname, 'src'),
+    env: process.env
+  });
 
 server.get('/poll/:key/:ccn', function(req, res, next) {
   // if (!totp.verify(req.params.key)) {
@@ -47,34 +48,27 @@ server.get('/poll/:key/:ccn', function(req, res, next) {
   // }
 
   console.log('[DEBUG] Assigning child to watch', req.params.ccn);
-  enrollment_monitor.emit('watch', req.params.ccn);
+  enrollment_monitor.send({
+    name: 'watch',
+    message: req.params.ccn
+  });
 
   res.send(200, {
     success: true
   });
 });
 
-enrollment_monitor.on('change', function(ccn, enrollment, waitlist) {
-  console.log('[DEBUG] Enrollment change detected for', ccn);
-
-  var url = url.resolve(app_url, totp.now());
-  url = url.resolve(url, [
-    ccn,
-    enrollment.current,
-    enrollment.limit,
-    waitlist.current,
-    waitlist.limit
-  ].join(':'));
-
-  request.post(url, function(err, res, body) {
-    if (err) {
-      console.error('[ERROR] API connection error', url, err);
-    }
-  });
-});
-
-enrollment_monitor.on('stdout', function(txt) {
-  console.log(txt);
+enrollment_monitor.on('message', function(m) {
+  if (m.name == 'change') {
+    console.log('[DEBUG] Received diff', m.message);
+    var request_url = path.join(app_url, '' + totp.now(), _.values(m.message).join('/'));
+    request(request_url, function(err, res, body) {
+      if (err) {
+        return console.error('[ERROR] API connection error to', request_url, err);
+      }
+      console.log(_.values(m.message));
+    });
+  }
 });
 
 server.listen(port || 2713);

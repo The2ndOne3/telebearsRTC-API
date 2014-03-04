@@ -3,56 +3,85 @@ var path = require('path')
   , _ = require('underscore')
   , q = require('q')
 
-  , get = require(path.join('..', 'lib', 'get'));
+  // , get = require(path.join(__dirname, 'get'));
 
-var sections = {};
+var count = 0;
+var get = {
+  enrollment: function(ccn, callback) {
+    count++;
 
-process.parent.on('watch', function(ccn) {
-  sections[ccn] = {};
-  process.parent.emit('change');
-  console.log('[DEBUG] Watching', ccn);
+    if (count > 4) {
+      return callback(null, 
+      {
+        ccn: '557',
+        enroll: 2,
+        enrollLimit: 10,
+        waitlist: 0,
+        waitlistLimit: 10
+      });
+    }
+
+    callback(null, 
+      {
+        ccn: '557',
+        enroll: 0,
+        enrollLimit: 10,
+        waitlist: 0,
+        waitlistLimit: 10
+      });
+  }
+};
+
+process.on('message', function(m) {
+  if (m.name == 'watch' && !_.has(sections, m.message)) {
+    console.log('[DEBUG] Received watch assignment from parent', m.message);
+    sections[m.message] = {};
+  }
 });
 
-while (true) {
+var sections = {}
+  , lock = false;
+
+var poll = function() {
+  if (lock) {
+    return;
+  }
+  lock = true;
+
   // Fire all requests.
-  q.all(_.keys(sections).map(function(section, ccn) {
+  q.all(_.keys(sections).map(function(ccn) {
     var d = q.defer();
 
     get.enrollment(ccn, function(err, result) {
       if (err) {
         console.error('[ERROR] Could not load enrollment for', ccn, err);
-        q.resolve(section);
+        d.resolve(sections[ccn]);
       }
 
-      q.resolve({
-        ccn: ccn,
-        enrollment: {
-          current: result.enroll,
-          limit: result.enrollLimit,
-        },
-        waitlist: {
-          current: result.waitlist,
-          limit: result.waitlistLimit,
-        }
-      });
+      result.ccn = ccn;
+      d.resolve(result);
     });
 
     return d.promise;
   }))
   // Compute diffs.
   .then(function(results) {
+    console.log('[DEBUG] Results', results);
+    console.log('[DEBUG] Previous', sections);
+    console.log('---');
     var diffs = [];
 
     _.each(results, function(result) {
       var prev = sections[result.ccn];
-      if (prev.enrollment === undefined || prev.waitlist === undefined) {
+      if (prev.enroll === undefined || prev.waitlist === undefined) {
+        sections[result.ccn] = result;
         return;
       }
-      if (prev.enrollment.current != result.enrollment.current ||
-          prev.enrollment.limit != result.enrollment.limit ||
-          prev.waitlist.current != result.waitlist.current ||
-          prev.waitlist.limit != result.waitlist.limit) {
-        prev.enrollment = result.enrollment;
+      if (prev.enroll != result.enroll ||
+          prev.enrollLimit != result.enrollLimit ||
+          prev.waitlist != result.waitlist ||
+          prev.waitlistLimit != result.waitlistLimit) {
+        prev.enroll = result.enroll;
         prev.waitlist = result.waitlist;
         diffs.push(result);
       }
@@ -62,14 +91,17 @@ while (true) {
   })
   // Alert parent.
   .then(function(diffs) {
+    console.log('[DEBUG] Diffs', diffs);
     if (diffs.length > 0) {
       _.each(diffs, function(diff) {
-        process.parent.emit('change',
-          diff.ccn,
-          diff.enrollment,
-          diff.waitlist
-        );
+        process.send({
+          name: 'change',
+          message: diff
+        });
       });
     }
+    lock = false;
   }).done();
-}
+};
+
+setInterval(poll, 1 * 1000);
