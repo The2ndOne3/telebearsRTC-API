@@ -12,8 +12,8 @@ This repository also contains all the data dumps of classes and sections to init
 cd src
 foreman run node load-courses.js
 foreman run node load-names.js
-foreman run node load-sections.js # This one is REEAAAAALLY slow
-foreman run node load-enrollment.js
+foreman run node load-sections.js # This takes on the order of 6 minutes
+foreman run node load-enrollment.js # This takes on the order of 20 minutes
 ```
 
 # Notes

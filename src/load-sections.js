@@ -9,15 +9,16 @@ var fs = require('fs')
 
 var load_sections = function(dept, course, d) {
   get.sections(dept.abbreviation, course.number, function(err, result) {
-    count++;
+    progress++;
     if (err) {
       console.error('[ERROR] CLASS:', dept.abbreviation, course.number, err);
       console.error('TRYING AGAIN...');
+      progress--;
       return load_sections(dept, course, d);
     }
 
-    if (count % 100 === 0) {
-      console.log(count + ' sections loaded.');
+    if (progress % 100 === 0) {
+      console.log(progress + ' sections loaded.');
     }
 
     course.sections = result;
@@ -25,7 +26,7 @@ var load_sections = function(dept, course, d) {
   });
 };
 
-var promises = [], count = 0;
+var promises = [], progress = 0;
 _.each(departments, function(dept) {
   _.each(dept.courses, function(course) {
     var d = q.defer();

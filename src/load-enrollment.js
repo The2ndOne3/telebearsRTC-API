@@ -9,49 +9,45 @@ var fs = require('fs')
 
 var output = [];
 
+var load_enrollment = function(dept, course, section, d) {
+  get.enrollment(section.ccn, function(err, result) {
+    progress++;
+    if (progress % 100 === 0) {
+      console.log(progress + ' sections loaded.');
+    }
+
+    section.classId = [dept.abbreviation, course.number].join(' ');
+
+    if (err) {
+      console.error('[ERROR] COURSE:', dept.abbreviation, course.number, err);
+      console.error('TRYING AGAIN...');
+      progress--;
+      return _.delay(load_enrollment, 500, dept, course, d);
+    }
+
+    section.enrollment = {
+      current: result.enroll,
+      limit: result.enrollLimit,
+    };
+    section.waitlist = {
+      current: result.waitlist,
+      limit: result.waitlistLimit,
+    };
+
+    d.resolve(section);
+  });
+};
+
 // Build section UIDs and enrollment.
 var progress = 0;
 _.each(departments, function(dept) {
   _.each(dept.courses, function(course) {
     _.each(course.sections, function(section) {
-      var defer = q.defer();
+      var d = q.defer();
 
-      get.enrollment(section.ccn, function(err, result) {
-        progress++;
-        if (progress % 100 === 0) {
-          console.log(progress + ' sections loaded.');
-        }
+      load_enrollment(dept, course, section, d);
 
-        section.classId = [dept.abbreviation, course.number].join(' ');
-
-        if (err) {
-          console.error('[ERROR] COURSE:', dept.abbreviation, course.number, err);
-
-          section.enrollment = {
-            current: 0,
-            limit: 0
-          };
-          section.waitlist = {
-            current: 0,
-            limit: 0
-          };
-
-          return defer.resolve(section);
-        }
-
-        section.enrollment = {
-          current: result.enroll,
-          limit: result.enrollLimit,
-        };
-        section.waitlist = {
-          current: result.waitlist,
-          limit: result.waitlistLimit,
-        };
-
-        return defer.resolve(section);
-      });
-
-      output.push(defer.promise);
+      output.push(d.promise);
     });
   });
 });
