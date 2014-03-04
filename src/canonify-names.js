@@ -47,7 +47,7 @@ for(var i = 0; i < departments.length; i++) {
   
       // The 2 we skipped.
       if (itr == departments.length - 2) {
-        fs.writeFile(path.join('..', 'data', 'departments-2.json'), JSON.stringify(departments, null, '  '), {encoding: 'utf8'}, function(err) {
+        fs.writeFile(path.join(__dirname, '..', 'data', 'departments-named.json'), JSON.stringify(departments, null, '  '), {encoding: 'utf8'}, function(err) {
           console.log('course names saved');
           if(err){
             console.log('FS error:', err);

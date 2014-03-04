@@ -2,16 +2,6 @@
   {
     "courses": [
       {
-        "number": "299",
-        "title": "Research in Agricultural and Environmental Chemistry"
-      }
-    ],
-    "name": "Agricultural and Environ Chemistry",
-    "abbreviation": "AGR CHM"
-  },
-  {
-    "courses": [
-      {
         "number": "10B",
         "title": "Intermediate Swahili"
       },
@@ -174,122 +164,12 @@
   {
     "courses": [
       {
-        "number": "202",
-        "title": "Issues and Concepts in Agricultural Economics"
-      },
-      {
-        "number": "212",
-        "title": "Econometrics: Multiple Equation Estimation"
-      },
-      {
-        "number": "242",
-        "title": "Quantitative Policy Analysis"
-      },
-      {
-        "number": "262",
-        "title": "Non-market Valuation"
-      },
-      {
-        "number": "264",
-        "title": "Empirical Energy and Environmental Economics"
-      },
-      {
-        "number": "298",
-        "title": "Special Study for Graduate Students"
-      },
-      {
         "number": "299",
-        "title": "Individual Research"
-      },
-      {
-        "number": "375",
-        "title": "Professional Preparation: Teaching of Environmental Economics and"
-      },
-      {
-        "number": "400",
-        "title": "Professional Training in Research Methodology"
-      },
-      {
-        "number": "602",
-        "title": "Individual Study for Doctoral Students"
+        "title": "Research in Agricultural and Environmental Chemistry"
       }
     ],
-    "name": "Agricultural and Resource Economics",
-    "abbreviation": "A,RESEC"
-  },
-  {
-    "courses": [
-      {
-        "number": "100",
-        "title": "Microeconomic Theory with Application to Natural Resources"
-      },
-      {
-        "number": "142",
-        "title": "Industrial Organization with Applications to Agriculture and Natu"
-      },
-      {
-        "number": "147",
-        "title": "Regulation of Energy and the Environment"
-      },
-      {
-        "number": "153",
-        "title": "Population, Environment, and Development"
-      },
-      {
-        "number": "154",
-        "title": "Economics of Poverty and Technology"
-      },
-      {
-        "number": "162",
-        "title": "Economics of Water Resources"
-      },
-      {
-        "number": "195",
-        "title": "Senior Thesis"
-      },
-      {
-        "number": "197",
-        "title": "Field Study in Environmental Economics and Policy"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Studies for Advanced Undergraduates"
-      },
-      {
-        "number": "199",
-        "title": "Supervised Independent Study and Research"
-      },
-      {
-        "number": "C1",
-        "title": "Introduction to Environmental Economics and Policy"
-      },
-      {
-        "number": "C101",
-        "title": "Environmental Economics"
-      },
-      {
-        "number": "C118",
-        "title": "Introductory Applied Econometrics"
-      },
-      {
-        "number": "C180",
-        "title": "Ecological Economics in Historical Context"
-      },
-      {
-        "number": "C181",
-        "title": "International Trade"
-      },
-      {
-        "number": "C183",
-        "title": "Forest Ecosystem Management"
-      },
-      {
-        "number": "H196",
-        "title": "Honors Research"
-      }
-    ],
-    "name": "Environmental Economics and Policy",
-    "abbreviation": "ENVECON"
+    "name": "Agricultural and Environ Chemistry",
+    "abbreviation": "AGR CHM"
   },
   {
     "courses": [
@@ -362,16 +242,6 @@
     ],
     "name": "Ancient History and Med. Arch.",
     "abbreviation": "AHMA"
-  },
-  {
-    "courses": [
-      {
-        "course": "299",
-        "title": "Individual Study or Research"
-      }
-    ],
-    "name": "Applied Science and Technology",
-    "abbreviation": "AST"
   },
   {
     "courses": [
@@ -554,24 +424,12 @@
   {
     "courses": [
       {
-        "number": "185X",
-        "title": "Special Topics:  Word and Image"
-      },
-      {
-        "number": "187A",
-        "title": "Freehand Drawing"
-      },
-      {
-        "number": "280",
-        "title": "Advanced Visual Studies"
-      },
-      {
-        "number": "298",
-        "title": "Special Group Study"
+        "course": "299",
+        "title": "Individual Study or Research"
       }
     ],
-    "name": "Visual Studies",
-    "abbreviation": "VIS STD"
+    "name": "Applied Science and Technology",
+    "abbreviation": "AST"
   },
   {
     "courses": [
@@ -730,92 +588,170 @@
   {
     "courses": [
       {
-        "number": "127",
-        "title": "South Asian American Historical and Contemporary Issues"
+        "number": "185X",
+        "title": "Special Topics:  Word and Image"
       },
       {
-        "number": "131",
-        "title": "Asian Diaspora(s) from an Asian American Perspective"
+        "number": "187A",
+        "title": "Freehand Drawing"
       },
       {
-        "number": "132AC",
-        "title": "Islamophobia and Constructing Otherness"
+        "number": "280",
+        "title": "Advanced Visual Studies"
       },
       {
-        "number": "143",
-        "title": "Asian American Health"
+        "number": "298",
+        "title": "Special Group Study"
+      }
+    ],
+    "name": "Visual Studies",
+    "abbreviation": "VIS STD"
+  },
+  {
+    "courses": [
+      {
+        "number": "102",
+        "title": "Approaches to Painting"
       },
       {
-        "number": "144",
-        "title": "Religions of Asian America"
+        "number": "117",
+        "title": "Drawing and Composition"
       },
       {
-        "number": "146",
-        "title": "Asian Americans and Education"
+        "number": "118",
+        "title": "Figure Drawing"
       },
       {
-        "number": "150",
-        "title": "Gender and Generation in Asian American Families"
+        "number": "119",
+        "title": "Global Perspectives in Contemporary Art"
       },
       {
-        "number": "173",
-        "title": "Creative Writing"
+        "number": "12",
+        "title": "The Language of Drawing"
       },
       {
-        "number": "175",
-        "title": "Contemporary Narratives on the Philippines and the United States"
+        "number": "120",
+        "title": "Approaches to Printmaking: Intaglio"
       },
       {
-        "number": "195",
-        "title": "Senior Thesis"
+        "number": "123",
+        "title": "The Language of Printmaking-Screenprinting"
       },
       {
-        "number": "197",
-        "title": "Field Study in Asian American Communities"
+        "number": "13",
+        "title": "Language of Painting"
+      },
+      {
+        "number": "130",
+        "title": "Approaches to Sculpture: Concept and Construction"
+      },
+      {
+        "number": "137",
+        "title": "Advanced Projects in Ceramic Sculpture"
+      },
+      {
+        "number": "14",
+        "title": "The Language of Sculpture"
+      },
+      {
+        "number": "141",
+        "title": "Temporal Structures: Video and Performance Art"
+      },
+      {
+        "number": "160",
+        "title": "Special Topics in Visual Studies"
+      },
+      {
+        "number": "165",
+        "title": "Art, Medicine, and Disabilities"
+      },
+      {
+        "number": "174",
+        "title": "Advanced Digital Video"
+      },
+      {
+        "number": "178",
+        "title": "Game Design Methods"
+      },
+      {
+        "number": "180",
+        "title": "Advanced Digital Photography"
+      },
+      {
+        "number": "185",
+        "title": "Senior Projects/Professional Practices"
       },
       {
         "number": "198",
-        "title": "Supervised Group Study"
+        "title": "Directed Group Study"
       },
       {
         "number": "199",
-        "title": "Supervised Independent Study and Research"
+        "title": "Supervised Independent Study for Advanced Undergraduates"
       },
       {
-        "number": "20A",
-        "title": "Introduction to the History of Asians in the United States"
+        "number": "218",
+        "title": "Seminar: Theory and Criticism"
       },
       {
-        "number": "20B",
-        "title": "Introduction to the Contemporary Issues in the Asian American Com"
+        "number": "290",
+        "title": "Independent Study"
       },
       {
-        "number": "97",
-        "title": "Field Studies in Asian American Communities"
+        "number": "294",
+        "title": "Seminar for M.F.A. Students"
+      },
+      {
+        "number": "295",
+        "title": "Independent Study for M.F.A. Students"
+      },
+      {
+        "number": "298",
+        "title": "Directed Group Study"
+      },
+      {
+        "number": "299",
+        "title": "Supervised Independent Study for Graduate Students"
+      },
+      {
+        "number": "301",
+        "title": "The Teaching of Art: Practice"
+      },
+      {
+        "number": "8",
+        "title": "Introduction to Visual Thinking"
       },
       {
         "number": "98",
-        "title": "Supervised Group Study"
+        "title": "Directed Group Study"
       },
       {
         "number": "99",
-        "title": "Supervised Independent Study and Research"
+        "title": "Supervised Independent Study"
+      },
+      {
+        "number": "C171",
+        "title": "Digital Video: The Architecture of Time"
+      },
+      {
+        "number": "C174",
+        "title": "Advanced Digital Video"
+      },
+      {
+        "number": "H195A",
+        "title": "Special Study for Honors Candidates in the Practice of Art"
       },
       {
         "number": "H195B",
-        "title": "Senior Honors Thesis for Asian American and Asian Diaspora Studie"
+        "title": "Special Study for Honors Candidates in the Practice of Art"
       },
       {
-        "number": "R2A",
-        "title": "Reading and Composition"
-      },
-      {
-        "number": "R2B",
-        "title": "Reading and Composition"
+        "number": "W23AC",
+        "title": "American Cybercultures: Principles of Internet Citizenship"
       }
     ],
-    "name": "Asian American Studies",
-    "abbreviation": "ASAMST"
+    "name": "Practice of Art",
+    "abbreviation": "ART"
   },
   {
     "courses": [
@@ -978,148 +914,92 @@
   {
     "courses": [
       {
-        "number": "102",
-        "title": "Approaches to Painting"
+        "number": "127",
+        "title": "South Asian American Historical and Contemporary Issues"
       },
       {
-        "number": "117",
-        "title": "Drawing and Composition"
+        "number": "131",
+        "title": "Asian Diaspora(s) from an Asian American Perspective"
       },
       {
-        "number": "118",
-        "title": "Figure Drawing"
+        "number": "132AC",
+        "title": "Islamophobia and Constructing Otherness"
       },
       {
-        "number": "119",
-        "title": "Global Perspectives in Contemporary Art"
+        "number": "143",
+        "title": "Asian American Health"
       },
       {
-        "number": "12",
-        "title": "The Language of Drawing"
+        "number": "144",
+        "title": "Religions of Asian America"
       },
       {
-        "number": "120",
-        "title": "Approaches to Printmaking: Intaglio"
+        "number": "146",
+        "title": "Asian Americans and Education"
       },
       {
-        "number": "123",
-        "title": "The Language of Printmaking-Screenprinting"
+        "number": "150",
+        "title": "Gender and Generation in Asian American Families"
       },
       {
-        "number": "13",
-        "title": "Language of Painting"
+        "number": "173",
+        "title": "Creative Writing"
       },
       {
-        "number": "130",
-        "title": "Approaches to Sculpture: Concept and Construction"
+        "number": "175",
+        "title": "Contemporary Narratives on the Philippines and the United States"
       },
       {
-        "number": "137",
-        "title": "Advanced Projects in Ceramic Sculpture"
+        "number": "195",
+        "title": "Senior Thesis"
       },
       {
-        "number": "14",
-        "title": "The Language of Sculpture"
-      },
-      {
-        "number": "141",
-        "title": "Temporal Structures: Video and Performance Art"
-      },
-      {
-        "number": "160",
-        "title": "Special Topics in Visual Studies"
-      },
-      {
-        "number": "165",
-        "title": "Art, Medicine, and Disabilities"
-      },
-      {
-        "number": "174",
-        "title": "Advanced Digital Video"
-      },
-      {
-        "number": "178",
-        "title": "Game Design Methods"
-      },
-      {
-        "number": "180",
-        "title": "Advanced Digital Photography"
-      },
-      {
-        "number": "185",
-        "title": "Senior Projects/Professional Practices"
+        "number": "197",
+        "title": "Field Study in Asian American Communities"
       },
       {
         "number": "198",
-        "title": "Directed Group Study"
+        "title": "Supervised Group Study"
       },
       {
         "number": "199",
-        "title": "Supervised Independent Study for Advanced Undergraduates"
+        "title": "Supervised Independent Study and Research"
       },
       {
-        "number": "218",
-        "title": "Seminar: Theory and Criticism"
+        "number": "20A",
+        "title": "Introduction to the History of Asians in the United States"
       },
       {
-        "number": "290",
-        "title": "Independent Study"
+        "number": "20B",
+        "title": "Introduction to the Contemporary Issues in the Asian American Com"
       },
       {
-        "number": "294",
-        "title": "Seminar for M.F.A. Students"
-      },
-      {
-        "number": "295",
-        "title": "Independent Study for M.F.A. Students"
-      },
-      {
-        "number": "298",
-        "title": "Directed Group Study"
-      },
-      {
-        "number": "299",
-        "title": "Supervised Independent Study for Graduate Students"
-      },
-      {
-        "number": "301",
-        "title": "The Teaching of Art: Practice"
-      },
-      {
-        "number": "8",
-        "title": "Introduction to Visual Thinking"
+        "number": "97",
+        "title": "Field Studies in Asian American Communities"
       },
       {
         "number": "98",
-        "title": "Directed Group Study"
+        "title": "Supervised Group Study"
       },
       {
         "number": "99",
-        "title": "Supervised Independent Study"
-      },
-      {
-        "number": "C171",
-        "title": "Digital Video: The Architecture of Time"
-      },
-      {
-        "number": "C174",
-        "title": "Advanced Digital Video"
-      },
-      {
-        "number": "H195A",
-        "title": "Special Study for Honors Candidates in the Practice of Art"
+        "title": "Supervised Independent Study and Research"
       },
       {
         "number": "H195B",
-        "title": "Special Study for Honors Candidates in the Practice of Art"
+        "title": "Senior Honors Thesis for Asian American and Asian Diaspora Studie"
       },
       {
-        "number": "W23AC",
-        "title": "American Cybercultures: Principles of Internet Citizenship"
+        "number": "R2A",
+        "title": "Reading and Composition"
+      },
+      {
+        "number": "R2B",
+        "title": "Reading and Composition"
       }
     ],
-    "name": "Practice of Art",
-    "abbreviation": "ART"
+    "name": "Asian American Studies",
+    "abbreviation": "ASAMST"
   },
   {
     "courses": [
@@ -1267,24 +1147,6 @@
     ],
     "name": "Astronomy",
     "abbreviation": "ASTRON"
-  },
-  {
-    "courses": [
-      {
-        "number": "292",
-        "title": "Research"
-      },
-      {
-        "number": "293B",
-        "title": "Research Seminar: Faculty Evening Research Presentations (FERPS)"
-      },
-      {
-        "number": "H196",
-        "title": "Honors Research in Biophysics"
-      }
-    ],
-    "name": "Biophysics",
-    "abbreviation": "BIOPHY"
   },
   {
     "courses": [
@@ -1455,6 +1317,50 @@
   {
     "courses": [
       {
+        "number": "11",
+        "title": "Introduction to the Science of Living Organisms"
+      },
+      {
+        "number": "11L",
+        "title": "Laboratory for Biology 11"
+      },
+      {
+        "number": "1A",
+        "title": "General Biology Lecture"
+      },
+      {
+        "number": "1AL",
+        "title": "General Biology Laboratory"
+      },
+      {
+        "number": "1B",
+        "title": "General Biology"
+      }
+    ],
+    "name": "Biology",
+    "abbreviation": "BIOLOGY"
+  },
+  {
+    "courses": [
+      {
+        "number": "292",
+        "title": "Research"
+      },
+      {
+        "number": "293B",
+        "title": "Research Seminar: Faculty Evening Research Presentations (FERPS)"
+      },
+      {
+        "number": "H196",
+        "title": "Honors Research in Biophysics"
+      }
+    ],
+    "name": "Biophysics",
+    "abbreviation": "BIOPHY"
+  },
+  {
+    "courses": [
+      {
         "number": "200",
         "title": "Proseminar in Buddhist Studies"
       },
@@ -1501,32 +1407,6 @@
     ],
     "name": "Group in Buddhist Studies",
     "abbreviation": "BUDDSTD"
-  },
-  {
-    "courses": [
-      {
-        "number": "11",
-        "title": "Introduction to the Science of Living Organisms"
-      },
-      {
-        "number": "11L",
-        "title": "Laboratory for Biology 11"
-      },
-      {
-        "number": "1A",
-        "title": "General Biology Lecture"
-      },
-      {
-        "number": "1AL",
-        "title": "General Biology Laboratory"
-      },
-      {
-        "number": "1B",
-        "title": "General Biology"
-      }
-    ],
-    "name": "Biology",
-    "abbreviation": "BIOLOGY"
   },
   {
     "courses": [
@@ -2493,104 +2373,6 @@
   {
     "courses": [
       {
-        "number": "10B",
-        "title": "Introduction to Roman Civilization"
-      },
-      {
-        "number": "130",
-        "title": "Topics in Ancient Greek and Roman Culture"
-      },
-      {
-        "number": "172",
-        "title": "Art and Archaeology of the Aegean Bronze Age"
-      },
-      {
-        "number": "175D",
-        "title": "Pompeii and Herculaneum"
-      },
-      {
-        "number": "17B",
-        "title": "Introduction to the Archaeology of the Late Greek and Roman World"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Study for Advanced Undergraduates"
-      },
-      {
-        "number": "199",
-        "title": "Supervised Independent Study and Research"
-      },
-      {
-        "number": "201B",
-        "title": "Survey of Greek Literature"
-      },
-      {
-        "number": "218",
-        "title": "Greek Philosophers"
-      },
-      {
-        "number": "239",
-        "title": "Topics in Greek or Roman Literature, History, and Culture"
-      },
-      {
-        "number": "24",
-        "title": "Freshman Seminars"
-      },
-      {
-        "number": "260",
-        "title": "Advanced Latin Composition"
-      },
-      {
-        "number": "270",
-        "title": "Seminar in Classical Archaeology"
-      },
-      {
-        "number": "28",
-        "title": "The Classic Myths"
-      },
-      {
-        "number": "298",
-        "title": "Special Study"
-      },
-      {
-        "number": "299",
-        "title": "Special Study"
-      },
-      {
-        "number": "302",
-        "title": "Teaching Practicum"
-      },
-      {
-        "number": "35",
-        "title": "Greek Tragedy"
-      },
-      {
-        "number": "601",
-        "title": "Individual Study for Master's Candidates"
-      },
-      {
-        "number": "602",
-        "title": "Individual Study for Doctoral Candidates"
-      },
-      {
-        "number": "98",
-        "title": "Directed Group Study for Freshmen and Sophomores"
-      },
-      {
-        "number": "99",
-        "title": "Supervised Independent Study and Research"
-      },
-      {
-        "number": "H195",
-        "title": "Honors Course in Classical Civilization"
-      }
-    ],
-    "name": "Classics",
-    "abbreviation": "CLASSIC"
-  },
-  {
-    "courses": [
-      {
         "number": "100",
         "title": "Elementary Fluid Mechanics"
       },
@@ -2873,6 +2655,104 @@
   {
     "courses": [
       {
+        "number": "10B",
+        "title": "Introduction to Roman Civilization"
+      },
+      {
+        "number": "130",
+        "title": "Topics in Ancient Greek and Roman Culture"
+      },
+      {
+        "number": "172",
+        "title": "Art and Archaeology of the Aegean Bronze Age"
+      },
+      {
+        "number": "175D",
+        "title": "Pompeii and Herculaneum"
+      },
+      {
+        "number": "17B",
+        "title": "Introduction to the Archaeology of the Late Greek and Roman World"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Study for Advanced Undergraduates"
+      },
+      {
+        "number": "199",
+        "title": "Supervised Independent Study and Research"
+      },
+      {
+        "number": "201B",
+        "title": "Survey of Greek Literature"
+      },
+      {
+        "number": "218",
+        "title": "Greek Philosophers"
+      },
+      {
+        "number": "239",
+        "title": "Topics in Greek or Roman Literature, History, and Culture"
+      },
+      {
+        "number": "24",
+        "title": "Freshman Seminars"
+      },
+      {
+        "number": "260",
+        "title": "Advanced Latin Composition"
+      },
+      {
+        "number": "270",
+        "title": "Seminar in Classical Archaeology"
+      },
+      {
+        "number": "28",
+        "title": "The Classic Myths"
+      },
+      {
+        "number": "298",
+        "title": "Special Study"
+      },
+      {
+        "number": "299",
+        "title": "Special Study"
+      },
+      {
+        "number": "302",
+        "title": "Teaching Practicum"
+      },
+      {
+        "number": "35",
+        "title": "Greek Tragedy"
+      },
+      {
+        "number": "601",
+        "title": "Individual Study for Master's Candidates"
+      },
+      {
+        "number": "602",
+        "title": "Individual Study for Doctoral Candidates"
+      },
+      {
+        "number": "98",
+        "title": "Directed Group Study for Freshmen and Sophomores"
+      },
+      {
+        "number": "99",
+        "title": "Supervised Independent Study and Research"
+      },
+      {
+        "number": "H195",
+        "title": "Honors Course in Classical Civilization"
+      }
+    ],
+    "name": "Classics",
+    "abbreviation": "CLASSIC"
+  },
+  {
+    "courses": [
+      {
         "number": "10",
         "title": "Intensive Elementary Greek"
       },
@@ -3011,16 +2891,6 @@
   {
     "courses": [
       {
-        "number": "299",
-        "title": "Graduate Research"
-      }
-    ],
-    "name": "Comparative Biochemistry",
-    "abbreviation": "COMPBIO"
-  },
-  {
-    "courses": [
-      {
         "number": "1",
         "title": "Grammar and Vocabulary of Written English"
       },
@@ -3103,6 +2973,16 @@
     ],
     "name": "College Writing Program",
     "abbreviation": "COLWRIT"
+  },
+  {
+    "courses": [
+      {
+        "number": "299",
+        "title": "Graduate Research"
+      }
+    ],
+    "name": "Comparative Biochemistry",
+    "abbreviation": "COMPBIO"
   },
   {
     "courses": [
@@ -3231,20 +3111,12 @@
   {
     "courses": [
       {
-        "number": "24",
-        "title": "Freshman Seminar"
-      },
-      {
-        "number": "C100",
-        "title": "History of Development and Underdevelopment"
-      },
-      {
-        "number": "H195",
-        "title": "Senior Honors Thesis Seminar"
+        "number": "240",
+        "title": "Contemporary Critique and Critical Theory"
       }
     ],
-    "name": "Development Studies",
-    "abbreviation": "DEV STD"
+    "name": "Critical Theory Graduate Group",
+    "abbreviation": "CRIT TH"
   },
   {
     "courses": [
@@ -3325,12 +3197,20 @@
   {
     "courses": [
       {
-        "number": "240",
-        "title": "Contemporary Critique and Critical Theory"
+        "number": "24",
+        "title": "Freshman Seminar"
+      },
+      {
+        "number": "C100",
+        "title": "History of Development and Underdevelopment"
+      },
+      {
+        "number": "H195",
+        "title": "Senior Honors Thesis Seminar"
       }
     ],
-    "name": "Critical Theory Graduate Group",
-    "abbreviation": "CRIT TH"
+    "name": "Development Studies",
+    "abbreviation": "DEV STD"
   },
   {
     "courses": [
@@ -3520,162 +3400,6 @@
     "courses": [
       {
         "number": "100B",
-        "title": "Advanced Japanese"
-      },
-      {
-        "number": "100X",
-        "title": "Advanced Japanese for Heritage Learners"
-      },
-      {
-        "number": "102",
-        "title": "Fourth-year Readings: Japanese Culture"
-      },
-      {
-        "number": "104",
-        "title": "Fourth-Year Readings: Japanese History"
-      },
-      {
-        "number": "10B",
-        "title": "Intermediate Japanese"
-      },
-      {
-        "number": "112",
-        "title": "Fifth-Year Japanese B"
-      },
-      {
-        "number": "146",
-        "title": "Japanese Historical Documents"
-      },
-      {
-        "number": "159",
-        "title": "Contemporary Japanese Literature"
-      },
-      {
-        "number": "161",
-        "title": "Introduction to Japanese Linguistics: Usage"
-      },
-      {
-        "number": "170",
-        "title": "Classical Japanese Literature in Translation"
-      },
-      {
-        "number": "181",
-        "title": "Mediating Disaster: Fukushima, Before and After"
-      },
-      {
-        "number": "1B",
-        "title": "Elementary Japanese"
-      },
-      {
-        "number": "230",
-        "title": "Seminar in Classical Japanese Poetry"
-      },
-      {
-        "number": "259",
-        "title": "Seminar in Postwar Japanese Literature"
-      },
-      {
-        "number": "298",
-        "title": "Directed Study for Graduate Students"
-      },
-      {
-        "number": "299",
-        "title": "Thesis Preparation and Related Research"
-      },
-      {
-        "number": "601",
-        "title": "Individual Study for Master's Students"
-      },
-      {
-        "number": "602",
-        "title": "Individual Study for Doctoral Students"
-      },
-      {
-        "number": "7B",
-        "title": "Introduction to Modern Japanese Literature and Culture"
-      },
-      {
-        "number": "C225",
-        "title": "Readings in Japanese Buddhist Texts"
-      },
-      {
-        "number": "C231",
-        "title": "Japanese Studies: Past, Present... and Future?"
-      }
-    ],
-    "name": "Japanese",
-    "abbreviation": "JAPAN"
-  },
-  {
-    "courses": [
-      {
-        "number": "100B",
-        "title": "Advanced Korean"
-      },
-      {
-        "number": "100BX",
-        "title": "Advanced Korean for Heritage Speakers"
-      },
-      {
-        "number": "102",
-        "title": "Fourth-Year Readings--Social Sciences and History"
-      },
-      {
-        "number": "10B",
-        "title": "Intermediate Korean"
-      },
-      {
-        "number": "10BX",
-        "title": "Intermediate Korean for Heritage Speakers"
-      },
-      {
-        "number": "112",
-        "title": "Fifth-Year Korean B"
-      },
-      {
-        "number": "155",
-        "title": "Modern Korean Fiction"
-      },
-      {
-        "number": "170",
-        "title": "Intercultural Encounters in Korean Literature"
-      },
-      {
-        "number": "1B",
-        "title": "Elementary Korean"
-      },
-      {
-        "number": "1BX",
-        "title": "Elementary Korean for Heritage Speakers"
-      },
-      {
-        "number": "298",
-        "title": "Directed Study for Graduate Students"
-      },
-      {
-        "number": "299",
-        "title": "Thesis Preparation and Related Research"
-      },
-      {
-        "number": "601",
-        "title": "Individual Study for Master's Students"
-      },
-      {
-        "number": "602",
-        "title": "Individual Study for Doctoral Students"
-      },
-      {
-        "number": "7B",
-        "title": "Introduction to Modern Korean Literature and Culture"
-      }
-    ],
-    "name": "Korean",
-    "abbreviation": "KOREAN"
-  },
-  {
-    "courses": [
-      {
-        "number": "100B",
         "title": "Advanced Chinese"
       },
       {
@@ -3785,6 +3509,282 @@
   {
     "courses": [
       {
+        "number": "100",
+        "title": "Microeconomic Theory with Application to Natural Resources"
+      },
+      {
+        "number": "142",
+        "title": "Industrial Organization with Applications to Agriculture and Natu"
+      },
+      {
+        "number": "147",
+        "title": "Regulation of Energy and the Environment"
+      },
+      {
+        "number": "153",
+        "title": "Population, Environment, and Development"
+      },
+      {
+        "number": "154",
+        "title": "Economics of Poverty and Technology"
+      },
+      {
+        "number": "162",
+        "title": "Economics of Water Resources"
+      },
+      {
+        "number": "195",
+        "title": "Senior Thesis"
+      },
+      {
+        "number": "197",
+        "title": "Field Study in Environmental Economics and Policy"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Studies for Advanced Undergraduates"
+      },
+      {
+        "number": "199",
+        "title": "Supervised Independent Study and Research"
+      },
+      {
+        "number": "C1",
+        "title": "Introduction to Environmental Economics and Policy"
+      },
+      {
+        "number": "C101",
+        "title": "Environmental Economics"
+      },
+      {
+        "number": "C118",
+        "title": "Introductory Applied Econometrics"
+      },
+      {
+        "number": "C180",
+        "title": "Ecological Economics in Historical Context"
+      },
+      {
+        "number": "C181",
+        "title": "International Trade"
+      },
+      {
+        "number": "C183",
+        "title": "Forest Ecosystem Management"
+      },
+      {
+        "number": "H196",
+        "title": "Honors Research"
+      }
+    ],
+    "name": "Environmental Economics and Policy",
+    "abbreviation": "ENVECON"
+  },
+  {
+    "courses": [
+      {
+        "number": "100B",
+        "title": "Advanced Japanese"
+      },
+      {
+        "number": "100X",
+        "title": "Advanced Japanese for Heritage Learners"
+      },
+      {
+        "number": "102",
+        "title": "Fourth-year Readings: Japanese Culture"
+      },
+      {
+        "number": "104",
+        "title": "Fourth-Year Readings: Japanese History"
+      },
+      {
+        "number": "10B",
+        "title": "Intermediate Japanese"
+      },
+      {
+        "number": "112",
+        "title": "Fifth-Year Japanese B"
+      },
+      {
+        "number": "146",
+        "title": "Japanese Historical Documents"
+      },
+      {
+        "number": "159",
+        "title": "Contemporary Japanese Literature"
+      },
+      {
+        "number": "161",
+        "title": "Introduction to Japanese Linguistics: Usage"
+      },
+      {
+        "number": "170",
+        "title": "Classical Japanese Literature in Translation"
+      },
+      {
+        "number": "181",
+        "title": "Mediating Disaster: Fukushima, Before and After"
+      },
+      {
+        "number": "1B",
+        "title": "Elementary Japanese"
+      },
+      {
+        "number": "230",
+        "title": "Seminar in Classical Japanese Poetry"
+      },
+      {
+        "number": "259",
+        "title": "Seminar in Postwar Japanese Literature"
+      },
+      {
+        "number": "298",
+        "title": "Directed Study for Graduate Students"
+      },
+      {
+        "number": "299",
+        "title": "Thesis Preparation and Related Research"
+      },
+      {
+        "number": "601",
+        "title": "Individual Study for Master's Students"
+      },
+      {
+        "number": "602",
+        "title": "Individual Study for Doctoral Students"
+      },
+      {
+        "number": "7B",
+        "title": "Introduction to Modern Japanese Literature and Culture"
+      },
+      {
+        "number": "C225",
+        "title": "Readings in Japanese Buddhist Texts"
+      },
+      {
+        "number": "C231",
+        "title": "Japanese Studies: Past, Present... and Future?"
+      }
+    ],
+    "name": "Japanese",
+    "abbreviation": "JAPAN"
+  },
+  {
+    "courses": [
+      {
+        "number": "202",
+        "title": "Issues and Concepts in Agricultural Economics"
+      },
+      {
+        "number": "212",
+        "title": "Econometrics: Multiple Equation Estimation"
+      },
+      {
+        "number": "242",
+        "title": "Quantitative Policy Analysis"
+      },
+      {
+        "number": "262",
+        "title": "Non-market Valuation"
+      },
+      {
+        "number": "264",
+        "title": "Empirical Energy and Environmental Economics"
+      },
+      {
+        "number": "298",
+        "title": "Special Study for Graduate Students"
+      },
+      {
+        "number": "299",
+        "title": "Individual Research"
+      },
+      {
+        "number": "375",
+        "title": "Professional Preparation: Teaching of Environmental Economics and"
+      },
+      {
+        "number": "400",
+        "title": "Professional Training in Research Methodology"
+      },
+      {
+        "number": "602",
+        "title": "Individual Study for Doctoral Students"
+      }
+    ],
+    "name": "Agricultural and Resource Economics",
+    "abbreviation": "A,RESEC"
+  },
+  {
+    "courses": [
+      {
+        "number": "100B",
+        "title": "Advanced Korean"
+      },
+      {
+        "number": "100BX",
+        "title": "Advanced Korean for Heritage Speakers"
+      },
+      {
+        "number": "102",
+        "title": "Fourth-Year Readings--Social Sciences and History"
+      },
+      {
+        "number": "10B",
+        "title": "Intermediate Korean"
+      },
+      {
+        "number": "10BX",
+        "title": "Intermediate Korean for Heritage Speakers"
+      },
+      {
+        "number": "112",
+        "title": "Fifth-Year Korean B"
+      },
+      {
+        "number": "155",
+        "title": "Modern Korean Fiction"
+      },
+      {
+        "number": "170",
+        "title": "Intercultural Encounters in Korean Literature"
+      },
+      {
+        "number": "1B",
+        "title": "Elementary Korean"
+      },
+      {
+        "number": "1BX",
+        "title": "Elementary Korean for Heritage Speakers"
+      },
+      {
+        "number": "298",
+        "title": "Directed Study for Graduate Students"
+      },
+      {
+        "number": "299",
+        "title": "Thesis Preparation and Related Research"
+      },
+      {
+        "number": "601",
+        "title": "Individual Study for Master's Students"
+      },
+      {
+        "number": "602",
+        "title": "Individual Study for Doctoral Students"
+      },
+      {
+        "number": "7B",
+        "title": "Introduction to Modern Korean Literature and Culture"
+      }
+    ],
+    "name": "Korean",
+    "abbreviation": "KOREAN"
+  },
+  {
+    "courses": [
+      {
         "number": "115",
         "title": "Contemporary Tibet"
       },
@@ -3799,6 +3799,264 @@
     ],
     "name": "Tibetan",
     "abbreviation": "TIBETAN"
+  },
+  {
+    "courses": [
+      {
+        "number": "105",
+        "title": "Microelectronic Devices and Circuits"
+      },
+      {
+        "number": "117",
+        "title": "Electromagnetic Fields and Waves"
+      },
+      {
+        "number": "118",
+        "title": "Introduction to Optical Engineering"
+      },
+      {
+        "number": "120",
+        "title": "Signals and Systems"
+      },
+      {
+        "number": "122",
+        "title": "Introduction to Communication Networks"
+      },
+      {
+        "number": "123",
+        "title": "Digital Signal Processing"
+      },
+      {
+        "number": "126",
+        "title": "Probability and Random Processes"
+      },
+      {
+        "number": "127",
+        "title": "Optimization Models in Engineering"
+      },
+      {
+        "number": "130",
+        "title": "Integrated-Circuit Devices"
+      },
+      {
+        "number": "134",
+        "title": "Fundamentals of Photovoltaic Devices"
+      },
+      {
+        "number": "137B",
+        "title": "Introduction to Electric Power Systems"
+      },
+      {
+        "number": "140",
+        "title": "Linear Integrated Circuits"
+      },
+      {
+        "number": "141",
+        "title": "Introduction to Digital Integrated Circuits"
+      },
+      {
+        "number": "143",
+        "title": "Microfabrication Technology"
+      },
+      {
+        "number": "192",
+        "title": "Mechatronic Design Laboratory"
+      },
+      {
+        "number": "197",
+        "title": "Field Study"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Study for Advanced Undergraduates"
+      },
+      {
+        "number": "199",
+        "title": "Supervised Independent Study"
+      },
+      {
+        "number": "20",
+        "title": "Structure and Interpretation of Systems and Signals"
+      },
+      {
+        "number": "218A",
+        "title": "Introduction to Optical Engineering"
+      },
+      {
+        "number": "219C",
+        "title": "Computer-Aided Verification"
+      },
+      {
+        "number": "222",
+        "title": "Nonlinear Systems--Analysis, Stability and Control"
+      },
+      {
+        "number": "225A",
+        "title": "Digital Signal Processing"
+      },
+      {
+        "number": "225B",
+        "title": "Digital Image Processing"
+      },
+      {
+        "number": "225D",
+        "title": "Audio Signal Processing in Humans and Machines"
+      },
+      {
+        "number": "227AT",
+        "title": "Optimization Models in Engineering"
+      },
+      {
+        "number": "228A",
+        "title": "High Speed Communications Networks"
+      },
+      {
+        "number": "229A",
+        "title": "Information Theory and Coding"
+      },
+      {
+        "number": "230A",
+        "title": "Integrated-Circuit Devices"
+      },
+      {
+        "number": "230B",
+        "title": "Solid State Devices"
+      },
+      {
+        "number": "24",
+        "title": "Freshman Seminar"
+      },
+      {
+        "number": "240A",
+        "title": "Analog Integrated Circuits"
+      },
+      {
+        "number": "240B",
+        "title": "Advanced Analog Integrated Circuits"
+      },
+      {
+        "number": "241A",
+        "title": "Introduction to Digital Integrated Circuits"
+      },
+      {
+        "number": "241B",
+        "title": "Advanced Digital Integrated Circuits"
+      },
+      {
+        "number": "243",
+        "title": "Advanced IC Processing and Layout"
+      },
+      {
+        "number": "290A",
+        "title": "Advanced Topics in Computer-Aided Design"
+      },
+      {
+        "number": "290C",
+        "title": "Advanced Topics in Circuit Design"
+      },
+      {
+        "number": "290E",
+        "title": "Advanced Topics in Electromagnetics and Plasmas"
+      },
+      {
+        "number": "290F",
+        "title": "Advanced Topics in Photonics"
+      },
+      {
+        "number": "290O",
+        "title": "Advanced Topics in Control"
+      },
+      {
+        "number": "290T",
+        "title": "Advanced Topics in Signal Processing"
+      },
+      {
+        "number": "290Y",
+        "title": "Organic Materials in Electronics"
+      },
+      {
+        "number": "298",
+        "title": "Group Studies, Seminars, or Group Research"
+      },
+      {
+        "number": "299",
+        "title": "Individual Research"
+      },
+      {
+        "number": "375",
+        "title": "Teaching Techniques for Electrical Engineering"
+      },
+      {
+        "number": "40",
+        "title": "Introduction to Microelectronic Circuits"
+      },
+      {
+        "number": "602",
+        "title": "Individual Study for Doctoral Students"
+      },
+      {
+        "number": "97",
+        "title": "Field Study"
+      },
+      {
+        "number": "98",
+        "title": "Directed Group Study for Undergraduates"
+      },
+      {
+        "number": "99",
+        "title": "Individual Study and Research for Undergraduates"
+      },
+      {
+        "number": "C128",
+        "title": "Feedback Control Systems"
+      },
+      {
+        "number": "C145O",
+        "title": "Laboratory in the Mechanics of Organisms"
+      },
+      {
+        "number": "C219D",
+        "title": "Concurrent Models of Computation"
+      },
+      {
+        "number": "C225E",
+        "title": "Principles of Magnetic Resonance Imaging"
+      },
+      {
+        "number": "C227C",
+        "title": "Convex Optimization and Approximation"
+      },
+      {
+        "number": "C247B",
+        "title": "Introduction to MEMS Design"
+      },
+      {
+        "number": "C291",
+        "title": "Control and Optimization of Distributed Parameters Systems"
+      },
+      {
+        "number": "C291E",
+        "title": "Hybrid Systems and Intelligent Control"
+      },
+      {
+        "number": "H196A",
+        "title": "Senior Honors Thesis Research"
+      },
+      {
+        "number": "H196B",
+        "title": "Senior Honors Thesis Research"
+      },
+      {
+        "number": "W230A",
+        "title": "Integrated-Circuit Devices"
+      },
+      {
+        "number": "W241A",
+        "title": "Introduction to Digital Integrated Circuits"
+      }
+    ],
+    "name": "Electrical Engineering",
+    "abbreviation": "EL ENG"
   },
   {
     "courses": [
@@ -4451,264 +4709,6 @@
   {
     "courses": [
       {
-        "number": "105",
-        "title": "Microelectronic Devices and Circuits"
-      },
-      {
-        "number": "117",
-        "title": "Electromagnetic Fields and Waves"
-      },
-      {
-        "number": "118",
-        "title": "Introduction to Optical Engineering"
-      },
-      {
-        "number": "120",
-        "title": "Signals and Systems"
-      },
-      {
-        "number": "122",
-        "title": "Introduction to Communication Networks"
-      },
-      {
-        "number": "123",
-        "title": "Digital Signal Processing"
-      },
-      {
-        "number": "126",
-        "title": "Probability and Random Processes"
-      },
-      {
-        "number": "127",
-        "title": "Optimization Models in Engineering"
-      },
-      {
-        "number": "130",
-        "title": "Integrated-Circuit Devices"
-      },
-      {
-        "number": "134",
-        "title": "Fundamentals of Photovoltaic Devices"
-      },
-      {
-        "number": "137B",
-        "title": "Introduction to Electric Power Systems"
-      },
-      {
-        "number": "140",
-        "title": "Linear Integrated Circuits"
-      },
-      {
-        "number": "141",
-        "title": "Introduction to Digital Integrated Circuits"
-      },
-      {
-        "number": "143",
-        "title": "Microfabrication Technology"
-      },
-      {
-        "number": "192",
-        "title": "Mechatronic Design Laboratory"
-      },
-      {
-        "number": "197",
-        "title": "Field Study"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Study for Advanced Undergraduates"
-      },
-      {
-        "number": "199",
-        "title": "Supervised Independent Study"
-      },
-      {
-        "number": "20",
-        "title": "Structure and Interpretation of Systems and Signals"
-      },
-      {
-        "number": "218A",
-        "title": "Introduction to Optical Engineering"
-      },
-      {
-        "number": "219C",
-        "title": "Computer-Aided Verification"
-      },
-      {
-        "number": "222",
-        "title": "Nonlinear Systems--Analysis, Stability and Control"
-      },
-      {
-        "number": "225A",
-        "title": "Digital Signal Processing"
-      },
-      {
-        "number": "225B",
-        "title": "Digital Image Processing"
-      },
-      {
-        "number": "225D",
-        "title": "Audio Signal Processing in Humans and Machines"
-      },
-      {
-        "number": "227AT",
-        "title": "Optimization Models in Engineering"
-      },
-      {
-        "number": "228A",
-        "title": "High Speed Communications Networks"
-      },
-      {
-        "number": "229A",
-        "title": "Information Theory and Coding"
-      },
-      {
-        "number": "230A",
-        "title": "Integrated-Circuit Devices"
-      },
-      {
-        "number": "230B",
-        "title": "Solid State Devices"
-      },
-      {
-        "number": "24",
-        "title": "Freshman Seminar"
-      },
-      {
-        "number": "240A",
-        "title": "Analog Integrated Circuits"
-      },
-      {
-        "number": "240B",
-        "title": "Advanced Analog Integrated Circuits"
-      },
-      {
-        "number": "241A",
-        "title": "Introduction to Digital Integrated Circuits"
-      },
-      {
-        "number": "241B",
-        "title": "Advanced Digital Integrated Circuits"
-      },
-      {
-        "number": "243",
-        "title": "Advanced IC Processing and Layout"
-      },
-      {
-        "number": "290A",
-        "title": "Advanced Topics in Computer-Aided Design"
-      },
-      {
-        "number": "290C",
-        "title": "Advanced Topics in Circuit Design"
-      },
-      {
-        "number": "290E",
-        "title": "Advanced Topics in Electromagnetics and Plasmas"
-      },
-      {
-        "number": "290F",
-        "title": "Advanced Topics in Photonics"
-      },
-      {
-        "number": "290O",
-        "title": "Advanced Topics in Control"
-      },
-      {
-        "number": "290T",
-        "title": "Advanced Topics in Signal Processing"
-      },
-      {
-        "number": "290Y",
-        "title": "Organic Materials in Electronics"
-      },
-      {
-        "number": "298",
-        "title": "Group Studies, Seminars, or Group Research"
-      },
-      {
-        "number": "299",
-        "title": "Individual Research"
-      },
-      {
-        "number": "375",
-        "title": "Teaching Techniques for Electrical Engineering"
-      },
-      {
-        "number": "40",
-        "title": "Introduction to Microelectronic Circuits"
-      },
-      {
-        "number": "602",
-        "title": "Individual Study for Doctoral Students"
-      },
-      {
-        "number": "97",
-        "title": "Field Study"
-      },
-      {
-        "number": "98",
-        "title": "Directed Group Study for Undergraduates"
-      },
-      {
-        "number": "99",
-        "title": "Individual Study and Research for Undergraduates"
-      },
-      {
-        "number": "C128",
-        "title": "Feedback Control Systems"
-      },
-      {
-        "number": "C145O",
-        "title": "Laboratory in the Mechanics of Organisms"
-      },
-      {
-        "number": "C219D",
-        "title": "Concurrent Models of Computation"
-      },
-      {
-        "number": "C225E",
-        "title": "Principles of Magnetic Resonance Imaging"
-      },
-      {
-        "number": "C227C",
-        "title": "Convex Optimization and Approximation"
-      },
-      {
-        "number": "C247B",
-        "title": "Introduction to MEMS Design"
-      },
-      {
-        "number": "C291",
-        "title": "Control and Optimization of Distributed Parameters Systems"
-      },
-      {
-        "number": "C291E",
-        "title": "Hybrid Systems and Intelligent Control"
-      },
-      {
-        "number": "H196A",
-        "title": "Senior Honors Thesis Research"
-      },
-      {
-        "number": "H196B",
-        "title": "Senior Honors Thesis Research"
-      },
-      {
-        "number": "W230A",
-        "title": "Integrated-Circuit Devices"
-      },
-      {
-        "number": "W241A",
-        "title": "Introduction to Digital Integrated Circuits"
-      }
-    ],
-    "name": "Electrical Engineering",
-    "abbreviation": "EL ENG"
-  },
-  {
-    "courses": [
-      {
         "number": "10",
         "title": "The Beauty and Joy of Computing"
       },
@@ -5301,100 +5301,6 @@
   {
     "courses": [
       {
-        "number": "100",
-        "title": "Comparative Ethnic Literature in America"
-      },
-      {
-        "number": "101B",
-        "title": "Humanities Methods in Ethnic Studies"
-      },
-      {
-        "number": "103E",
-        "title": "Racialization, Gender, and Popular Culture"
-      },
-      {
-        "number": "11AC",
-        "title": "Theories and Concepts in Comparative Ethnic Studies An Introducti"
-      },
-      {
-        "number": "122AC",
-        "title": "Ethnicity and Race in Contemporary American Films"
-      },
-      {
-        "number": "144AC",
-        "title": "Racism and the U.S. Law: Historical Treatment of Peoples of Color"
-      },
-      {
-        "number": "174",
-        "title": "Existential Panic in American Ethnic Literature"
-      },
-      {
-        "number": "176",
-        "title": "Against the Grain: Ethnic American Art and Artists"
-      },
-      {
-        "number": "180",
-        "title": "Selected Topics in Comparative Ethnic Studies"
-      },
-      {
-        "number": "181AC",
-        "title": "Prison"
-      },
-      {
-        "number": "190",
-        "title": "Advanced Seminar in Comparative Ethnic Studies"
-      },
-      {
-        "number": "190AC",
-        "title": "Advanced Seminar in Ethnic Studies"
-      },
-      {
-        "number": "196",
-        "title": "Senior Thesis"
-      },
-      {
-        "number": "197",
-        "title": "Field Study in Communities of Color"
-      },
-      {
-        "number": "198",
-        "title": "Supervised Group Study"
-      },
-      {
-        "number": "199",
-        "title": "Supervised Independent Study and Research"
-      },
-      {
-        "number": "21AC",
-        "title": "A Comparative Survey of Racial and Ethnic Groups in the U.S"
-      },
-      {
-        "number": "24",
-        "title": "Freshman Seminar"
-      },
-      {
-        "number": "97",
-        "title": "Field Study in Communities of Color"
-      },
-      {
-        "number": "98",
-        "title": "Supervised Group Study"
-      },
-      {
-        "number": "99",
-        "title": "Supervised Independent Study and Research"
-      },
-      {
-        "number": "H196B",
-        "title": "Senior Honors Thesis for Ethnic Studies Majors"
-      }
-    ],
-    "name": "Ethnic Studies",
-    "abbreviation": "ETH STD"
-  },
-  {
-    "courses": [
-      {
         "number": "1",
         "title": "People and Environmental Design"
       },
@@ -5758,6 +5664,100 @@
   {
     "courses": [
       {
+        "number": "100",
+        "title": "Comparative Ethnic Literature in America"
+      },
+      {
+        "number": "101B",
+        "title": "Humanities Methods in Ethnic Studies"
+      },
+      {
+        "number": "103E",
+        "title": "Racialization, Gender, and Popular Culture"
+      },
+      {
+        "number": "11AC",
+        "title": "Theories and Concepts in Comparative Ethnic Studies An Introducti"
+      },
+      {
+        "number": "122AC",
+        "title": "Ethnicity and Race in Contemporary American Films"
+      },
+      {
+        "number": "144AC",
+        "title": "Racism and the U.S. Law: Historical Treatment of Peoples of Color"
+      },
+      {
+        "number": "174",
+        "title": "Existential Panic in American Ethnic Literature"
+      },
+      {
+        "number": "176",
+        "title": "Against the Grain: Ethnic American Art and Artists"
+      },
+      {
+        "number": "180",
+        "title": "Selected Topics in Comparative Ethnic Studies"
+      },
+      {
+        "number": "181AC",
+        "title": "Prison"
+      },
+      {
+        "number": "190",
+        "title": "Advanced Seminar in Comparative Ethnic Studies"
+      },
+      {
+        "number": "190AC",
+        "title": "Advanced Seminar in Ethnic Studies"
+      },
+      {
+        "number": "196",
+        "title": "Senior Thesis"
+      },
+      {
+        "number": "197",
+        "title": "Field Study in Communities of Color"
+      },
+      {
+        "number": "198",
+        "title": "Supervised Group Study"
+      },
+      {
+        "number": "199",
+        "title": "Supervised Independent Study and Research"
+      },
+      {
+        "number": "21AC",
+        "title": "A Comparative Survey of Racial and Ethnic Groups in the U.S"
+      },
+      {
+        "number": "24",
+        "title": "Freshman Seminar"
+      },
+      {
+        "number": "97",
+        "title": "Field Study in Communities of Color"
+      },
+      {
+        "number": "98",
+        "title": "Supervised Group Study"
+      },
+      {
+        "number": "99",
+        "title": "Supervised Independent Study and Research"
+      },
+      {
+        "number": "H196B",
+        "title": "Senior Honors Thesis for Ethnic Studies Majors"
+      }
+    ],
+    "name": "Ethnic Studies",
+    "abbreviation": "ETH STD"
+  },
+  {
+    "courses": [
+      {
         "number": "201",
         "title": "History and Narrativity: Contemporary Theories and Methods"
       },
@@ -5878,92 +5878,6 @@
     ],
     "name": "Film and Media",
     "abbreviation": "FILM"
-  },
-  {
-    "courses": [
-      {
-        "number": "10",
-        "title": "Introduction to Gender and Women's Studies"
-      },
-      {
-        "number": "101",
-        "title": "Doing Feminist Research"
-      },
-      {
-        "number": "104",
-        "title": "Feminist Theory"
-      },
-      {
-        "number": "131",
-        "title": "Gender and Science"
-      },
-      {
-        "number": "139",
-        "title": "Women and Work"
-      },
-      {
-        "number": "140",
-        "title": "Feminist Cultural Studies"
-      },
-      {
-        "number": "197",
-        "title": "Internship"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Study for Advanced Undergraduates"
-      },
-      {
-        "number": "200",
-        "title": "Theory and Critical Research"
-      },
-      {
-        "number": "210",
-        "title": "Advanced Interdisciplinary Studies"
-      },
-      {
-        "number": "220",
-        "title": "Research Seminar"
-      },
-      {
-        "number": "50AC",
-        "title": "Gender in American Culture"
-      },
-      {
-        "number": "97",
-        "title": "Internship"
-      },
-      {
-        "number": "98",
-        "title": "Directed Group Study for Undergraduates"
-      },
-      {
-        "number": "C146A",
-        "title": "Cultural Representations of Sexualities: Queer Literary Culture"
-      },
-      {
-        "number": "C146B",
-        "title": "Cultural Representations of Sexualities: Queer Visual Culture"
-      },
-      {
-        "number": "C196A",
-        "title": "UCDC Core Seminar"
-      },
-      {
-        "number": "C196B",
-        "title": "UCDC Internship"
-      },
-      {
-        "number": "C196W",
-        "title": "Special Field Research"
-      },
-      {
-        "number": "H195",
-        "title": "Gender and Women's Studies Senior Honors Thesis"
-      }
-    ],
-    "name": "Gender and Women's Studies",
-    "abbreviation": "GWS"
   },
   {
     "courses": [
@@ -6148,20 +6062,60 @@
   {
     "courses": [
       {
-        "number": "100",
-        "title": "Special Topics"
+        "number": "10",
+        "title": "Introduction to Gender and Women's Studies"
       },
       {
-        "number": "145",
-        "title": " Interpreting the Queer Past: Methods and Problems in the History"
+        "number": "101",
+        "title": "Doing Feminist Research"
+      },
+      {
+        "number": "104",
+        "title": "Feminist Theory"
+      },
+      {
+        "number": "131",
+        "title": "Gender and Science"
+      },
+      {
+        "number": "139",
+        "title": "Women and Work"
+      },
+      {
+        "number": "140",
+        "title": "Feminist Cultural Studies"
+      },
+      {
+        "number": "197",
+        "title": "Internship"
       },
       {
         "number": "198",
         "title": "Directed Group Study for Advanced Undergraduates"
       },
       {
+        "number": "200",
+        "title": "Theory and Critical Research"
+      },
+      {
+        "number": "210",
+        "title": "Advanced Interdisciplinary Studies"
+      },
+      {
+        "number": "220",
+        "title": "Research Seminar"
+      },
+      {
+        "number": "50AC",
+        "title": "Gender in American Culture"
+      },
+      {
+        "number": "97",
+        "title": "Internship"
+      },
+      {
         "number": "98",
-        "title": "Directed Group Study for Advanced Undergraduates"
+        "title": "Directed Group Study for Undergraduates"
       },
       {
         "number": "C146A",
@@ -6170,10 +6124,26 @@
       {
         "number": "C146B",
         "title": "Cultural Representations of Sexualities: Queer Visual Culture"
+      },
+      {
+        "number": "C196A",
+        "title": "UCDC Core Seminar"
+      },
+      {
+        "number": "C196B",
+        "title": "UCDC Internship"
+      },
+      {
+        "number": "C196W",
+        "title": "Special Field Research"
+      },
+      {
+        "number": "H195",
+        "title": "Gender and Women's Studies Senior Honors Thesis"
       }
     ],
-    "name": "Lesbian Gay Bisexual Transgender St",
-    "abbreviation": "LGBT"
+    "name": "Gender and Women's Studies",
+    "abbreviation": "GWS"
   },
   {
     "courses": [
@@ -6336,6 +6306,36 @@
     ],
     "name": "Geography",
     "abbreviation": "GEOG"
+  },
+  {
+    "courses": [
+      {
+        "number": "100",
+        "title": "Special Topics"
+      },
+      {
+        "number": "145",
+        "title": " Interpreting the Queer Past: Methods and Problems in the History"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Study for Advanced Undergraduates"
+      },
+      {
+        "number": "98",
+        "title": "Directed Group Study for Advanced Undergraduates"
+      },
+      {
+        "number": "C146A",
+        "title": "Cultural Representations of Sexualities: Queer Literary Culture"
+      },
+      {
+        "number": "C146B",
+        "title": "Cultural Representations of Sexualities: Queer Visual Culture"
+      }
+    ],
+    "name": "Lesbian Gay Bisexual Transgender St",
+    "abbreviation": "LGBT"
   },
   {
     "courses": [
@@ -6542,20 +6542,6 @@
   {
     "courses": [
       {
-        "number": "105",
-        "title": "The Ethics, Methods, and Pragmatics of Global Practice"
-      },
-      {
-        "number": "196",
-        "title": "Global Poverty and Practice Capstone Course"
-      }
-    ],
-    "name": "Global Poverty and Practice",
-    "abbreviation": "GPP"
-  },
-  {
-    "courses": [
-      {
         "number": "201",
         "title": "Research Seminar in Comparative Urban Studies"
       }
@@ -6588,6 +6574,20 @@
   {
     "courses": [
       {
+        "number": "105",
+        "title": "The Ethics, Methods, and Pragmatics of Global Practice"
+      },
+      {
+        "number": "196",
+        "title": "Global Poverty and Practice Capstone Course"
+      }
+    ],
+    "name": "Global Poverty and Practice",
+    "abbreviation": "GPP"
+  },
+  {
+    "courses": [
+      {
         "number": "100A",
         "title": "Language Proficiency Workshop"
       }
@@ -6608,6 +6608,124 @@
     ],
     "name": "Health and Medical Sciences",
     "abbreviation": "HMEDSCI"
+  },
+  {
+    "courses": [
+      {
+        "number": "131",
+        "title": "Discrete Event Simulation"
+      },
+      {
+        "number": "153",
+        "title": "Logistics Network Design and Supply Chain Management"
+      },
+      {
+        "number": "161",
+        "title": "Operations Research II"
+      },
+      {
+        "number": "162",
+        "title": "Linear Programming"
+      },
+      {
+        "number": "165",
+        "title": "Engineering Statistics, Quality Control, and Forcasting"
+      },
+      {
+        "number": "166",
+        "title": "Decision Analysis"
+      },
+      {
+        "number": "170",
+        "title": "Industrial Design and Human Factors"
+      },
+      {
+        "number": "171",
+        "title": "Technology Firm Leadership"
+      },
+      {
+        "number": "180",
+        "title": "Senior Project"
+      },
+      {
+        "number": "190B",
+        "title": "Entrepreneurial Marketing and Finance"
+      },
+      {
+        "number": "190C",
+        "title": "Advanced Topics in Industrial Engineering and Operations Research"
+      },
+      {
+        "number": "190D",
+        "title": "Advanced Topics in Industrial Engineering and Operations Research"
+      },
+      {
+        "number": "190G",
+        "title": "Advanced Topics in Industrial Engineering and Operations Research"
+      },
+      {
+        "number": "220",
+        "title": "Economics and Dynamics of Production"
+      },
+      {
+        "number": "221",
+        "title": "Introduction to Financial Engineering"
+      },
+      {
+        "number": "231",
+        "title": "Introduction to Data Modeling, Statistics, and System Simulation"
+      },
+      {
+        "number": "252",
+        "title": "Service Operations Management"
+      },
+      {
+        "number": "254",
+        "title": "Production and Inventory Systems"
+      },
+      {
+        "number": "262B",
+        "title": "Mathematical Programming II"
+      },
+      {
+        "number": "263B",
+        "title": "Applied Stochastic Process II"
+      },
+      {
+        "number": "264",
+        "title": "Computational Optimization"
+      },
+      {
+        "number": "266",
+        "title": "Network Flows and Graphs"
+      },
+      {
+        "number": "290A",
+        "title": "Dynamic Production Theory and Planning Models"
+      },
+      {
+        "number": "290G",
+        "title": "Advanced Mathematical Programming"
+      },
+      {
+        "number": "290R",
+        "title": "Topics in Risk Theory"
+      },
+      {
+        "number": "298",
+        "title": "Group Studies, Seminars, or Group Research"
+      },
+      {
+        "number": "299",
+        "title": "Individual Study or Research"
+      },
+      {
+        "number": "C253",
+        "title": "Supply Chain and Logistics Management"
+      }
+    ],
+    "name": "Industrial Engin and Oper Research",
+    "abbreviation": "IND ENG"
   },
   {
     "courses": [
@@ -6938,124 +7056,6 @@
     ],
     "name": "History",
     "abbreviation": "HISTORY"
-  },
-  {
-    "courses": [
-      {
-        "number": "131",
-        "title": "Discrete Event Simulation"
-      },
-      {
-        "number": "153",
-        "title": "Logistics Network Design and Supply Chain Management"
-      },
-      {
-        "number": "161",
-        "title": "Operations Research II"
-      },
-      {
-        "number": "162",
-        "title": "Linear Programming"
-      },
-      {
-        "number": "165",
-        "title": "Engineering Statistics, Quality Control, and Forcasting"
-      },
-      {
-        "number": "166",
-        "title": "Decision Analysis"
-      },
-      {
-        "number": "170",
-        "title": "Industrial Design and Human Factors"
-      },
-      {
-        "number": "171",
-        "title": "Technology Firm Leadership"
-      },
-      {
-        "number": "180",
-        "title": "Senior Project"
-      },
-      {
-        "number": "190B",
-        "title": "Entrepreneurial Marketing and Finance"
-      },
-      {
-        "number": "190C",
-        "title": "Advanced Topics in Industrial Engineering and Operations Research"
-      },
-      {
-        "number": "190D",
-        "title": "Advanced Topics in Industrial Engineering and Operations Research"
-      },
-      {
-        "number": "190G",
-        "title": "Advanced Topics in Industrial Engineering and Operations Research"
-      },
-      {
-        "number": "220",
-        "title": "Economics and Dynamics of Production"
-      },
-      {
-        "number": "221",
-        "title": "Introduction to Financial Engineering"
-      },
-      {
-        "number": "231",
-        "title": "Introduction to Data Modeling, Statistics, and System Simulation"
-      },
-      {
-        "number": "252",
-        "title": "Service Operations Management"
-      },
-      {
-        "number": "254",
-        "title": "Production and Inventory Systems"
-      },
-      {
-        "number": "262B",
-        "title": "Mathematical Programming II"
-      },
-      {
-        "number": "263B",
-        "title": "Applied Stochastic Process II"
-      },
-      {
-        "number": "264",
-        "title": "Computational Optimization"
-      },
-      {
-        "number": "266",
-        "title": "Network Flows and Graphs"
-      },
-      {
-        "number": "290A",
-        "title": "Dynamic Production Theory and Planning Models"
-      },
-      {
-        "number": "290G",
-        "title": "Advanced Mathematical Programming"
-      },
-      {
-        "number": "290R",
-        "title": "Topics in Risk Theory"
-      },
-      {
-        "number": "298",
-        "title": "Group Studies, Seminars, or Group Research"
-      },
-      {
-        "number": "299",
-        "title": "Individual Study or Research"
-      },
-      {
-        "number": "C253",
-        "title": "Supply Chain and Logistics Management"
-      }
-    ],
-    "name": "Industrial Engin and Oper Research",
-    "abbreviation": "IND ENG"
   },
   {
     "courses": [
@@ -7442,6 +7442,64 @@
   {
     "courses": [
       {
+        "number": "102",
+        "title": "Scope and Methods of Research in International and Area Studies"
+      },
+      {
+        "number": "106",
+        "title": "Intermediate Microeconomic Theory"
+      },
+      {
+        "number": "150",
+        "title": "Advanced Studies in International and Area Studies"
+      },
+      {
+        "number": "157AC",
+        "title": "Engineering, The Environment, and Society"
+      },
+      {
+        "number": "158AC",
+        "title": "Social Movements, Urban Histories, and the Politics of Memory"
+      },
+      {
+        "number": "180",
+        "title": "Current Issues in International and Area Studies"
+      },
+      {
+        "number": "194",
+        "title": "Senior Seminar in International and Area Studies"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Study"
+      },
+      {
+        "number": "202",
+        "title": "Seminar in Portuguese Studies"
+      },
+      {
+        "number": "206",
+        "title": "Intermediate Microeconomic Theory"
+      },
+      {
+        "number": "45",
+        "title": "Survey of World History"
+      },
+      {
+        "number": "98",
+        "title": "Issues in Political Economy and Development"
+      },
+      {
+        "number": "C118",
+        "title": "Introductory Applied Econometrics"
+      }
+    ],
+    "name": "International and Area Studies",
+    "abbreviation": "IAS"
+  },
+  {
+    "courses": [
+      {
         "number": "1",
         "title": "Elementary Italian"
       },
@@ -7584,64 +7642,6 @@
     ],
     "name": "Italian Studies",
     "abbreviation": "ITALIAN"
-  },
-  {
-    "courses": [
-      {
-        "number": "102",
-        "title": "Scope and Methods of Research in International and Area Studies"
-      },
-      {
-        "number": "106",
-        "title": "Intermediate Microeconomic Theory"
-      },
-      {
-        "number": "150",
-        "title": "Advanced Studies in International and Area Studies"
-      },
-      {
-        "number": "157AC",
-        "title": "Engineering, The Environment, and Society"
-      },
-      {
-        "number": "158AC",
-        "title": "Social Movements, Urban Histories, and the Politics of Memory"
-      },
-      {
-        "number": "180",
-        "title": "Current Issues in International and Area Studies"
-      },
-      {
-        "number": "194",
-        "title": "Senior Seminar in International and Area Studies"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Study"
-      },
-      {
-        "number": "202",
-        "title": "Seminar in Portuguese Studies"
-      },
-      {
-        "number": "206",
-        "title": "Intermediate Microeconomic Theory"
-      },
-      {
-        "number": "45",
-        "title": "Survey of World History"
-      },
-      {
-        "number": "98",
-        "title": "Issues in Political Economy and Development"
-      },
-      {
-        "number": "C118",
-        "title": "Introductory Applied Econometrics"
-      }
-    ],
-    "name": "International and Area Studies",
-    "abbreviation": "IAS"
   },
   {
     "courses": [
@@ -7820,24 +7820,6 @@
   {
     "courses": [
       {
-        "number": "150",
-        "title": "Advanced Studies in Latin American Studies"
-      },
-      {
-        "number": "250",
-        "title": "Selected Topics in Latin American Studies"
-      },
-      {
-        "number": "298",
-        "title": "Directed Graduate Group Study"
-      }
-    ],
-    "name": "Latin American Studies",
-    "abbreviation": "LATAMST"
-  },
-  {
-    "courses": [
-      {
         "number": "100",
         "title": "Foundations of Legal Studies"
       },
@@ -7932,76 +7914,20 @@
   {
     "courses": [
       {
-        "number": "105",
-        "title": "Arts Entrepreneurship"
+        "number": "150",
+        "title": "Advanced Studies in Latin American Studies"
       },
       {
-        "number": "122",
-        "title": "Time"
+        "number": "250",
+        "title": "Selected Topics in Latin American Studies"
       },
       {
-        "number": "124",
-        "title": "Consciousness: Buddhist and Neuroscientific Perspectives"
-      },
-      {
-        "number": "160B",
-        "title": "Philosophy and Values"
-      },
-      {
-        "number": "180AC",
-        "title": "Archaeology of Sex and Gender"
-      },
-      {
-        "number": "22",
-        "title": "Sense and Sensibility and Science"
-      },
-      {
-        "number": "C101",
-        "title": "Edible Education: The Rise and Future of the Food Movement"
-      },
-      {
-        "number": "C180U",
-        "title": "Wealth and Poverty"
-      },
-      {
-        "number": "C180X",
-        "title": "Arts and Cultural Policy"
-      },
-      {
-        "number": "C30U",
-        "title": "Americans and the Global Forest"
-      },
-      {
-        "number": "C30V",
-        "title": "Environmental Issues"
-      },
-      {
-        "number": "C30X",
-        "title": "Big Ideas in Cell Biology"
-      },
-      {
-        "number": "C30Y",
-        "title": "Biology for Voters"
-      },
-      {
-        "number": "C70U",
-        "title": "Introduction to General Astronomy"
-      },
-      {
-        "number": "C70V",
-        "title": "Descriptive Introduction to Physics"
-      },
-      {
-        "number": "C70W",
-        "title": "Physics and Music"
-      },
-      {
-        "number": "C76",
-        "title": "Beauty and the Beholder: Approaching Art at the Berkeley Art Muse"
+        "number": "298",
+        "title": "Directed Graduate Group Study"
       }
     ],
-    "name": "Letters and Science",
-    "abbreviation": "L & S"
+    "name": "Latin American Studies",
+    "abbreviation": "LATAMST"
   },
   {
     "courses": [
@@ -8144,6 +8070,80 @@
   {
     "courses": [
       {
+        "number": "105",
+        "title": "Arts Entrepreneurship"
+      },
+      {
+        "number": "122",
+        "title": "Time"
+      },
+      {
+        "number": "124",
+        "title": "Consciousness: Buddhist and Neuroscientific Perspectives"
+      },
+      {
+        "number": "160B",
+        "title": "Philosophy and Values"
+      },
+      {
+        "number": "180AC",
+        "title": "Archaeology of Sex and Gender"
+      },
+      {
+        "number": "22",
+        "title": "Sense and Sensibility and Science"
+      },
+      {
+        "number": "C101",
+        "title": "Edible Education: The Rise and Future of the Food Movement"
+      },
+      {
+        "number": "C180U",
+        "title": "Wealth and Poverty"
+      },
+      {
+        "number": "C180X",
+        "title": "Arts and Cultural Policy"
+      },
+      {
+        "number": "C30U",
+        "title": "Americans and the Global Forest"
+      },
+      {
+        "number": "C30V",
+        "title": "Environmental Issues"
+      },
+      {
+        "number": "C30X",
+        "title": "Big Ideas in Cell Biology"
+      },
+      {
+        "number": "C30Y",
+        "title": "Biology for Voters"
+      },
+      {
+        "number": "C70U",
+        "title": "Introduction to General Astronomy"
+      },
+      {
+        "number": "C70V",
+        "title": "Descriptive Introduction to Physics"
+      },
+      {
+        "number": "C70W",
+        "title": "Physics and Music"
+      },
+      {
+        "number": "C76",
+        "title": "Beauty and the Beholder: Approaching Art at the Berkeley Art Muse"
+      }
+    ],
+    "name": "Letters and Science",
+    "abbreviation": "L & S"
+  },
+  {
+    "courses": [
+      {
         "number": "103",
         "title": "Phase Transformations and Kinetics"
       },
@@ -8230,6 +8230,298 @@
     ],
     "name": "Materials Science and Engineering",
     "abbreviation": "MAT SCI"
+  },
+  {
+    "courses": [
+      {
+        "number": "101",
+        "title": "High Mix/Low Volume Manufacturing"
+      },
+      {
+        "number": "102A",
+        "title": "Introduction to Mechanical Systems for Mechatronics"
+      },
+      {
+        "number": "102B",
+        "title": "Mechatronics Design"
+      },
+      {
+        "number": "104",
+        "title": "Engineering Mechanics II"
+      },
+      {
+        "number": "106",
+        "title": "Fluid Mechanics"
+      },
+      {
+        "number": "107",
+        "title": "Mechanical Engineering Laboratory"
+      },
+      {
+        "number": "108",
+        "title": "Mechanical Behavior of Engineering Materials"
+      },
+      {
+        "number": "109",
+        "title": "Heat Transfer"
+      },
+      {
+        "number": "110",
+        "title": "Introduction to Product Development"
+      },
+      {
+        "number": "120",
+        "title": "Computational Biomechanics Across Multiple Scales"
+      },
+      {
+        "number": "122",
+        "title": "Processing of Materials in Manufacturing"
+      },
+      {
+        "number": "131",
+        "title": "Vehicle Dynamics and Control"
+      },
+      {
+        "number": "132",
+        "title": "Dynamic Systems and Feedback"
+      },
+      {
+        "number": "133",
+        "title": "Mechanical Vibrations"
+      },
+      {
+        "number": "135",
+        "title": "Design of Microprocessor-Based Mechanical Systems"
+      },
+      {
+        "number": "150A",
+        "title": "Solar-Powered Vehicles: Analysis, Design and Fabrication"
+      },
+      {
+        "number": "151",
+        "title": "Advanced Heat Transfer"
+      },
+      {
+        "number": "165",
+        "title": "Ocean-Environment Mechanics"
+      },
+      {
+        "number": "167",
+        "title": "Microscale Fluid Mechanics"
+      },
+      {
+        "number": "170",
+        "title": "Engineering Mechanics III"
+      },
+      {
+        "number": "190L",
+        "title": "Practical Control System Design: A Systematic Loopshaping Approac"
+      },
+      {
+        "number": "191K",
+        "title": "Professional Communication"
+      },
+      {
+        "number": "196",
+        "title": "Undergraduate Research"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Studies for Advanced Undergraduates"
+      },
+      {
+        "number": "199",
+        "title": "Supervised Independent Study"
+      },
+      {
+        "number": "201",
+        "title": "Modeling and Simulation of Advanced Manufacturing Processes"
+      },
+      {
+        "number": "229",
+        "title": "Design of Basic Electro-Mechanical Devices"
+      },
+      {
+        "number": "233",
+        "title": "Advanced Control Systems II"
+      },
+      {
+        "number": "235",
+        "title": "Design of Microprocessor-Based Mechanical Systems"
+      },
+      {
+        "number": "24",
+        "title": "Freshman Seminars"
+      },
+      {
+        "number": "240B",
+        "title": "Advanced Marine Structures II"
+      },
+      {
+        "number": "241A",
+        "title": "Marine Hydrodynamics I"
+      },
+      {
+        "number": "245",
+        "title": "Oceanic and Atmospheric Waves"
+      },
+      {
+        "number": "252",
+        "title": "Heat Convection"
+      },
+      {
+        "number": "256",
+        "title": "Combustion"
+      },
+      {
+        "number": "259",
+        "title": "Microscale Thermophysics and Heat Transfer"
+      },
+      {
+        "number": "260B",
+        "title": "Advanced Fluid Mechanics II"
+      },
+      {
+        "number": "277",
+        "title": "Oscillations in Nonlinear Systems"
+      },
+      {
+        "number": "284",
+        "title": "Nonlinear Theory of Elasticity"
+      },
+      {
+        "number": "285A",
+        "title": "Foundations of the Theory of Continuous Media"
+      },
+      {
+        "number": "285D",
+        "title": "Engineering Rheology"
+      },
+      {
+        "number": "290I",
+        "title": "Sustainable Manufacturing"
+      },
+      {
+        "number": "298",
+        "title": "Group Studies, Seminars, or Group Research"
+      },
+      {
+        "number": "299",
+        "title": "Individual Study or Research"
+      },
+      {
+        "number": "375",
+        "title": "Teaching of Mechanical Engineering at the University Level"
+      },
+      {
+        "number": "40",
+        "title": "Thermodynamics"
+      },
+      {
+        "number": "98",
+        "title": "Supervised Independent Group Studies"
+      },
+      {
+        "number": "C115",
+        "title": "Molecular Cell Biomechanics"
+      },
+      {
+        "number": "C134",
+        "title": "Feedback Control Systems"
+      },
+      {
+        "number": "C180",
+        "title": "Engineering Analysis Using the Finite Element Method"
+      },
+      {
+        "number": "C201",
+        "title": "Modeling and Simulation of Advanced Manufacturing Processes"
+      },
+      {
+        "number": "C213",
+        "title": "Fluid Mechanics of Biological Systems"
+      },
+      {
+        "number": "C216",
+        "title": "Mechanobiology of the Cell: Dynamics of the Cytoskeleton and Nucl"
+      },
+      {
+        "number": "C217",
+        "title": "Biomimetic Engineering -- Engineering from Biology"
+      },
+      {
+        "number": "C218",
+        "title": "Introduction to MEMS Design"
+      },
+      {
+        "number": "C236",
+        "title": "Control and Optimization of Distributed Parameters Systems"
+      },
+      {
+        "number": "C290S",
+        "title": "Hybrid Systems and Intelligent Control"
+      },
+      {
+        "number": "C85",
+        "title": "Introduction to Solid Mechanics"
+      },
+      {
+        "number": "H194",
+        "title": "Honors Undergraduate Research"
+      }
+    ],
+    "name": "Mechanical Engineering",
+    "abbreviation": "MEC ENG"
+  },
+  {
+    "courses": [
+      {
+        "number": "101",
+        "title": "Visual Communications"
+      },
+      {
+        "number": "104A",
+        "title": "Freedom of Speech and the  Press"
+      },
+      {
+        "number": "140",
+        "title": "Media and Politics"
+      },
+      {
+        "number": "160",
+        "title": "International Media"
+      },
+      {
+        "number": "170",
+        "title": "Cultural History of Advertising"
+      },
+      {
+        "number": "180",
+        "title": "Television Studies"
+      },
+      {
+        "number": "24",
+        "title": "Freshman Seminar"
+      },
+      {
+        "number": "C103",
+        "title": "Understanding Journalism"
+      },
+      {
+        "number": "C104C",
+        "title": "History of Information"
+      },
+      {
+        "number": "C196W",
+        "title": "Special Field Research"
+      },
+      {
+        "number": "H195",
+        "title": "Honors Colloquium"
+      }
+    ],
+    "name": "Media Studies",
+    "abbreviation": "MEDIAST"
   },
   {
     "courses": [
@@ -8523,248 +8815,6 @@
   {
     "courses": [
       {
-        "number": "101",
-        "title": "High Mix/Low Volume Manufacturing"
-      },
-      {
-        "number": "102A",
-        "title": "Introduction to Mechanical Systems for Mechatronics"
-      },
-      {
-        "number": "102B",
-        "title": "Mechatronics Design"
-      },
-      {
-        "number": "104",
-        "title": "Engineering Mechanics II"
-      },
-      {
-        "number": "106",
-        "title": "Fluid Mechanics"
-      },
-      {
-        "number": "107",
-        "title": "Mechanical Engineering Laboratory"
-      },
-      {
-        "number": "108",
-        "title": "Mechanical Behavior of Engineering Materials"
-      },
-      {
-        "number": "109",
-        "title": "Heat Transfer"
-      },
-      {
-        "number": "110",
-        "title": "Introduction to Product Development"
-      },
-      {
-        "number": "120",
-        "title": "Computational Biomechanics Across Multiple Scales"
-      },
-      {
-        "number": "122",
-        "title": "Processing of Materials in Manufacturing"
-      },
-      {
-        "number": "131",
-        "title": "Vehicle Dynamics and Control"
-      },
-      {
-        "number": "132",
-        "title": "Dynamic Systems and Feedback"
-      },
-      {
-        "number": "133",
-        "title": "Mechanical Vibrations"
-      },
-      {
-        "number": "135",
-        "title": "Design of Microprocessor-Based Mechanical Systems"
-      },
-      {
-        "number": "150A",
-        "title": "Solar-Powered Vehicles: Analysis, Design and Fabrication"
-      },
-      {
-        "number": "151",
-        "title": "Advanced Heat Transfer"
-      },
-      {
-        "number": "165",
-        "title": "Ocean-Environment Mechanics"
-      },
-      {
-        "number": "167",
-        "title": "Microscale Fluid Mechanics"
-      },
-      {
-        "number": "170",
-        "title": "Engineering Mechanics III"
-      },
-      {
-        "number": "190L",
-        "title": "Practical Control System Design: A Systematic Loopshaping Approac"
-      },
-      {
-        "number": "191K",
-        "title": "Professional Communication"
-      },
-      {
-        "number": "196",
-        "title": "Undergraduate Research"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Studies for Advanced Undergraduates"
-      },
-      {
-        "number": "199",
-        "title": "Supervised Independent Study"
-      },
-      {
-        "number": "201",
-        "title": "Modeling and Simulation of Advanced Manufacturing Processes"
-      },
-      {
-        "number": "229",
-        "title": "Design of Basic Electro-Mechanical Devices"
-      },
-      {
-        "number": "233",
-        "title": "Advanced Control Systems II"
-      },
-      {
-        "number": "235",
-        "title": "Design of Microprocessor-Based Mechanical Systems"
-      },
-      {
-        "number": "24",
-        "title": "Freshman Seminars"
-      },
-      {
-        "number": "240B",
-        "title": "Advanced Marine Structures II"
-      },
-      {
-        "number": "241A",
-        "title": "Marine Hydrodynamics I"
-      },
-      {
-        "number": "245",
-        "title": "Oceanic and Atmospheric Waves"
-      },
-      {
-        "number": "252",
-        "title": "Heat Convection"
-      },
-      {
-        "number": "256",
-        "title": "Combustion"
-      },
-      {
-        "number": "259",
-        "title": "Microscale Thermophysics and Heat Transfer"
-      },
-      {
-        "number": "260B",
-        "title": "Advanced Fluid Mechanics II"
-      },
-      {
-        "number": "277",
-        "title": "Oscillations in Nonlinear Systems"
-      },
-      {
-        "number": "284",
-        "title": "Nonlinear Theory of Elasticity"
-      },
-      {
-        "number": "285A",
-        "title": "Foundations of the Theory of Continuous Media"
-      },
-      {
-        "number": "285D",
-        "title": "Engineering Rheology"
-      },
-      {
-        "number": "290I",
-        "title": "Sustainable Manufacturing"
-      },
-      {
-        "number": "298",
-        "title": "Group Studies, Seminars, or Group Research"
-      },
-      {
-        "number": "299",
-        "title": "Individual Study or Research"
-      },
-      {
-        "number": "375",
-        "title": "Teaching of Mechanical Engineering at the University Level"
-      },
-      {
-        "number": "40",
-        "title": "Thermodynamics"
-      },
-      {
-        "number": "98",
-        "title": "Supervised Independent Group Studies"
-      },
-      {
-        "number": "C115",
-        "title": "Molecular Cell Biomechanics"
-      },
-      {
-        "number": "C134",
-        "title": "Feedback Control Systems"
-      },
-      {
-        "number": "C180",
-        "title": "Engineering Analysis Using the Finite Element Method"
-      },
-      {
-        "number": "C201",
-        "title": "Modeling and Simulation of Advanced Manufacturing Processes"
-      },
-      {
-        "number": "C213",
-        "title": "Fluid Mechanics of Biological Systems"
-      },
-      {
-        "number": "C216",
-        "title": "Mechanobiology of the Cell: Dynamics of the Cytoskeleton and Nucl"
-      },
-      {
-        "number": "C217",
-        "title": "Biomimetic Engineering -- Engineering from Biology"
-      },
-      {
-        "number": "C218",
-        "title": "Introduction to MEMS Design"
-      },
-      {
-        "number": "C236",
-        "title": "Control and Optimization of Distributed Parameters Systems"
-      },
-      {
-        "number": "C290S",
-        "title": "Hybrid Systems and Intelligent Control"
-      },
-      {
-        "number": "C85",
-        "title": "Introduction to Solid Mechanics"
-      },
-      {
-        "number": "H194",
-        "title": "Honors Undergraduate Research"
-      }
-    ],
-    "name": "Mechanical Engineering",
-    "abbreviation": "MEC ENG"
-  },
-  {
-    "courses": [
-      {
         "number": "109",
         "title": "Model Arab League"
       },
@@ -8799,56 +8849,6 @@
     ],
     "name": "Middle Eastern Studies",
     "abbreviation": "M E STU"
-  },
-  {
-    "courses": [
-      {
-        "number": "101",
-        "title": "Visual Communications"
-      },
-      {
-        "number": "104A",
-        "title": "Freedom of Speech and the  Press"
-      },
-      {
-        "number": "140",
-        "title": "Media and Politics"
-      },
-      {
-        "number": "160",
-        "title": "International Media"
-      },
-      {
-        "number": "170",
-        "title": "Cultural History of Advertising"
-      },
-      {
-        "number": "180",
-        "title": "Television Studies"
-      },
-      {
-        "number": "24",
-        "title": "Freshman Seminar"
-      },
-      {
-        "number": "C103",
-        "title": "Understanding Journalism"
-      },
-      {
-        "number": "C104C",
-        "title": "History of Information"
-      },
-      {
-        "number": "C196W",
-        "title": "Special Field Research"
-      },
-      {
-        "number": "H195",
-        "title": "Honors Colloquium"
-      }
-    ],
-    "name": "Media Studies",
-    "abbreviation": "MEDIAST"
   },
   {
     "courses": [
@@ -8893,32 +8893,6 @@
     ],
     "name": "Aerospace Studies",
     "abbreviation": "AEROSPC"
-  },
-  {
-    "courses": [
-      {
-        "number": "1",
-        "title": "Leadership Laboratory"
-      },
-      {
-        "number": "101",
-        "title": "Foundations of Leadership"
-      },
-      {
-        "number": "132",
-        "title": "Leadership and Ethics"
-      },
-      {
-        "number": "142",
-        "title": "Leadership in a Complex World"
-      },
-      {
-        "number": "3",
-        "title": "Introduction to Tactical Leadership"
-      }
-    ],
-    "name": "Military Science",
-    "abbreviation": "MIL SCI"
   },
   {
     "courses": [
@@ -9571,6 +9545,32 @@
   {
     "courses": [
       {
+        "number": "1",
+        "title": "Leadership Laboratory"
+      },
+      {
+        "number": "101",
+        "title": "Foundations of Leadership"
+      },
+      {
+        "number": "132",
+        "title": "Leadership and Ethics"
+      },
+      {
+        "number": "142",
+        "title": "Leadership in a Complex World"
+      },
+      {
+        "number": "3",
+        "title": "Introduction to Tactical Leadership"
+      }
+    ],
+    "name": "Military Science",
+    "abbreviation": "MIL SCI"
+  },
+  {
+    "courses": [
+      {
         "number": "116B",
         "title": "Jazz Theory and Performance 2"
       },
@@ -10092,6 +10092,28 @@
     "courses": [
       {
         "number": "100B",
+        "title": "Intermediate Modern Persian"
+      },
+      {
+        "number": "101B",
+        "title": "Readings in Persian Literature"
+      },
+      {
+        "number": "11B",
+        "title": "Reading and Composition for Persian-Speaking Students"
+      },
+      {
+        "number": "1B",
+        "title": "Elementary Modern Persian"
+      }
+    ],
+    "name": "Persian",
+    "abbreviation": "PERSIAN"
+  },
+  {
+    "courses": [
+      {
+        "number": "100B",
         "title": "Advanced Hebrew"
       },
       {
@@ -10121,28 +10143,6 @@
     ],
     "name": "Hebrew",
     "abbreviation": "HEBREW"
-  },
-  {
-    "courses": [
-      {
-        "number": "100B",
-        "title": "Intermediate Modern Persian"
-      },
-      {
-        "number": "101B",
-        "title": "Readings in Persian Literature"
-      },
-      {
-        "number": "11B",
-        "title": "Reading and Composition for Persian-Speaking Students"
-      },
-      {
-        "number": "1B",
-        "title": "Elementary Modern Persian"
-      }
-    ],
-    "name": "Persian",
-    "abbreviation": "PERSIAN"
   },
   {
     "courses": [
@@ -10612,6 +10612,60 @@
   {
     "courses": [
       {
+        "number": "10",
+        "title": "Introduction to Peace and Conflict Studies"
+      },
+      {
+        "number": "100",
+        "title": "Peace Theory: Approaches and Analyses"
+      },
+      {
+        "number": "119",
+        "title": "Special Topics in Peace and Conflict Issues"
+      },
+      {
+        "number": "127",
+        "title": "Human Rights and Global Politics"
+      },
+      {
+        "number": "128AC",
+        "title": "Human Rights and American Cultures"
+      },
+      {
+        "number": "148AC",
+        "title": "Social Movements, Urban Histories, and the Politics of Memory"
+      },
+      {
+        "number": "154",
+        "title": "Multicultural Conflict Resolution"
+      },
+      {
+        "number": "190",
+        "title": "Senior Seminar"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Study for Upper Division Students"
+      },
+      {
+        "number": "94",
+        "title": "Theory and Practice of Meditation"
+      },
+      {
+        "number": "98",
+        "title": "Directed Group Study"
+      },
+      {
+        "number": "H195",
+        "title": "Senior Honors Thesis Seminar"
+      }
+    ],
+    "name": "Peace and Conflict Studies",
+    "abbreviation": "PACS"
+  },
+  {
+    "courses": [
+      {
         "number": "199",
         "title": "Supervised Independent Study and Research"
       },
@@ -10836,60 +10890,6 @@
   {
     "courses": [
       {
-        "number": "10",
-        "title": "Introduction to Peace and Conflict Studies"
-      },
-      {
-        "number": "100",
-        "title": "Peace Theory: Approaches and Analyses"
-      },
-      {
-        "number": "119",
-        "title": "Special Topics in Peace and Conflict Issues"
-      },
-      {
-        "number": "127",
-        "title": "Human Rights and Global Politics"
-      },
-      {
-        "number": "128AC",
-        "title": "Human Rights and American Cultures"
-      },
-      {
-        "number": "148AC",
-        "title": "Social Movements, Urban Histories, and the Politics of Memory"
-      },
-      {
-        "number": "154",
-        "title": "Multicultural Conflict Resolution"
-      },
-      {
-        "number": "190",
-        "title": "Senior Seminar"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Study for Upper Division Students"
-      },
-      {
-        "number": "94",
-        "title": "Theory and Practice of Meditation"
-      },
-      {
-        "number": "98",
-        "title": "Directed Group Study"
-      },
-      {
-        "number": "H195",
-        "title": "Senior Honors Thesis Seminar"
-      }
-    ],
-    "name": "Peace and Conflict Studies",
-    "abbreviation": "PACS"
-  },
-  {
-    "courses": [
-      {
         "number": "1",
         "title": "Physical Education Activities"
       },
@@ -10944,6 +10944,164 @@
     ],
     "name": "Physical Education",
     "abbreviation": "PHYS ED"
+  },
+  {
+    "courses": [
+      {
+        "number": "101L",
+        "title": "Experimental Plant Biology Laboratory"
+      },
+      {
+        "number": "11",
+        "title": "Fungi, History, and Society"
+      },
+      {
+        "number": "120",
+        "title": "Biology of Algae"
+      },
+      {
+        "number": "120L",
+        "title": "Laboratory for Biology of Algae"
+      },
+      {
+        "number": "122",
+        "title": "Bioenergy"
+      },
+      {
+        "number": "13",
+        "title": "Genetic Revolutions"
+      },
+      {
+        "number": "150",
+        "title": "Plant Cell Biology"
+      },
+      {
+        "number": "160",
+        "title": "Plant Molecular Genetics"
+      },
+      {
+        "number": "165",
+        "title": "Plant-Microbe Interactions"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Studies in Plant Biology"
+      },
+      {
+        "number": "199",
+        "title": "Supervised Independent Study and Research"
+      },
+      {
+        "number": "200B",
+        "title": "Genomics and Computational Biology"
+      },
+      {
+        "number": "200D",
+        "title": "Plant Cell Biology"
+      },
+      {
+        "number": "200F",
+        "title": "Plant Systems Biology"
+      },
+      {
+        "number": "210",
+        "title": "Scientific Reasoning and Logic"
+      },
+      {
+        "number": "220B",
+        "title": "Genomics and Computational Biology"
+      },
+      {
+        "number": "220C",
+        "title": "Microbial Diversity and Evolution"
+      },
+      {
+        "number": "220F",
+        "title": "Microbial Ecology"
+      },
+      {
+        "number": "222",
+        "title": "Biochemistry of Biofuels: Concepts and Foundations"
+      },
+      {
+        "number": "238",
+        "title": "Readings in Environmental Microbiology"
+      },
+      {
+        "number": "290",
+        "title": "Seminar"
+      },
+      {
+        "number": "296",
+        "title": "Graduate Supervised Independent Study"
+      },
+      {
+        "number": "297",
+        "title": "Grant Writing and Research Presentations"
+      },
+      {
+        "number": "298",
+        "title": "Plant Biology Group Studies"
+      },
+      {
+        "number": "299",
+        "title": "Graduate Research"
+      },
+      {
+        "number": "40",
+        "title": "The (Secret) Life of Plants"
+      },
+      {
+        "number": "98",
+        "title": "Directed Group Study"
+      },
+      {
+        "number": "99",
+        "title": "Supervised Independent Study and Research"
+      },
+      {
+        "number": "C103",
+        "title": "Bacterial Pathogenesis"
+      },
+      {
+        "number": "C112L",
+        "title": "General Microbiology Laboratory"
+      },
+      {
+        "number": "C114",
+        "title": "Introduction to Comparative Virology"
+      },
+      {
+        "number": "C134",
+        "title": "Chromosome Biology/Cytogenetics"
+      },
+      {
+        "number": "C144",
+        "title": "Introduction to Protein Informatics"
+      },
+      {
+        "number": "C144L",
+        "title": "Protein Informatics Laboratory"
+      },
+      {
+        "number": "C148",
+        "title": "Microbial Genomics and Genetics"
+      },
+      {
+        "number": "C244",
+        "title": "Introduction to Protein Informatics"
+      },
+      {
+        "number": "C244L",
+        "title": "Protein Informatics Laboratory"
+      },
+      {
+        "number": "H196",
+        "title": "Honors Research - Plant and Microbial Biology"
+      }
+    ],
+    "name": "Plant and Microbial Biology",
+    "abbreviation": "PLANTBI"
   },
   {
     "courses": [
@@ -11185,164 +11343,6 @@
     ],
     "name": "Physics",
     "abbreviation": "PHYSICS"
-  },
-  {
-    "courses": [
-      {
-        "number": "101L",
-        "title": "Experimental Plant Biology Laboratory"
-      },
-      {
-        "number": "11",
-        "title": "Fungi, History, and Society"
-      },
-      {
-        "number": "120",
-        "title": "Biology of Algae"
-      },
-      {
-        "number": "120L",
-        "title": "Laboratory for Biology of Algae"
-      },
-      {
-        "number": "122",
-        "title": "Bioenergy"
-      },
-      {
-        "number": "13",
-        "title": "Genetic Revolutions"
-      },
-      {
-        "number": "150",
-        "title": "Plant Cell Biology"
-      },
-      {
-        "number": "160",
-        "title": "Plant Molecular Genetics"
-      },
-      {
-        "number": "165",
-        "title": "Plant-Microbe Interactions"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Studies in Plant Biology"
-      },
-      {
-        "number": "199",
-        "title": "Supervised Independent Study and Research"
-      },
-      {
-        "number": "200B",
-        "title": "Genomics and Computational Biology"
-      },
-      {
-        "number": "200D",
-        "title": "Plant Cell Biology"
-      },
-      {
-        "number": "200F",
-        "title": "Plant Systems Biology"
-      },
-      {
-        "number": "210",
-        "title": "Scientific Reasoning and Logic"
-      },
-      {
-        "number": "220B",
-        "title": "Genomics and Computational Biology"
-      },
-      {
-        "number": "220C",
-        "title": "Microbial Diversity and Evolution"
-      },
-      {
-        "number": "220F",
-        "title": "Microbial Ecology"
-      },
-      {
-        "number": "222",
-        "title": "Biochemistry of Biofuels: Concepts and Foundations"
-      },
-      {
-        "number": "238",
-        "title": "Readings in Environmental Microbiology"
-      },
-      {
-        "number": "290",
-        "title": "Seminar"
-      },
-      {
-        "number": "296",
-        "title": "Graduate Supervised Independent Study"
-      },
-      {
-        "number": "297",
-        "title": "Grant Writing and Research Presentations"
-      },
-      {
-        "number": "298",
-        "title": "Plant Biology Group Studies"
-      },
-      {
-        "number": "299",
-        "title": "Graduate Research"
-      },
-      {
-        "number": "40",
-        "title": "The (Secret) Life of Plants"
-      },
-      {
-        "number": "98",
-        "title": "Directed Group Study"
-      },
-      {
-        "number": "99",
-        "title": "Supervised Independent Study and Research"
-      },
-      {
-        "number": "C103",
-        "title": "Bacterial Pathogenesis"
-      },
-      {
-        "number": "C112L",
-        "title": "General Microbiology Laboratory"
-      },
-      {
-        "number": "C114",
-        "title": "Introduction to Comparative Virology"
-      },
-      {
-        "number": "C134",
-        "title": "Chromosome Biology/Cytogenetics"
-      },
-      {
-        "number": "C144",
-        "title": "Introduction to Protein Informatics"
-      },
-      {
-        "number": "C144L",
-        "title": "Protein Informatics Laboratory"
-      },
-      {
-        "number": "C148",
-        "title": "Microbial Genomics and Genetics"
-      },
-      {
-        "number": "C244",
-        "title": "Introduction to Protein Informatics"
-      },
-      {
-        "number": "C244L",
-        "title": "Protein Informatics Laboratory"
-      },
-      {
-        "number": "H196",
-        "title": "Honors Research - Plant and Microbial Biology"
-      }
-    ],
-    "name": "Plant and Microbial Biology",
-    "abbreviation": "PLANTBI"
   },
   {
     "courses": [
@@ -11837,6 +11837,100 @@
   {
     "courses": [
       {
+        "number": "101",
+        "title": "Introduction to Public Policy Analysis"
+      },
+      {
+        "number": "117AC",
+        "title": "Race, Ethnicity, and Public Policy"
+      },
+      {
+        "number": "179",
+        "title": "Public Budgeting"
+      },
+      {
+        "number": "190",
+        "title": "Special Topics in Public Policy"
+      },
+      {
+        "number": "198",
+        "title": "Directed Group Study"
+      },
+      {
+        "number": "200",
+        "title": "Introduction to Policy Analysis"
+      },
+      {
+        "number": "205",
+        "title": "Advanced Policy Analysis"
+      },
+      {
+        "number": "210B",
+        "title": "The Economics of Public Policy Analysis"
+      },
+      {
+        "number": "240B",
+        "title": "Decision Analysis, Modeling, and Quantitative Methods"
+      },
+      {
+        "number": "269",
+        "title": "Public Budgeting"
+      },
+      {
+        "number": "270",
+        "title": "Kid-First Policy: Family, School, and Community"
+      },
+      {
+        "number": "290",
+        "title": "Special Topics in Public Policy"
+      },
+      {
+        "number": "296",
+        "title": "Ph.D. Seminar"
+      },
+      {
+        "number": "297",
+        "title": "Graduate Student Led Course in Public Policy"
+      },
+      {
+        "number": "298",
+        "title": "Directed Advanced Study"
+      },
+      {
+        "number": "299",
+        "title": "Independent Study in Preparation for the Advanced Policy Analysis"
+      },
+      {
+        "number": "375",
+        "title": "GSI Practicum"
+      },
+      {
+        "number": "98",
+        "title": "Group Study in Public Policy"
+      },
+      {
+        "number": "C103",
+        "title": "Wealth and Poverty"
+      },
+      {
+        "number": "C142",
+        "title": "Applied Econometrics and Public Policy"
+      },
+      {
+        "number": "C157",
+        "title": "Arts and Cultural Policy"
+      },
+      {
+        "number": "C285",
+        "title": "Nuclear Security: The Nexus Between Policy and Technology"
+      }
+    ],
+    "name": "Public Policy",
+    "abbreviation": "PUB POL"
+  },
+  {
+    "courses": [
+      {
         "number": "104B",
         "title": "Health Promotion in a College Setting"
       },
@@ -12269,100 +12363,6 @@
   {
     "courses": [
       {
-        "number": "101",
-        "title": "Introduction to Public Policy Analysis"
-      },
-      {
-        "number": "117AC",
-        "title": "Race, Ethnicity, and Public Policy"
-      },
-      {
-        "number": "179",
-        "title": "Public Budgeting"
-      },
-      {
-        "number": "190",
-        "title": "Special Topics in Public Policy"
-      },
-      {
-        "number": "198",
-        "title": "Directed Group Study"
-      },
-      {
-        "number": "200",
-        "title": "Introduction to Policy Analysis"
-      },
-      {
-        "number": "205",
-        "title": "Advanced Policy Analysis"
-      },
-      {
-        "number": "210B",
-        "title": "The Economics of Public Policy Analysis"
-      },
-      {
-        "number": "240B",
-        "title": "Decision Analysis, Modeling, and Quantitative Methods"
-      },
-      {
-        "number": "269",
-        "title": "Public Budgeting"
-      },
-      {
-        "number": "270",
-        "title": "Kid-First Policy: Family, School, and Community"
-      },
-      {
-        "number": "290",
-        "title": "Special Topics in Public Policy"
-      },
-      {
-        "number": "296",
-        "title": "Ph.D. Seminar"
-      },
-      {
-        "number": "297",
-        "title": "Graduate Student Led Course in Public Policy"
-      },
-      {
-        "number": "298",
-        "title": "Directed Advanced Study"
-      },
-      {
-        "number": "299",
-        "title": "Independent Study in Preparation for the Advanced Policy Analysis"
-      },
-      {
-        "number": "375",
-        "title": "GSI Practicum"
-      },
-      {
-        "number": "98",
-        "title": "Group Study in Public Policy"
-      },
-      {
-        "number": "C103",
-        "title": "Wealth and Poverty"
-      },
-      {
-        "number": "C142",
-        "title": "Applied Econometrics and Public Policy"
-      },
-      {
-        "number": "C157",
-        "title": "Arts and Cultural Policy"
-      },
-      {
-        "number": "C285",
-        "title": "Nuclear Security: The Nexus Between Policy and Technology"
-      }
-    ],
-    "name": "Public Policy",
-    "abbreviation": "PUB POL"
-  },
-  {
-    "courses": [
-      {
         "number": "103B",
         "title": "Approaches and Paradigms in the History of Rhetorical Theory II"
       },
@@ -12653,16 +12653,6 @@
   {
     "courses": [
       {
-        "number": "C250",
-        "title": "Science and Technology Studies Research Seminar"
-      }
-    ],
-    "name": "Science and Technology Studies",
-    "abbreviation": "STS"
-  },
-  {
-    "courses": [
-      {
         "number": "1",
         "title": "Elementary Russian"
       },
@@ -12833,6 +12823,16 @@
     ],
     "name": "Slavic Languages and Literatures",
     "abbreviation": "SLAVIC"
+  },
+  {
+    "courses": [
+      {
+        "number": "C250",
+        "title": "Science and Technology Studies Research Seminar"
+      }
+    ],
+    "name": "Science and Technology Studies",
+    "abbreviation": "STS"
   },
   {
     "courses": [
@@ -13333,6 +13333,40 @@
   {
     "courses": [
       {
+        "number": "124",
+        "title": "Modern Indian Literature"
+      },
+      {
+        "number": "144",
+        "title": "Islam in South Asia"
+      },
+      {
+        "number": "1B",
+        "title": "Introduction to the Civilization of Medieval and Modern India"
+      },
+      {
+        "number": "C142",
+        "title": "India's Great Epics: The Mahabharata and the Ramayana"
+      },
+      {
+        "number": "C215B",
+        "title": "Readings in Indian Buddhist Texts"
+      },
+      {
+        "number": "C224",
+        "title": "Readings in Tibetan Buddhist Texts"
+      },
+      {
+        "number": "R5B",
+        "title": "India in the Writer's Eye"
+      }
+    ],
+    "name": "South Asian",
+    "abbreviation": "S ASIAN"
+  },
+  {
+    "courses": [
+      {
         "number": "190",
         "title": "Seminar in South and Southeast Asian Studies"
       },
@@ -13515,40 +13549,6 @@
   {
     "courses": [
       {
-        "number": "124",
-        "title": "Modern Indian Literature"
-      },
-      {
-        "number": "144",
-        "title": "Islam in South Asia"
-      },
-      {
-        "number": "1B",
-        "title": "Introduction to the Civilization of Medieval and Modern India"
-      },
-      {
-        "number": "C142",
-        "title": "India's Great Epics: The Mahabharata and the Ramayana"
-      },
-      {
-        "number": "C215B",
-        "title": "Readings in Indian Buddhist Texts"
-      },
-      {
-        "number": "C224",
-        "title": "Readings in Tibetan Buddhist Texts"
-      },
-      {
-        "number": "R5B",
-        "title": "India in the Writer's Eye"
-      }
-    ],
-    "name": "South Asian",
-    "abbreviation": "S ASIAN"
-  },
-  {
-    "courses": [
-      {
         "number": "10B",
         "title": "Introduction to the Civilization of Southeast Asia"
       },
@@ -13573,6 +13573,40 @@
     ],
     "name": "Bengali",
     "abbreviation": "BANGLA"
+  },
+  {
+    "courses": [
+      {
+        "number": "100B",
+        "title": "Intermediate Hindi"
+      },
+      {
+        "number": "101B",
+        "title": "Readings in Modern Hindi"
+      },
+      {
+        "number": "103B",
+        "title": "Intermediate Urdu"
+      },
+      {
+        "number": "104B",
+        "title": "Advanced Urdu"
+      },
+      {
+        "number": "1B",
+        "title": "Introductory Hindi"
+      },
+      {
+        "number": "221",
+        "title": "Hindi Literature"
+      },
+      {
+        "number": "2B",
+        "title": "Introductory Urdu"
+      }
+    ],
+    "name": "Hindi-Urdu",
+    "abbreviation": "HIN-URD"
   },
   {
     "courses": [
@@ -13614,35 +13648,15 @@
     "courses": [
       {
         "number": "100B",
-        "title": "Intermediate Hindi"
-      },
-      {
-        "number": "101B",
-        "title": "Readings in Modern Hindi"
-      },
-      {
-        "number": "103B",
-        "title": "Intermediate Urdu"
-      },
-      {
-        "number": "104B",
-        "title": "Advanced Urdu"
+        "title": "Intermediate Punjabi"
       },
       {
         "number": "1B",
-        "title": "Introductory Hindi"
-      },
-      {
-        "number": "221",
-        "title": "Hindi Literature"
-      },
-      {
-        "number": "2B",
-        "title": "Introductory Urdu"
+        "title": "Introductory Punjabi"
       }
     ],
-    "name": "Hindi-Urdu",
-    "abbreviation": "HIN-URD"
+    "name": "Punjabi",
+    "abbreviation": "PUNJABI"
   },
   {
     "courses": [
@@ -13661,20 +13675,6 @@
     ],
     "name": "Malay/Indonesian",
     "abbreviation": "MALAY/I"
-  },
-  {
-    "courses": [
-      {
-        "number": "100B",
-        "title": "Intermediate Punjabi"
-      },
-      {
-        "number": "1B",
-        "title": "Introductory Punjabi"
-      }
-    ],
-    "name": "Punjabi",
-    "abbreviation": "PUNJABI"
   },
   {
     "courses": [
@@ -13739,6 +13739,24 @@
     ],
     "name": "Thai",
     "abbreviation": "THAI"
+  },
+  {
+    "courses": [
+      {
+        "number": "100B",
+        "title": "Intermediate Vietnamese"
+      },
+      {
+        "number": "101B",
+        "title": "Advanced Vietnamese"
+      },
+      {
+        "number": "1B",
+        "title": "Introductory Vietnamese"
+      }
+    ],
+    "name": "Vietnamese",
+    "abbreviation": "VIETNMS"
   },
   {
     "courses": [
@@ -13901,20 +13919,12 @@
   {
     "courses": [
       {
-        "number": "100B",
-        "title": "Intermediate Vietnamese"
-      },
-      {
-        "number": "101B",
-        "title": "Advanced Vietnamese"
-      },
-      {
-        "number": "1B",
-        "title": "Introductory Vietnamese"
+        "number": "101",
+        "title": "Catalan for Advanced Students"
       }
     ],
-    "name": "Vietnamese",
-    "abbreviation": "VIETNMS"
+    "name": "Catalan",
+    "abbreviation": "CATALAN"
   },
   {
     "courses": [
@@ -14119,12 +14129,80 @@
   {
     "courses": [
       {
-        "number": "101",
-        "title": "Catalan for Advanced Students"
+        "number": "112",
+        "title": "Women and Disability"
+      },
+      {
+        "number": "140",
+        "title": "The Hand-Printed Book in Its Historical Context"
+      },
+      {
+        "number": "156",
+        "title": "Human Rights Interdisciplinary Minor Capstone Workshop"
+      },
+      {
+        "number": "162K",
+        "title": "Spies! The Politics of Intelligence"
+      },
+      {
+        "number": "187",
+        "title": "Project-Based Instruction"
+      },
+      {
+        "number": "188",
+        "title": "Research Methods for Science and Mathematics K-12 Teachers"
+      },
+      {
+        "number": "192A",
+        "title": "Humanities"
+      },
+      {
+        "number": "192B",
+        "title": "Social Sciences"
+      },
+      {
+        "number": "192C",
+        "title": "Biological Sciences"
+      },
+      {
+        "number": "192D",
+        "title": "Physical Sciences"
+      },
+      {
+        "number": "192E",
+        "title": "Interdisciplinary Studies"
+      },
+      {
+        "number": "303",
+        "title": "Apprentice Teaching in Science and Mathematics"
+      },
+      {
+        "number": "80A",
+        "title": "It's Elementary! Exploring Science with Young Students"
+      },
+      {
+        "number": "80B",
+        "title": "It's Elementary! Exploring Math with Young Students"
+      },
+      {
+        "number": "81A",
+        "title": "Teaching Science with Middle School Students"
+      },
+      {
+        "number": "81B",
+        "title": "Teaching Math with Middle School Students"
+      },
+      {
+        "number": "82",
+        "title": "K-8 Teaching and Inquiry-Based Lesson Design in the Science and M"
+      },
+      {
+        "number": "98",
+        "title": "Directed Group Study for Lower Division Students"
       }
     ],
-    "name": "Catalan",
-    "abbreviation": "CATALAN"
+    "name": "Undergrad Interdisciplinary Studies",
+    "abbreviation": "UGIS"
   },
   {
     "courses": [
@@ -14319,83 +14397,5 @@
     ],
     "name": "Theater, Dance, and Performance St",
     "abbreviation": "THEATER"
-  },
-  {
-    "courses": [
-      {
-        "number": "112",
-        "title": "Women and Disability"
-      },
-      {
-        "number": "140",
-        "title": "The Hand-Printed Book in Its Historical Context"
-      },
-      {
-        "number": "156",
-        "title": "Human Rights Interdisciplinary Minor Capstone Workshop"
-      },
-      {
-        "number": "162K",
-        "title": "Spies! The Politics of Intelligence"
-      },
-      {
-        "number": "187",
-        "title": "Project-Based Instruction"
-      },
-      {
-        "number": "188",
-        "title": "Research Methods for Science and Mathematics K-12 Teachers"
-      },
-      {
-        "number": "192A",
-        "title": "Humanities"
-      },
-      {
-        "number": "192B",
-        "title": "Social Sciences"
-      },
-      {
-        "number": "192C",
-        "title": "Biological Sciences"
-      },
-      {
-        "number": "192D",
-        "title": "Physical Sciences"
-      },
-      {
-        "number": "192E",
-        "title": "Interdisciplinary Studies"
-      },
-      {
-        "number": "303",
-        "title": "Apprentice Teaching in Science and Mathematics"
-      },
-      {
-        "number": "80A",
-        "title": "It's Elementary! Exploring Science with Young Students"
-      },
-      {
-        "number": "80B",
-        "title": "It's Elementary! Exploring Math with Young Students"
-      },
-      {
-        "number": "81A",
-        "title": "Teaching Science with Middle School Students"
-      },
-      {
-        "number": "81B",
-        "title": "Teaching Math with Middle School Students"
-      },
-      {
-        "number": "82",
-        "title": "K-8 Teaching and Inquiry-Based Lesson Design in the Science and M"
-      },
-      {
-        "number": "98",
-        "title": "Directed Group Study for Lower Division Students"
-      }
-    ],
-    "name": "Undergrad Interdisciplinary Studies",
-    "abbreviation": "UGIS"
   }
 ]

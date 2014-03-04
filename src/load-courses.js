@@ -75,7 +75,7 @@ request.get(url, function(error, resp, body) {
             if(count == result.length) {
               // Save stuff in here, because Larry has never heard of promises.
               console.log('Done loading courses');
-              fs.writeFile(path.join('..', 'data', 'departments.json'), JSON.stringify(total, null, '  '), {encoding: 'utf8'}, function(err) {
+              fs.writeFile(path.join(__dirname, '..', 'data', 'departments.json'), JSON.stringify(total, null, '  '), {encoding: 'utf8'}, function(err) {
                 if(err){
                   console.log('FS error:', err);
                 }
