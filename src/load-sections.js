@@ -5,8 +5,8 @@ var fs = require('fs')
   , request = require('request')
 
   , config = process.env
-  , semester = config.semester
-  , year = config.year;
+  , semester = config.SEMESTER
+  , year = config.YEAR;
 
 // id: department abbreviation
 // course: course number

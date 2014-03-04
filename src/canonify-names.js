@@ -5,7 +5,7 @@ var fs = require('fs')
   , request = require('request')
 
   , config = process.env
-  , term = config.semester
+  , term = config.SEMESTER
 
   , departments = require(path.join('..', 'data', 'departments'));
 

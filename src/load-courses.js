@@ -10,7 +10,9 @@ var fs = require('fs')
   , request = require('request')
 
   , config = process.env
-  , term = config.semester;
+  , term = config.SEMESTER
+  , app_id = config.APP_ID
+  , app_key = config.APP_KEY;
 
 var url = 'http://osoc.berkeley.edu/OSOC/osoc?p_term=' + term + '&p_list_all=Y'
   , result = []
@@ -59,7 +61,7 @@ request.get(url, function(error, resp, body) {
 
     // This gets the actual department names from the API.
     for(var i = 0; i < result.length; i++) {
-      var url = 'https://apis-dev.berkeley.edu/cxf/asws/department?departmentCode='+result[i].abbreviation+'&_type=json&app_id=' + config.app_id + '&app_key=' + config.app_key;
+      var url = 'https://apis-dev.berkeley.edu/cxf/asws/department?departmentCode='+result[i].abbreviation+'&_type=json&app_id=' + app_id + '&app_key=' + app_key;
 
       // DON'T TOUCH.
       // Yes it looks stupid, but you will break things otherwise because asynchronous and reasons.
