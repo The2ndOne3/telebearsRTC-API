@@ -13,7 +13,8 @@ cd src
 foreman run node load-courses.js
 foreman run node load-names.js
 foreman run node load-sections.js # This takes on the order of 6 minutes
-foreman run node load-enrollment.js # This takes on the order of 20 minutes
+# foreman run node load-enrollment.js # This takes on the order of 20 minutes
+foreman run node transform-section-list.js
 ```
 
 # Notes

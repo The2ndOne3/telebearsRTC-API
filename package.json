@@ -9,14 +9,22 @@
     "type": "git",
     "url": "git://github.com/The2ndOne3/telebearsRTC-API.git"
   },
+  "scripts": {
+    "start": "foreman start"
+  },
   "dependencies": {
+    "restify": "*",
+    "bunyan": "*",
+
+    "intercom": "*",
+
+    "onceler": "*",
+
     "underscore": "*",
     "q": "*",
 
     "cheerio": "*",
-    "request": "*",
-
-    "onceler": "*"
+    "request": "*"
   },
   "devDependencies": {
     "mocha": "*",

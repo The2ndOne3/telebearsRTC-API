@@ -53,8 +53,8 @@ var load_course_list = function(callback) {
           gotAbb = true;
         }
 
-        course.course = $(this).find('td:nth-of-type(2)').text().trim();
-        if(course.course != '999') {
+        course.number = $(this).find('td:nth-of-type(2)').text().trim();
+        if(course.number != '999') {
           course.title = $(this).find('td:nth-of-type(3)').text();
           deptData.courses.push(course);
         }

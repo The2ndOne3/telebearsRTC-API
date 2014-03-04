@@ -3165,9 +3165,21 @@
   {
     "courses": [
       {
-        "course": "299",
+        "number": "299",
         "title": "Individual Study or Research",
-        "sections": []
+        "sections": [
+          {
+            "id": "P 001 IND",
+            "instructor": "WURTELE, J S",
+            "time": "TBA",
+            "ccn": "3503"
+          },
+          {
+            "id": "P 2-32 IND",
+            "instructor": "",
+            "time": "TBA"
+          }
+        ]
       }
     ],
     "name": "Applied Science and Technology",
@@ -17624,253 +17636,37 @@
         "number": "201",
         "title": "Graduate Seminar on the Mind and Language",
         "classId": "COG SCI 201",
-        "sections": [
-          {
-            "id": "P 001 SEM",
-            "instructor": "SWEETSER, E E",
-            "time": "TuTh 330-5P",
-            "location": "159 MULFORD",
-            "ccn": "16252"
-          }
-        ]
+        "sections": []
       },
       {
         "number": "C101",
         "title": "The Mind and Language",
         "classId": "COG SCI C101",
-        "sections": [
-          {
-            "id": "P 001 LEC",
-            "instructor": "SWEETSER, E E",
-            "time": "TuTh 330-5P",
-            "location": "159 MULFORD",
-            "ccn": "16060"
-          },
-          {
-            "id": "S 101 DIS",
-            "instructor": "DAVID, O A",
-            "time": "Th 1-2P",
-            "location": "251 DWINELLE",
-            "ccn": "16063"
-          },
-          {
-            "id": "S 102 DIS",
-            "instructor": "GOSS, M W",
-            "time": "Th 9-10A",
-            "location": "47 EVANS",
-            "ccn": "16066"
-          },
-          {
-            "id": "S 103 DIS",
-            "instructor": "CHEN, I",
-            "time": "F 11-12P",
-            "location": "78 BARROWS",
-            "ccn": "16069"
-          },
-          {
-            "id": "S 104 DIS",
-            "instructor": "CHEN, I",
-            "time": "F 12-1P",
-            "location": "221 WHEELER",
-            "ccn": "16072"
-          },
-          {
-            "id": "S 105 DIS",
-            "instructor": "DAVID, O A",
-            "time": "Th 10-11A",
-            "location": "47 EVANS",
-            "ccn": "16075"
-          },
-          {
-            "id": "S 106 DIS",
-            "instructor": "CHEN, I",
-            "time": "Th 11-12P",
-            "location": "122 LATIMER",
-            "ccn": "16078"
-          },
-          {
-            "id": "S 107 DIS",
-            "instructor": "DAVID, O A",
-            "time": "Th 12-1P",
-            "location": "87 EVANS",
-            "ccn": "16081"
-          },
-          {
-            "id": "S 108 DIS",
-            "instructor": "GOSS, M W",
-            "time": "F 10-11A",
-            "location": "221 WHEELER",
-            "ccn": "16084"
-          },
-          {
-            "id": "S 109 DIS",
-            "instructor": "GOSS, M W",
-            "time": "F 2-3P",
-            "location": "283 DWINELLE",
-            "ccn": "16087"
-          }
-        ]
+        "sections": []
       },
       {
         "number": "C103",
         "title": "History of Information",
         "classId": "COG SCI C103",
-        "sections": [
-          {
-            "id": "P 001 LEC",
-            "instructor": "DUGUID, P ",
-            "time": "TuTh 930-11A",
-            "location": "155 KROEBER",
-            "ccn": "16090"
-          }
-        ]
+        "sections": []
       },
       {
         "number": "C126",
         "title": "Perception",
         "classId": "COG SCI C126",
-        "sections": [
-          {
-            "id": "P 001 LEC",
-            "instructor": "WHITNEY, D",
-            "time": "M 12-2P",
-            "location": "105 STANLEY",
-            "ccn": "16093"
-          },
-          {
-            "id": "S 101 DIS",
-            "instructor": "LOBINGIER, J C",
-            "time": "M 9-10A",
-            "location": "2304 TOLMAN",
-            "ccn": "16096"
-          },
-          {
-            "id": "S 102 DIS",
-            "instructor": "LOBINGIER, J C",
-            "time": "M 10-11A",
-            "location": "2304 TOLMAN",
-            "ccn": "16099"
-          },
-          {
-            "id": "S 103 DIS",
-            "instructor": "LOBINGIER, J C",
-            "time": "M 11-12P",
-            "location": "2304 TOLMAN",
-            "ccn": "16102"
-          },
-          {
-            "id": "S 104 DIS",
-            "instructor": "GRISCOM, W",
-            "time": "W 9-10A",
-            "location": "2305 TOLMAN",
-            "ccn": "16105"
-          },
-          {
-            "id": "S 105 DIS",
-            "instructor": "GRISCOM, W",
-            "time": "W 10-11A",
-            "location": "2305 TOLMAN",
-            "ccn": "16108"
-          },
-          {
-            "id": "S 106 DIS",
-            "instructor": "GRISCOM, W",
-            "time": "W 11-12P",
-            "location": "2305 TOLMAN",
-            "ccn": "16111"
-          },
-          {
-            "id": "S 107 DIS",
-            "instructor": "GUSTAFSON, E",
-            "time": "W 12-1P",
-            "location": "2129 TOLMAN",
-            "ccn": "16114"
-          },
-          {
-            "id": "S 108 DIS",
-            "instructor": "GUSTAFSON, E",
-            "time": "W 1-2P",
-            "location": "2129 TOLMAN",
-            "ccn": "16117"
-          },
-          {
-            "id": "S 109 DIS",
-            "instructor": "GUSTAFSON, E",
-            "time": "W 2-3P",
-            "location": "2129 TOLMAN",
-            "ccn": "16120"
-          },
-          {
-            "id": "S 110 DIS",
-            "instructor": "GUAN, P",
-            "time": "Th 1-2P",
-            "location": "2301 TOLMAN",
-            "ccn": "16122"
-          },
-          {
-            "id": "S 111 DIS",
-            "instructor": "GUAN, P",
-            "time": "Th 2-3P",
-            "location": "2301 TOLMAN",
-            "ccn": "16246"
-          },
-          {
-            "id": "S 112 DIS",
-            "instructor": "GUAN, P",
-            "time": "Th 3-4P",
-            "location": "2301 TOLMAN",
-            "ccn": "16249"
-          }
-        ]
+        "sections": []
       },
       {
         "number": "C140",
         "title": "Quantitative Methods in Linguistics",
         "classId": "COG SCI C140",
-        "sections": [
-          {
-            "id": "P 001 LEC",
-            "instructor": "GAHL, S",
-            "time": "TuTh 930-11A",
-            "location": "220 WHEELER",
-            "ccn": "16138"
-          },
-          {
-            "id": "S 101 DIS",
-            "instructor": "LUTZROSS, A",
-            "time": "Th 1-2P",
-            "location": "80 BARROWS",
-            "ccn": "16141"
-          },
-          {
-            "id": "S 102 DIS",
-            "instructor": "LUTZROSS, A",
-            "time": "F 9-10A",
-            "location": "189 DWINELLE (effective 01/31/14)",
-            "ccn": "16144"
-          },
-          {
-            "id": "S 103 DIS",
-            "instructor": "LUTZROSS, A",
-            "time": "F 1-2P",
-            "location": "225 DWINELLE",
-            "ccn": "16147"
-          }
-        ]
+        "sections": []
       },
       {
         "number": "C142",
         "title": "Language and Thought",
         "classId": "COG SCI C142",
-        "sections": [
-          {
-            "id": "P 001 SEM",
-            "instructor": "REGIER, T P ",
-            "time": "W 2-4P",
-            "location": "219 DWINELLE (effective 02/05/14)",
-            "ccn": "16150"
-          }
-        ]
+        "sections": []
       }
     ],
     "name": "Cognitive Science",
@@ -45638,39 +45434,114 @@
   {
     "courses": [
       {
-        "course": "24",
+        "number": "24",
         "title": "Freshman Seminars",
-        "sections": []
+        "sections": [
+          {
+            "id": "P 001 SEM",
+            "instructor": "DRUMMOND, W J",
+            "time": "M 2-330P,",
+            "ccn": "48003"
+          }
+        ]
       },
       {
-        "course": "C101",
+        "number": "C101",
         "title": "Edible Education: The Rise and Future of the Food M...",
-        "sections": []
+        "sections": [
+          {
+            "id": "P 001 LEC",
+            "instructor": "POLLAN, M K",
+            "time": "M 630-830P",
+            "location": "WHEELER AUD",
+            "ccn": "48015"
+          }
+        ]
       },
       {
-        "course": "C141",
+        "number": "C141",
         "title": "Understanding Journalism",
-        "sections": []
+        "sections": [
+          {
+            "id": "P 001 LEC",
+            "instructor": "GOLDSTEIN, T J",
+            "time": "TuTh 8-930A",
+            "location": "10 EVANS",
+            "ccn": "48018"
+          }
+        ]
       },
       {
-        "course": "226",
+        "number": "226",
         "title": "Science Reporting",
-        "sections": []
+        "sections": [
+          {
+            "id": "P 002 LEC",
+            "instructor": "POLLAN, M K",
+            "time": "TBA",
+            "ccn": "48068"
+          }
+        ]
       },
       {
-        "course": "234",
+        "number": "234",
         "title": "International Reporting",
-        "sections": []
+        "sections": [
+          {
+            "id": "P 001 SEM",
+            "instructor": "THE STAFF",
+            "time": "TBA",
+            "ccn": "48077"
+          }
+        ]
       },
       {
-        "course": "294",
+        "number": "294",
         "title": "Master's Project Seminar",
-        "sections": []
+        "sections": [
+          {
+            "id": "P 018 SEM",
+            "instructor": "POLLAN, M K",
+            "time": "TBA",
+            "ccn": "48156"
+          },
+          {
+            "id": "P 019 SEM",
+            "instructor": "HERNANDEZ, R K",
+            "time": "TBA",
+            "ccn": "48159"
+          },
+          {
+            "id": "P 020 SEM",
+            "instructor": "DOBB, E C",
+            "time": "TBA",
+            "ccn": "48162"
+          }
+        ]
       },
       {
-        "course": "298",
+        "number": "298",
         "title": "Group Study - Special Topics",
-        "sections": []
+        "sections": [
+          {
+            "id": "P 006 SEM",
+            "instructor": "MUTTER, A",
+            "time": "TBA",
+            "ccn": "48188"
+          },
+          {
+            "id": "P 011 SEM",
+            "instructor": "MCGIRK, T",
+            "time": "TBA",
+            "ccn": "48201"
+          },
+          {
+            "id": "P 013 SEM",
+            "instructor": "FARIVAR, C J",
+            "time": "TBA",
+            "ccn": "48207"
+          }
+        ]
       }
     ],
     "name": "Journalism",

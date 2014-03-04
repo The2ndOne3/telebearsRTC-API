@@ -669,7 +669,7 @@
   {
     "courses": [
       {
-        "course": "299",
+        "number": "299",
         "title": "Individual Study or Research"
       }
     ],
@@ -9477,31 +9477,31 @@
   {
     "courses": [
       {
-        "course": "24",
+        "number": "24",
         "title": "Freshman Seminars"
       },
       {
-        "course": "C101",
+        "number": "C101",
         "title": "Edible Education: The Rise and Future of the Food M..."
       },
       {
-        "course": "C141",
+        "number": "C141",
         "title": "Understanding Journalism"
       },
       {
-        "course": "226",
+        "number": "226",
         "title": "Science Reporting"
       },
       {
-        "course": "234",
+        "number": "234",
         "title": "International Reporting"
       },
       {
-        "course": "294",
+        "number": "294",
         "title": "Master's Project Seminar"
       },
       {
-        "course": "298",
+        "number": "298",
         "title": "Group Study - Special Topics"
       }
     ],
