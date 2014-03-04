@@ -32,7 +32,7 @@ _.each(departments, function(dept) {
       return console.error(err, url);
     }
     if (body == 'Authentication failed') {
-      return console.log('Error (Auth failed):', url);
+      return console.error('Error (Auth failed):', url);
     }
 
     console.log('Department:', dept.abbreviation);

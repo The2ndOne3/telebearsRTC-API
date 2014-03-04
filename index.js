@@ -8,7 +8,8 @@ var path = require('path')
   , sections = require('.' + path.sep + path.join('data', 'section-list'))
   , depts = require('.' + path.sep + path.join('data', 'departments'));
 
-var classes = [];
+var classes = []
+  , prev = {};
 
 _.each(depts, function(dept) {
   classes = _.union(classes, dept.courses.map(function(course) {

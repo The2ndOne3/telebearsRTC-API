@@ -22,7 +22,7 @@ var save = _.after(departments.length, function() {
   console.log('Done loading courses.');
   fs.writeFile(path.join(__dirname, '..', 'data', 'sections.json'), JSON.stringify(departments, null, '  '), {encoding: 'utf8'}, function(err) {
     if(err){
-      console.log('FS error:', err);
+      console.error('FS error:', err);
     }
     console.log('Done saving courses.');
     process.exit();
