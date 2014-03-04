@@ -8,9 +8,9 @@ This repository also contains all the data dumps of classes and sections to init
 * `foreman` runs scripts with the environment variables set in `.env`
 
 # Data-dumping
-``bash
+```bash
 foreman run node load-courses.js
 foreman run node canonify-names.js
 foreman run node load-sections.js // This one is REEAAAAALLY slow
 foreman run node build-section-list.js
-``
+```
