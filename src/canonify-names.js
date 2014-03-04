@@ -1,60 +1,62 @@
 var fs = require('fs')
   , path = require('path')
 
+  , _ = require('underscore')
+
   , cheerio = require('cheerio')
   , request = require('request')
 
   , config = process.env
-  , term = config.SEMESTER
+  , term = config.TERM
+  , termYear = config.TERMYEAR
+  , app_id = config.APP_ID
+  , app_key = config.APP_KEY
 
   , departments = require(path.join('..', 'data', 'departments'));
 
-var itr = 0;
-for(var i = 0; i < departments.length; i++) {
+_.each(departments, function(dept) {
   // This gives us a 500, because the API hates people.
-  if (departments[i].abbreviation == 'AST' ||
-      departments[i].abbreviation == 'JOURN') {
-    continue;
+  if (dept.abbreviation == 'AST' ||
+      dept.abbreviation == 'JOURN') {
+    return;
   }
 
+  // You need to encode the ampersands, but not the pluses, because why would an api ever need to be consistent?
   var url = 'https://apis-dev.berkeley.edu/cxf/asws/classoffering?departmentCode=' +
-    // encodeURIComponent(department.abbreviation.replace(/\s/g, '+')) + '&term=' +
-    // YOU NEED TO ENCODE THE AMPERSANDS, BUT NOT THE PLUSES
-    // BECAUSE WHY WOULD AN API EVER NEED TO BE CONSISTENT?
-    departments[i].abbreviation.replace(/\s/g, '+').replace('&', '%26') + '&term=' +
-    config.term + '&termYear=' + config.termYear + '&_type=json&app_id=' + 
-    config.app_id + '&app_key=' + config.app_key;
+    dept.abbreviation.replace(/\s/g, '+').replace('&', '%26') + '&term=' +
+    term + '&termYear=' + termYear + '&_type=json&app_id=' + 
+    app_id + '&app_key=' + app_key;
 
-  (function(){
-    // Async trick.
-    var index = i;
-    request(url, function(err, res, body) {
-  
-      if (err) {
-        return console.error(err);
-      }
-      console.log('url:', res.req.path);
-      JSON.parse(body);
-      console.log('parsed.');
-  
-      departments[index].courses = JSON.parse(body).ClassOffering.map(function(element) {
-        return {
-          number: '' + element.courseNumber,
-          title: element.courseTitle
-        };
-      });
-      itr++;
-  
-      // The 2 we skipped.
-      if (itr == departments.length - 2) {
-        fs.writeFile(path.join(__dirname, '..', 'data', 'departments-named.json'), JSON.stringify(departments, null, '  '), {encoding: 'utf8'}, function(err) {
-          console.log('course names saved');
-          if(err){
-            console.log('FS error:', err);
-          }
-          process.exit();
-        });
-      }
+  request(url, function(err, res, body) {
+    if (err) {
+      return console.error(err, url);
+    }
+    if (body == 'Authentication failed') {
+      return console.log('Error (Auth failed):', url);
+    }
+
+    console.log('Department:', dept.abbreviation);
+    var data = JSON.parse(body);
+    console.log('Parsed.');
+
+    dept.courses = data.ClassOffering.map(function(element) {
+      return {
+        number: '' + element.courseNumber,
+        title: element.courseTitle
+      };
     });
-  })();
-}
+
+    save();
+  });
+});
+
+// We skipped the 2 broken departments that give us empty 500s.
+var save = _.after(departments.length - 2, function() {
+  fs.writeFile(path.join(__dirname, '..', 'data', 'departments-named.json'), JSON.stringify(departments, null, '  '), {encoding: 'utf8'}, function(err) {
+    if(err){
+      console.log('FS error:', err);
+    }
+    console.log('Course names saved.');
+    process.exit();
+  });
+});
