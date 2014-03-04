@@ -40,10 +40,12 @@ _.each(departments, function(dept) {
     console.log('Parsed.');
 
     dept.courses = data.ClassOffering.map(function(element) {
-      return {
+      var course = {
         number: '' + element.courseNumber,
-        title: element.courseTitle
+        title: element.courseTitle,
       };
+      course.classId = [dept.abbreviation, course.number].join(' ');
+      return course;
     });
 
     save();
@@ -52,7 +54,7 @@ _.each(departments, function(dept) {
 
 // We skipped the 2 broken departments that give us empty 500s.
 var save = _.after(departments.length - 2, function() {
-  fs.writeFile(path.join(__dirname, '..', 'data', 'departments-named.json'), JSON.stringify(departments, null, '  '), {encoding: 'utf8'}, function(err) {
+  fs.writeFile(path.join(__dirname, '..', 'data', 'departments-parsed.json'), JSON.stringify(departments, null, '  '), {encoding: 'utf8'}, function(err) {
     if(err){
       console.log('FS error:', err);
     }

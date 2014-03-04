@@ -1,1514 +1,6052 @@
 [
   {
-    "uid": "AFRICAM 10B",
-    "ccn": "557"
-  },
-  {
-    "uid": "AFRICAM 112B",
-    "ccn": "617"
-  },
-  {
-    "uid": "AFRICAM 112B",
-    "ccn": "620"
-  },
-  {
-    "uid": "AFRICAM 114",
-    "ccn": "623"
-  },
-  {
-    "uid": "AFRICAM 117",
-    "ccn": "626"
-  },
-  {
-    "uid": "AFRICAM 117",
-    "ccn": "629"
-  },
-  {
-    "uid": "AFRICAM 11B",
-    "ccn": "560"
-  },
-  {
-    "uid": "AFRICAM 11B",
-    "ccn": "563"
-  },
-  {
-    "uid": "AFRICAM 122",
-    "ccn": "632"
-  },
-  {
-    "uid": "AFRICAM 123",
-    "ccn": "635"
-  },
-  {
-    "uid": "AFRICAM 134",
-    "ccn": "636"
-  },
-  {
-    "uid": "AFRICAM 137",
-    "ccn": "637"
-  },
-  {
-    "uid": "AFRICAM 138",
-    "ccn": "638"
-  },
-  {
-    "uid": "AFRICAM 139",
-    "ccn": "640"
-  },
-  {
-    "uid": "AFRICAM 142AC",
-    "ccn": "788"
-  },
-  {
-    "uid": "AFRICAM 142AC",
-    "ccn": "800"
-  },
-  {
-    "uid": "AFRICAM 153C",
-    "ccn": "641"
-  },
-  {
-    "uid": "AFRICAM 156AC",
-    "ccn": "644"
-  },
-  {
-    "uid": "AFRICAM 156AC",
-    "ccn": "647"
-  },
-  {
-    "uid": "AFRICAM 156AC",
-    "ccn": "650"
-  },
-  {
-    "uid": "AFRICAM 156AC",
-    "ccn": "653"
-  },
-  {
-    "uid": "AFRICAM 156AC",
-    "ccn": "656"
-  },
-  {
-    "uid": "AFRICAM 156AC",
-    "ccn": "659"
-  },
-  {
-    "uid": "AFRICAM 156AC",
-    "ccn": "662"
-  },
-  {
-    "uid": "AFRICAM 156AC",
-    "ccn": "665"
-  },
-  {
-    "uid": "AFRICAM 156AC",
-    "ccn": "668"
-  },
-  {
-    "uid": "AFRICAM 157",
-    "ccn": "670"
-  },
-  {
-    "uid": "AFRICAM 158B",
-    "ccn": "671"
-  },
-  {
-    "uid": "AFRICAM 159",
-    "ccn": "677"
-  },
-  {
-    "uid": "AFRICAM 15B",
-    "ccn": "566"
-  },
-  {
-    "uid": "AFRICAM 173AC",
-    "ccn": "680"
-  },
-  {
-    "uid": "AFRICAM 197",
-    "ccn": "689"
-  },
-  {
-    "uid": "AFRICAM 197",
-    "ccn": "692"
-  },
-  {
-    "uid": "AFRICAM 197",
-    "ccn": "695"
-  },
-  {
-    "uid": "AFRICAM 197",
-    "ccn": "697"
-  },
-  {
-    "uid": "AFRICAM 198",
-    "ccn": "701"
-  },
-  {
-    "uid": "AFRICAM 198",
-    "ccn": "716"
-  },
-  {
-    "uid": "AFRICAM 199"
-  },
-  {
-    "uid": "AFRICAM 24",
-    "ccn": "569"
-  },
-  {
-    "uid": "AFRICAM 24",
-    "ccn": "571"
-  },
-  {
-    "uid": "AFRICAM 240",
-    "ccn": "749"
-  },
-  {
-    "uid": "AFRICAM 240",
-    "ccn": "752"
-  },
-  {
-    "uid": "AFRICAM 240",
-    "ccn": "753"
-  },
-  {
-    "uid": "AFRICAM 241",
-    "ccn": "754"
-  },
-  {
-    "uid": "AFRICAM 296",
-    "ccn": "761"
-  },
-  {
-    "uid": "AFRICAM 39F",
-    "ccn": "572"
-  },
-  {
-    "uid": "AFRICAM 4B",
-    "ccn": "527"
-  },
-  {
-    "uid": "AFRICAM 4B",
-    "ccn": "530"
-  },
-  {
-    "uid": "AFRICAM 4B",
-    "ccn": "533"
-  },
-  {
-    "uid": "AFRICAM 4B",
-    "ccn": "536"
-  },
-  {
-    "uid": "AFRICAM 5B",
-    "ccn": "550"
-  },
-  {
-    "uid": "AFRICAM 5B",
-    "ccn": "791"
-  },
-  {
-    "uid": "AFRICAM 5B",
-    "ccn": "793"
-  },
-  {
-    "uid": "AFRICAM 5B",
-    "ccn": "794"
-  },
-  {
-    "uid": "AFRICAM 602",
-    "ccn": "785"
-  },
-  {
-    "uid": "AFRICAM 7B",
-    "ccn": "551"
-  },
-  {
-    "uid": "AFRICAM 8B",
-    "ccn": "554"
-  },
-  {
-    "uid": "AFRICAM 98",
-    "ccn": "578"
-  },
-  {
-    "uid": "AFRICAM H195A",
-    "ccn": "683"
-  },
-  {
-    "uid": "AFRICAM H195B",
-    "ccn": "686"
-  },
-  {
-    "uid": "AFRICAM R1A",
-    "ccn": "503"
-  },
-  {
-    "uid": "AFRICAM R1A",
-    "ccn": "506"
-  },
-  {
-    "uid": "AFRICAM R1B",
-    "ccn": "509"
-  },
-  {
-    "uid": "AFRICAM R1B",
-    "ccn": "512"
-  },
-  {
-    "uid": "AFRICAM R1B",
-    "ccn": "515"
-  },
-  {
-    "uid": "AFRICAM R1B",
-    "ccn": "518"
-  },
-  {
-    "uid": "AFRICAM R1B",
-    "ccn": "521"
-  },
-  {
-    "uid": "AFRICAM R1B",
-    "ccn": "524"
-  },
-  {
-    "uid": "AGR CHM 299"
-  },
-  {
-    "uid": "AMERSTD 10",
-    "ccn": "2003"
-  },
-  {
-    "uid": "AMERSTD 10",
-    "ccn": "2006"
-  },
-  {
-    "uid": "AMERSTD 10",
-    "ccn": "2009"
-  },
-  {
-    "uid": "AMERSTD 10",
-    "ccn": "2012"
-  },
-  {
-    "uid": "AMERSTD 10",
-    "ccn": "2015"
-  },
-  {
-    "uid": "AMERSTD 101",
-    "ccn": "2017"
-  },
-  {
-    "uid": "AMERSTD 101AC",
-    "ccn": "2135"
-  },
-  {
-    "uid": "AMERSTD 102",
-    "ccn": "2018"
-  },
-  {
-    "uid": "AMERSTD 139AC",
-    "ccn": "2066"
-  },
-  {
-    "uid": "AMERSTD 139AC",
-    "ccn": "2069"
-  },
-  {
-    "uid": "AMERSTD 139AC",
-    "ccn": "2075"
-  },
-  {
-    "uid": "AMERSTD 139AC",
-    "ccn": "2078"
-  },
-  {
-    "uid": "AMERSTD 139AC",
-    "ccn": "2081"
-  },
-  {
-    "uid": "AMERSTD 191",
-    "ccn": "2102"
-  },
-  {
-    "uid": "AMERSTD 191",
-    "ccn": "2105"
-  },
-  {
-    "uid": "AMERSTD 191",
-    "ccn": "2108"
-  },
-  {
-    "uid": "AMERSTD 191",
-    "ccn": "2111"
-  },
-  {
-    "uid": "AMERSTD C111E",
-    "ccn": "2027"
-  },
-  {
-    "uid": "AMERSTD C111E",
-    "ccn": "2030"
-  },
-  {
-    "uid": "AMERSTD C111E",
-    "ccn": "2033"
-  },
-  {
-    "uid": "AMERSTD C111E",
-    "ccn": "2036"
-  },
-  {
-    "uid": "AMERSTD C111E",
-    "ccn": "2039"
-  },
-  {
-    "uid": "AMERSTD C112B",
-    "ccn": "2042"
-  },
-  {
-    "uid": "AMERSTD C112B",
-    "ccn": "2045"
-  },
-  {
-    "uid": "AMERSTD C112B",
-    "ccn": "2048"
-  },
-  {
-    "uid": "AMERSTD C112B",
-    "ccn": "2051"
-  },
-  {
-    "uid": "AMERSTD C112B",
-    "ccn": "2054"
-  },
-  {
-    "uid": "AMERSTD C132B",
-    "ccn": "2057"
-  },
-  {
-    "uid": "AMERSTD C132B",
-    "ccn": "2060"
-  },
-  {
-    "uid": "AMERSTD C132B",
-    "ccn": "2063"
-  },
-  {
-    "uid": "AMERSTD C152",
-    "ccn": "2087"
-  },
-  {
-    "uid": "AMERSTD C172",
-    "ccn": "2090"
-  },
-  {
-    "uid": "AMERSTD H110",
-    "ccn": "2024"
-  },
-  {
-    "uid": "AMERSTD H195",
-    "ccn": "2114"
-  },
-  {
-    "uid": "AHMA 210",
-    "ccn": "2202"
-  },
-  {
-    "uid": "AHMA 299",
-    "ccn": "2203"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2303"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2306"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2309"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2312"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2315"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2318"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2330"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2333"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2336"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2342"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2345"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2348"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2351"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2354"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2357"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2360"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2363"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2372"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2375"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2390"
-  },
-  {
-    "uid": "ANTHRO 1",
-    "ccn": "2393"
-  },
-  {
-    "uid": "ANTHRO 112",
-    "ccn": "2624"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2627"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2630"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2633"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2636"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2639"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2642"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2645"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2648"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2651"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2654"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2657"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2660"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2663"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2666"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2669"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2672"
-  },
-  {
-    "uid": "ANTHRO 114",
-    "ccn": "2675"
-  },
-  {
-    "uid": "ANTHRO 115",
-    "ccn": "2678"
-  },
-  {
-    "uid": "ANTHRO 115",
-    "ccn": "2681"
-  },
-  {
-    "uid": "ANTHRO 115",
-    "ccn": "2684"
-  },
-  {
-    "uid": "ANTHRO 115",
-    "ccn": "2687"
-  },
-  {
-    "uid": "ANTHRO 115",
-    "ccn": "2690"
-  },
-  {
-    "uid": "ANTHRO 115",
-    "ccn": "2693"
-  },
-  {
-    "uid": "ANTHRO 115",
-    "ccn": "2696"
-  },
-  {
-    "uid": "ANTHRO 115",
-    "ccn": "2699"
-  },
-  {
-    "uid": "ANTHRO 115",
-    "ccn": "2702"
-  },
-  {
-    "uid": "ANTHRO 119",
-    "ccn": "2705"
-  },
-  {
-    "uid": "ANTHRO 128",
-    "ccn": "2711"
-  },
-  {
-    "uid": "ANTHRO 135",
-    "ccn": "2722"
-  },
-  {
-    "uid": "ANTHRO 135",
-    "ccn": "3479"
-  },
-  {
-    "uid": "ANTHRO 137",
-    "ccn": "2723"
-  },
-  {
-    "uid": "ANTHRO 138B",
-    "ccn": "2726"
-  },
-  {
-    "uid": "ANTHRO 138B",
-    "ccn": "2729"
-  },
-  {
-    "uid": "ANTHRO 152",
-    "ccn": "2731"
-  },
-  {
-    "uid": "ANTHRO 158",
-    "ccn": "2735"
-  },
-  {
-    "uid": "ANTHRO 162",
-    "ccn": "2738"
-  },
-  {
-    "uid": "ANTHRO 166",
-    "ccn": "2741"
-  },
-  {
-    "uid": "ANTHRO 174AC",
-    "ccn": "2747"
-  },
-  {
-    "uid": "ANTHRO 181",
-    "ccn": "2753"
-  },
-  {
-    "uid": "ANTHRO 181",
-    "ccn": "2756"
-  },
-  {
-    "uid": "ANTHRO 181",
-    "ccn": "2759"
-  },
-  {
-    "uid": "ANTHRO 181",
-    "ccn": "2762"
-  },
-  {
-    "uid": "ANTHRO 181",
-    "ccn": "2765"
-  },
-  {
-    "uid": "ANTHRO 189",
-    "ccn": "2768"
-  },
-  {
-    "uid": "ANTHRO 196",
-    "ccn": "2902"
-  },
-  {
-    "uid": "ANTHRO 219",
-    "ccn": "3494"
-  },
-  {
-    "uid": "ANTHRO 229B",
-    "ccn": "3065"
-  },
-  {
-    "uid": "ANTHRO 229C",
-    "ccn": "3067"
-  },
-  {
-    "uid": "ANTHRO 230",
-    "ccn": "3068"
-  },
-  {
-    "uid": "ANTHRO 230",
-    "ccn": "3071"
-  },
-  {
-    "uid": "ANTHRO 24",
-    "ccn": "2571"
-  },
-  {
-    "uid": "ANTHRO 24",
-    "ccn": "3482"
-  },
-  {
-    "uid": "ANTHRO 24",
-    "ccn": "3485"
-  },
-  {
-    "uid": "ANTHRO 240B",
-    "ccn": "3074"
-  },
-  {
-    "uid": "ANTHRO 250C",
-    "ccn": "3076"
-  },
-  {
-    "uid": "ANTHRO 250R",
-    "ccn": "3077"
-  },
-  {
-    "uid": "ANTHRO 250V",
-    "ccn": "3080"
-  },
-  {
-    "uid": "ANTHRO 250X",
-    "ccn": "3086"
-  },
-  {
-    "uid": "ANTHRO 250X",
-    "ccn": "3092"
-  },
-  {
-    "uid": "ANTHRO 250X",
-    "ccn": "3095"
-  },
-  {
-    "uid": "ANTHRO 250X",
-    "ccn": "3101"
-  },
-  {
-    "uid": "ANTHRO 250X",
-    "ccn": "3104"
-  },
-  {
-    "uid": "ANTHRO 250X",
-    "ccn": "3110"
-  },
-  {
-    "uid": "ANTHRO 250X",
-    "ccn": "3112"
-  },
-  {
-    "uid": "ANTHRO 290",
-    "ccn": "3125"
-  },
-  {
-    "uid": "ANTHRO 290",
-    "ccn": "3128"
-  },
-  {
-    "uid": "ANTHRO 296A"
-  },
-  {
-    "uid": "ANTHRO 296B"
-  },
-  {
-    "uid": "ANTHRO 298"
-  },
-  {
-    "uid": "ANTHRO 299"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2396"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2399"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2402"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2405"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2408"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2411"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2414"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2417"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2420"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2423"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2426"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2429"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2432"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2435"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2438"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2441"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2444"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2447"
-  },
-  {
-    "uid": "ANTHRO 2AC",
-    "ccn": "2450"
-  },
-  {
-    "uid": "ANTHRO 301"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2453"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2456"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2459"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2462"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2465"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2468"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2471"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2474"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2477"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2480"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2483"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2486"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2489"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2492"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2495"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2498"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2501"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2504"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2507"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2510"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2513"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2516"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2519"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2522"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2525"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2528"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2531"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2534"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2537"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2540"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2543"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2546"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2549"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2552"
-  },
-  {
-    "uid": "ANTHRO 3AC",
-    "ccn": "2555"
-  },
-  {
-    "uid": "ANTHRO 602"
-  },
-  {
-    "uid": "ANTHRO 84",
-    "ccn": "2572"
-  },
-  {
-    "uid": "ANTHRO 84",
-    "ccn": "3476"
-  },
-  {
-    "uid": "ANTHRO 98",
-    "ccn": "2594"
-  },
-  {
-    "uid": "ANTHRO 98",
-    "ccn": "2596"
-  },
-  {
-    "uid": "ANTHRO 98",
-    "ccn": "3497"
-  },
-  {
-    "uid": "ANTHRO 98",
-    "ccn": "3499"
-  },
-  {
-    "uid": "ANTHRO C103",
-    "ccn": "2621"
-  },
-  {
-    "uid": "ANTHRO C129D",
-    "ccn": "2714"
-  },
-  {
-    "uid": "ANTHRO C262B",
-    "ccn": "3113"
-  },
-  {
-    "uid": "ANTHRO C273",
-    "ccn": "3116"
-  },
-  {
-    "uid": "ANTHRO R5B",
-    "ccn": "2558"
-  },
-  {
-    "uid": "ANTHRO R5B",
-    "ccn": "2561"
-  },
-  {
-    "uid": "ANTHRO R5B",
-    "ccn": "2564"
-  },
-  {
-    "uid": "ARCH 100B",
-    "ccn": "3633"
-  },
-  {
-    "uid": "ARCH 100B",
-    "ccn": "3636"
-  },
-  {
-    "uid": "ARCH 100B",
-    "ccn": "3663"
-  },
-  {
-    "uid": "ARCH 100D",
-    "ccn": "3696"
-  },
-  {
-    "uid": "ARCH 100D",
-    "ccn": "3698"
-  },
-  {
-    "uid": "ARCH 100D",
-    "ccn": "4113"
-  },
-  {
-    "uid": "ARCH 100D",
-    "ccn": "4116"
-  },
-  {
-    "uid": "ARCH 102B",
-    "ccn": "3699"
-  },
-  {
-    "uid": "ARCH 111",
-    "ccn": "3702"
-  },
-  {
-    "uid": "ARCH 111",
-    "ccn": "3705"
-  },
-  {
-    "uid": "ARCH 111",
-    "ccn": "3711"
-  },
-  {
-    "uid": "ARCH 111",
-    "ccn": "3714"
-  },
-  {
-    "uid": "ARCH 119",
-    "ccn": "3617"
-  },
-  {
-    "uid": "ARCH 129",
-    "ccn": "3715"
-  },
-  {
-    "uid": "ARCH 129",
-    "ccn": "3620"
-  },
-  {
-    "uid": "ARCH 129",
-    "ccn": "3623"
-  },
-  {
-    "uid": "ARCH 139",
-    "ccn": "3716"
-  },
-  {
-    "uid": "ARCH 139",
-    "ccn": "3608"
-  },
-  {
-    "uid": "ARCH 139",
-    "ccn": "3611"
-  },
-  {
-    "uid": "ARCH 140",
-    "ccn": "3717"
-  },
-  {
-    "uid": "ARCH 140",
-    "ccn": "3720"
-  },
-  {
-    "uid": "ARCH 140",
-    "ccn": "3723"
-  },
-  {
-    "uid": "ARCH 140",
-    "ccn": "3726"
-  },
-  {
-    "uid": "ARCH 140",
-    "ccn": "3729"
-  },
-  {
-    "uid": "ARCH 140",
-    "ccn": "3732"
-  },
-  {
-    "uid": "ARCH 140",
-    "ccn": "3735"
-  },
-  {
-    "uid": "ARCH 140",
-    "ccn": "3737"
-  },
-  {
-    "uid": "ARCH 154",
-    "ccn": "3738"
-  },
-  {
-    "uid": "ARCH 160",
-    "ccn": "3741"
-  },
-  {
-    "uid": "ARCH 160",
-    "ccn": "3744"
-  },
-  {
-    "uid": "ARCH 160",
-    "ccn": "3747"
-  },
-  {
-    "uid": "ARCH 160",
-    "ccn": "3750"
-  },
-  {
-    "uid": "ARCH 160",
-    "ccn": "3753"
-  },
-  {
-    "uid": "ARCH 160",
-    "ccn": "3756"
-  },
-  {
-    "uid": "ARCH 160",
-    "ccn": "3761"
-  },
-  {
-    "uid": "ARCH 170B",
-    "ccn": "3768"
-  },
-  {
-    "uid": "ARCH 170B",
-    "ccn": "3771"
-  },
-  {
-    "uid": "ARCH 170B",
-    "ccn": "3774"
-  },
-  {
-    "uid": "ARCH 170B",
-    "ccn": "3780"
-  },
-  {
-    "uid": "ARCH 170B",
-    "ccn": "3783"
-  },
-  {
-    "uid": "ARCH 170B",
-    "ccn": "3786"
-  },
-  {
-    "uid": "ARCH 170B",
-    "ccn": "3792"
-  },
-  {
-    "uid": "ARCH 179",
-    "ccn": "3795"
-  },
-  {
-    "uid": "ARCH 179",
-    "ccn": "3810"
-  },
-  {
-    "uid": "ARCH 180AC",
-    "ccn": "3815"
-  },
-  {
-    "uid": "ARCH 180AC",
-    "ccn": "3600"
-  },
-  {
-    "uid": "ARCH 180AC",
-    "ccn": "3601"
-  },
-  {
-    "uid": "ARCH 180AC",
-    "ccn": "3604"
-  },
-  {
-    "uid": "ARCH 180AC",
-    "ccn": "3607"
-  },
-  {
-    "uid": "ARCH 180AC",
-    "ccn": "3610"
-  },
-  {
-    "uid": "ARCH 180AC",
-    "ccn": "3613"
-  },
-  {
-    "uid": "ARCH 180AC",
-    "ccn": "3619"
-  },
-  {
-    "uid": "ARCH 180AC",
-    "ccn": "3622"
-  },
-  {
-    "uid": "ARCH 180AC",
-    "ccn": "3625"
-  },
-  {
-    "uid": "ARCH 180AC",
-    "ccn": "3628"
-  },
-  {
-    "uid": "ARCH 180AC",
-    "ccn": "3631"
-  },
-  {
-    "uid": "ARCH 198",
-    "ccn": "3816"
-  },
-  {
-    "uid": "ARCH 198",
-    "ccn": "3828"
-  },
-  {
-    "uid": "ARCH 200B",
-    "ccn": "3888"
-  },
-  {
-    "uid": "ARCH 202",
-    "ccn": "3891"
-  },
-  {
-    "uid": "ARCH 202",
-    "ccn": "3894"
-  },
-  {
-    "uid": "ARCH 202",
-    "ccn": "3897"
-  },
-  {
-    "uid": "ARCH 202",
-    "ccn": "3899"
-  },
-  {
-    "uid": "ARCH 204B",
-    "ccn": "3900"
-  },
-  {
-    "uid": "ARCH 204B",
-    "ccn": "3903"
-  },
-  {
-    "uid": "ARCH 204B",
-    "ccn": "3906"
-  },
-  {
-    "uid": "ARCH 205B",
-    "ccn": "3912"
-  },
-  {
-    "uid": "ARCH 207B",
-    "ccn": "3915"
-  },
-  {
-    "uid": "ARCH 207D",
-    "ccn": "3918"
-  },
-  {
-    "uid": "ARCH 208",
-    "ccn": "3921"
-  },
-  {
-    "uid": "ARCH 209",
-    "ccn": "3924"
-  },
-  {
-    "uid": "ARCH 215",
-    "ccn": "3936"
-  },
-  {
-    "uid": "ARCH 219",
-    "ccn": "3938"
-  },
-  {
-    "uid": "ARCH 229",
-    "ccn": "3945"
-  },
-  {
-    "uid": "ARCH 229",
-    "ccn": "3948"
-  },
-  {
-    "uid": "ARCH 229",
-    "ccn": "3950"
-  },
-  {
-    "uid": "ARCH 230",
-    "ccn": "3951"
-  },
-  {
-    "uid": "ARCH 239",
-    "ccn": "3956"
-  },
-  {
-    "uid": "ARCH 239",
-    "ccn": "3605"
-  },
-  {
-    "uid": "ARCH 239",
-    "ccn": "3614"
-  },
-  {
-    "uid": "ARCH 24",
-    "ccn": "3603"
-  },
-  {
-    "uid": "ARCH 245",
-    "ccn": "3602"
-  },
-  {
-    "uid": "ARCH 249",
-    "ccn": "3957"
-  },
-  {
-    "uid": "ARCH 249",
-    "ccn": "3960"
-  },
-  {
-    "uid": "ARCH 249",
-    "ccn": "3963"
-  },
-  {
-    "uid": "ARCH 259",
-    "ccn": "3969"
-  },
-  {
-    "uid": "ARCH 269",
-    "ccn": "3975"
-  },
-  {
-    "uid": "ARCH 276",
-    "ccn": "3980"
-  },
-  {
-    "uid": "ARCH 279",
-    "ccn": "3981"
-  },
-  {
-    "uid": "ARCH 279",
-    "ccn": "3987"
-  },
-  {
-    "uid": "ARCH 279",
-    "ccn": "3990"
-  },
-  {
-    "uid": "ARCH 375",
-    "ccn": "4088"
-  },
-  {
-    "uid": "ARCH 98",
-    "ccn": "3612"
-  },
-  {
-    "uid": "ARCH 98",
-    "ccn": "3626"
-  },
-  {
-    "uid": "VIS STD 185X",
-    "ccn": "4153"
-  },
-  {
-    "uid": "VIS STD 187A",
-    "ccn": "4159"
-  },
-  {
-    "uid": "VIS STD 280",
-    "ccn": "4210"
-  },
-  {
-    "uid": "VIS STD 298",
-    "ccn": "4213"
-  },
-  {
-    "uid": "ART 102",
-    "ccn": "4384"
-  },
-  {
-    "uid": "ART 102",
-    "ccn": "4387"
-  },
-  {
-    "uid": "ART 117",
-    "ccn": "4390"
-  },
-  {
-    "uid": "ART 118",
-    "ccn": "4393"
-  },
-  {
-    "uid": "ART 119",
-    "ccn": "4396"
-  },
-  {
-    "uid": "ART 12",
-    "ccn": "4315"
-  },
-  {
-    "uid": "ART 12",
-    "ccn": "4318"
-  },
-  {
-    "uid": "ART 120",
-    "ccn": "4399"
-  },
-  {
-    "uid": "ART 123",
-    "ccn": "4402"
-  },
-  {
-    "uid": "ART 13",
-    "ccn": "4321"
-  },
-  {
-    "uid": "ART 13",
-    "ccn": "4324"
-  },
-  {
-    "uid": "ART 130",
-    "ccn": "4405"
-  },
-  {
-    "uid": "ART 137",
-    "ccn": "4408"
-  },
-  {
-    "uid": "ART 14",
-    "ccn": "4327"
-  },
-  {
-    "uid": "ART 14",
-    "ccn": "4330"
-  },
-  {
-    "uid": "ART 141",
-    "ccn": "4411"
+    "id": "P 001 REC",
+    "instructor": "MCHOMBO, S A",
+    "time": "MTuWTh 11-12P",
+    "location": "115 BARROWS",
+    "ccn": "557",
+    "classId": "AFRICAM 10B",
+    "enrollment": {
+      "current": 6,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "NIMAKO, K ",
+    "time": "M 12-2P",
+    "location": "170 BARROWS (effective 02/10/14)",
+    "ccn": "617",
+    "classId": "AFRICAM 112B",
+    "enrollment": {
+      "current": 48,
+      "limit": 64
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "NIMAKO, K",
+    "time": "W 1-2P",
+    "location": "170 BARROWS (effective 02/12/14)",
+    "ccn": "620",
+    "classId": "AFRICAM 112B",
+    "enrollment": {
+      "current": 48,
+      "limit": 64
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 40
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "MCHOMBO, S A",
+    "time": "TuTh 930-11A",
+    "location": "80 BARROWS",
+    "ccn": "623",
+    "classId": "AFRICAM 114",
+    "enrollment": {
+      "current": 4,
+      "limit": 16
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "TAYLOR, U Y ",
+    "time": "M 10-12P",
+    "location": "20 BARROWS",
+    "ccn": "626",
+    "classId": "AFRICAM 117",
+    "enrollment": {
+      "current": 30,
+      "limit": 69
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 69
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "",
+    "time": "W 11-12P",
+    "location": "20 BARROWS",
+    "ccn": "629",
+    "classId": "AFRICAM 117",
+    "enrollment": {
+      "current": 30,
+      "limit": 69
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 69
+    }
+  },
+  {
+    "id": "P 001 REC",
+    "instructor": "KYEU, D",
+    "time": "MTuWTh 9-10A",
+    "location": "B33B DWINELLE",
+    "ccn": "560",
+    "classId": "AFRICAM 11B",
+    "enrollment": {
+      "current": 16,
+      "limit": 22
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "P 002 REC",
+    "instructor": "KYEU, D",
+    "time": "MTuWTh 3-4P",
+    "location": "228 DWINELLE",
+    "ccn": "563",
+    "classId": "AFRICAM 11B",
+    "enrollment": {
+      "current": 9,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "FRYE, H T",
+    "time": "TuTh 330-5P",
+    "location": "20 BARROWS",
+    "ccn": "632",
+    "classId": "AFRICAM 122",
+    "enrollment": {
+      "current": 47,
+      "limit": 56
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 56
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "NIMAKO, K",
+    "time": "W 3-6P",
+    "location": "237 CORY",
+    "ccn": "635",
+    "classId": "AFRICAM 123",
+    "enrollment": {
+      "current": 7,
+      "limit": 17
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 17
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "LAGUERRE, M S",
+    "time": "M 2-5P",
+    "location": "122 BARROWS (effective 02/03/14)",
+    "ccn": "636",
+    "classId": "AFRICAM 134",
+    "enrollment": {
+      "current": 19,
+      "limit": 30
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "LAGUERRE, M S",
+    "time": "W 2-5P",
+    "location": "122 BARROWS",
+    "ccn": "637",
+    "classId": "AFRICAM 137",
+    "enrollment": {
+      "current": 9,
+      "limit": 23
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 17
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "TAYLOR, J L",
+    "time": "TuTh 4-6P",
+    "location": "B5 HEARST ANNEX",
+    "ccn": "638",
+    "classId": "AFRICAM 138",
+    "enrollment": {
+      "current": 15,
+      "limit": 45
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 45
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "WILSON, D M",
+    "time": "W 2-5P",
+    "location": "203 WHEELER",
+    "ccn": "640",
+    "classId": "AFRICAM 139",
+    "enrollment": {
+      "current": 8,
+      "limit": 28
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "COHEN, M M",
+    "time": "MW 2-4P",
+    "location": "159 MULFORD",
+    "ccn": "788",
+    "classId": "AFRICAM 142AC",
+    "enrollment": {
+      "current": 103,
+      "limit": 120
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 50
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "COHEN, M M",
+    "time": "M 6-8P",
+    "location": "101 MORGAN",
+    "ccn": "800",
+    "classId": "AFRICAM 142AC",
+    "enrollment": {
+      "current": 103,
+      "limit": 120
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 60
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "SCOTT, D",
+    "time": "TuTh 1230-2P",
+    "location": "118 BARROWS",
+    "ccn": "641",
+    "classId": "AFRICAM 153C",
+    "enrollment": {
+      "current": 25,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "DE LEON, A",
+    "time": "W 10-12P",
+    "location": "56 BARROWS",
+    "ccn": "644",
+    "classId": "AFRICAM 156AC",
+    "enrollment": {
+      "current": 47,
+      "limit": 62
+    },
+    "waitlist": {
+      "current": 5,
+      "limit": 40
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "DE LEON, A",
+    "time": "W 12-2P",
+    "location": "102 BARROWS (effective 02/05/14)",
+    "ccn": "647",
+    "classId": "AFRICAM 156AC",
+    "enrollment": {
+      "current": 7,
+      "limit": 14
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 14
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "DE LEON, A",
+    "time": "W 12-2P",
+    "location": "108 WHEELER",
+    "ccn": "650",
+    "classId": "AFRICAM 156AC",
+    "enrollment": {
+      "current": 6,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 2,
+      "limit": 10
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "DE LEON, A",
+    "time": "W 12-2P",
+    "location": "204 WHEELER",
+    "ccn": "653",
+    "classId": "AFRICAM 156AC",
+    "enrollment": {
+      "current": 8,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "S 104 DIS",
+    "instructor": "DE LEON, A",
+    "time": "W 5-7P",
+    "location": "180 BARROWS",
+    "ccn": "656",
+    "classId": "AFRICAM 156AC",
+    "enrollment": {
+      "current": 8,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 10
+    }
+  },
+  {
+    "id": "S 105 DIS",
+    "instructor": "DE LEON, A",
+    "time": "W 5-7P",
+    "location": "115 KROEBER",
+    "ccn": "659",
+    "classId": "AFRICAM 156AC",
+    "enrollment": {
+      "current": 0,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 10
+    }
+  },
+  {
+    "id": "S 107 DIS",
+    "instructor": "DE LEON, A",
+    "time": "W 5-7P",
+    "location": "80 BARROWS",
+    "ccn": "662",
+    "classId": "AFRICAM 156AC",
+    "enrollment": {
+      "current": 7,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "S 108 DIS",
+    "instructor": "DE LEON, A",
+    "time": "W 5-7P",
+    "location": "50 BARROWS",
+    "ccn": "665",
+    "classId": "AFRICAM 156AC",
+    "enrollment": {
+      "current": 10,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "S 109 DIS",
+    "instructor": "DE LEON, A",
+    "time": "W 5-7P",
+    "location": "111 KROEBER",
+    "ccn": "668",
+    "classId": "AFRICAM 156AC",
+    "enrollment": {
+      "current": 1,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "SCOTT, D",
+    "time": "TuTh 330-5P",
+    "location": "246 DWINELLE",
+    "ccn": "670",
+    "classId": "AFRICAM 157",
+    "enrollment": {
+      "current": 10,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "DE LEON, A",
+    "time": "TuTh 12-2P",
+    "location": "115 BARROWS",
+    "ccn": "671",
+    "classId": "AFRICAM 158B",
+    "enrollment": {
+      "current": 5,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "VINCENT, F",
+    "time": "TuTh 930-11A",
+    "location": "175 BARROWS (effective 01/30/14)",
+    "ccn": "677",
+    "classId": "AFRICAM 159",
+    "enrollment": {
+      "current": 20,
+      "limit": 40
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 001 REC",
+    "instructor": "KYEU, D ",
+    "time": "M 8-9A",
+    "location": "B33B DWINELLE",
+    "ccn": "566",
+    "classId": "AFRICAM 15B",
+    "enrollment": {
+      "current": 5,
+      "limit": 5
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "BILIMORIA, P",
+    "time": "TuTh 2-330P",
+    "location": "101 LSA (effective 02/04/14)",
+    "ccn": "680",
+    "classId": "AFRICAM 173AC",
+    "enrollment": {
+      "current": 25,
+      "limit": 39
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 001 FLD",
+    "instructor": "",
+    "time": "UNSCHED OFF CAMPUS",
+    "ccn": "689",
+    "classId": "AFRICAM 197",
+    "enrollment": {
+      "current": 0,
+      "limit": 4
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 4
+    }
+  },
+  {
+    "id": "P 003 FLD",
+    "instructor": "",
+    "time": "UNSCHED OFF CAMPUS",
+    "ccn": "692",
+    "classId": "AFRICAM 197",
+    "enrollment": {
+      "current": 0,
+      "limit": 45
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 45
+    }
+  },
+  {
+    "id": "P 004 FLD",
+    "instructor": "",
+    "time": "UNSCHED OFF CAMPUS",
+    "ccn": "695",
+    "classId": "AFRICAM 197",
+    "enrollment": {
+      "current": 0,
+      "limit": 5
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 005 FLD",
+    "instructor": "SUAD-BAKARI, N",
+    "time": "TBA",
+    "ccn": "697",
+    "classId": "AFRICAM 197",
+    "enrollment": {
+      "current": 28,
+      "limit": 50
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "P 003 GRP",
+    "instructor": "SUAD-BAKARI, N",
+    "time": "W 10-11A,",
+    "ccn": "701",
+    "classId": "AFRICAM 198",
+    "enrollment": {
+      "current": 2,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 13
+    }
+  },
+  {
+    "id": "P 008 GRP",
+    "instructor": "RAIFORD, L ",
+    "time": "W 5-7P,",
+    "ccn": "716",
+    "classId": "AFRICAM 198",
+    "enrollment": {
+      "current": 2,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 1-3 IND",
+    "instructor": "",
+    "time": "TBA",
+    "classId": "AFRICAM 199",
+    "enrollment": {
+      "current": null,
+      "limit": null
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "MCHOMBO, S A",
+    "time": "W 1-2P",
+    "location": "78 BARROWS",
+    "ccn": "569",
+    "classId": "AFRICAM 24",
+    "enrollment": {
+      "current": 7,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 18
+    }
+  },
+  {
+    "id": "P 002 SEM",
+    "instructor": "BANKS, W M",
+    "time": "W 2-3P",
+    "location": "108 WHEELER",
+    "ccn": "571",
+    "classId": "AFRICAM 24",
+    "enrollment": {
+      "current": 12,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "RAIFORD, L",
+    "time": "W 10-12P",
+    "location": "650 BARROWS",
+    "ccn": "749",
+    "classId": "AFRICAM 240",
+    "enrollment": {
+      "current": 8,
+      "limit": 9
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 9
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "CATANESE, B N",
+    "time": "Th 10-1P",
+    "location": "190 BARROWS",
+    "ccn": "752",
+    "classId": "AFRICAM 240",
+    "enrollment": {
+      "current": 7,
+      "limit": 7
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 3
+    }
+  },
+  {
+    "id": "P 003 LEC",
+    "instructor": "SUAD-BAKARI, N",
+    "time": "Th 10-1P",
+    "location": "650 BARROWS",
+    "ccn": "753",
+    "classId": "AFRICAM 240",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "JONES, N",
+    "time": "W 12-3P",
+    "location": "650 BARROWS",
+    "ccn": "754",
+    "classId": "AFRICAM 241",
+    "enrollment": {
+      "current": 14,
+      "limit": 16
+    },
+    "waitlist": {
+      "current": 2,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 001 IND",
+    "instructor": "RAIFORD, L",
+    "time": "UNSCHED NOFACILITY",
+    "ccn": "761",
+    "classId": "AFRICAM 296",
+    "enrollment": {
+      "current": 11,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "STANLEY, C",
+    "time": "TuTh 330-530P",
+    "location": "78 BARROWS",
+    "ccn": "572",
+    "classId": "AFRICAM 39F",
+    "enrollment": {
+      "current": 13,
+      "limit": 21
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "NWOKEJI, G",
+    "time": "TuTh 1230-2P",
+    "location": "60 EVANS",
+    "ccn": "527",
+    "classId": "AFRICAM 4B",
+    "enrollment": {
+      "current": 75,
+      "limit": 83
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 22
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "",
+    "time": "Tu 2-3P",
+    "location": "50 BARROWS",
+    "ccn": "530",
+    "classId": "AFRICAM 4B",
+    "enrollment": {
+      "current": 26,
+      "limit": 29
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 28
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "",
+    "time": "Tu 2-3P",
+    "location": "121 WHEELER",
+    "ccn": "533",
+    "classId": "AFRICAM 4B",
+    "enrollment": {
+      "current": 25,
+      "limit": 27
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 27
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "",
+    "time": "Tu 8-9A",
+    "location": "54 BARROWS",
+    "ccn": "536",
+    "classId": "AFRICAM 4B",
+    "enrollment": {
+      "current": 24,
+      "limit": 28
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 27
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "FINLEY, J N",
+    "time": "TuTh 1230-2P",
+    "location": "170 BARROWS",
+    "ccn": "550",
+    "classId": "AFRICAM 5B",
+    "enrollment": {
+      "current": 59,
+      "limit": 63
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "BENJAMIN, K E",
+    "time": "M 10-11A",
+    "location": "50 BARROWS",
+    "ccn": "791",
+    "classId": "AFRICAM 5B",
+    "enrollment": {
+      "current": 19,
+      "limit": 27
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 13
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "MANDITCH-PROTTAS,",
+    "time": "Th 2-3P",
+    "location": "115 KROEBER",
+    "ccn": "793",
+    "classId": "AFRICAM 5B",
+    "enrollment": {
+      "current": 19,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 13
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "BENJAMIN, K E",
+    "time": "M 11-12P",
+    "location": "50 BARROWS",
+    "ccn": "794",
+    "classId": "AFRICAM 5B",
+    "enrollment": {
+      "current": 21,
+      "limit": 27
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 13
+    }
+  },
+  {
+    "id": "P 001 IND",
+    "instructor": "RAIFORD, L",
+    "time": "UNSCHED NOFACILITY",
+    "ccn": "785",
+    "classId": "AFRICAM 602",
+    "enrollment": {
+      "current": 10,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 001 REC",
+    "instructor": "SOW, A P ",
+    "time": "MTu 10-11A",
+    "location": "B34 DWINELLE",
+    "ccn": "551",
+    "classId": "AFRICAM 7B",
+    "enrollment": {
+      "current": 2,
+      "limit": 5
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 001 REC",
+    "instructor": "SOW, A P",
+    "time": "TuTh 2-4P",
+    "location": "B34 DWINELLE",
+    "ccn": "554",
+    "classId": "AFRICAM 8B",
+    "enrollment": {
+      "current": 2,
+      "limit": 5
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 3
+    }
+  },
+  {
+    "id": "P 003 GRP",
+    "instructor": "SUAD-BAKARI, N",
+    "time": "W 10-11A,",
+    "ccn": "578",
+    "classId": "AFRICAM 98",
+    "enrollment": {
+      "current": 2,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 14
+    }
+  },
+  {
+    "id": "P 001 IND",
+    "instructor": "SUAD-BAKARI, N",
+    "time": "TBA",
+    "ccn": "683",
+    "classId": "AFRICAM H195A",
+    "enrollment": {
+      "current": 2,
+      "limit": 5
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 001 IND",
+    "instructor": "SUAD-BAKARI, N",
+    "time": "TBA",
+    "ccn": "686",
+    "classId": "AFRICAM H195B",
+    "enrollment": {
+      "current": 0,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "NANDA, A ",
+    "time": "MW 9-10A",
+    "location": "115 KROEBER",
+    "ccn": "503",
+    "classId": "AFRICAM R1A",
+    "enrollment": {
+      "current": 20,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 17
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "NANDA, A",
+    "time": "W 10-11A",
+    "location": "233 DWINELLE",
+    "ccn": "506",
+    "classId": "AFRICAM R1A",
+    "enrollment": {
+      "current": 20,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 17
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "NANDA, A ",
+    "time": "MW 12-1P",
+    "location": "115 KROEBER",
+    "ccn": "509",
+    "classId": "AFRICAM R1B",
+    "enrollment": {
+      "current": 22,
+      "limit": 22
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 19
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "NANDA, A",
+    "time": "W 11-12P",
+    "location": "237 CORY",
+    "ccn": "512",
+    "classId": "AFRICAM R1B",
+    "enrollment": {
+      "current": 22,
+      "limit": 22
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 17
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "FINLEY, J N",
+    "time": "TuTh 930-11A",
+    "location": "129 BARROWS",
+    "ccn": "515",
+    "classId": "AFRICAM R1B",
+    "enrollment": {
+      "current": 18,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 5
+    }
+  },
+  {
+    "id": "S 202 DIS",
+    "instructor": "FINLEY, J N",
+    "time": "W 10-11A",
+    "location": "180 BARROWS",
+    "ccn": "518",
+    "classId": "AFRICAM R1B",
+    "enrollment": {
+      "current": 18,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 18
+    }
+  },
+  {
+    "id": "P 003 LEC",
+    "instructor": "SUAD-BAKARI, N",
+    "time": "M 12-2P",
+    "location": "186 BARROWS",
+    "ccn": "521",
+    "classId": "AFRICAM R1B",
+    "enrollment": {
+      "current": 17,
+      "limit": 17
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 18
+    }
+  },
+  {
+    "id": "S 303 DIS",
+    "instructor": "WILLIAMS, G",
+    "time": "W 1-2P",
+    "location": "80 BARROWS",
+    "ccn": "524",
+    "classId": "AFRICAM R1B",
+    "enrollment": {
+      "current": 17,
+      "limit": 19
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 19
+    }
+  },
+  {
+    "id": "P 14-15 IND",
+    "instructor": "",
+    "time": "TBA",
+    "classId": "AGR CHM 299",
+    "enrollment": {
+      "current": null,
+      "limit": null
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "MORAN, K S ",
+    "time": "MW 4-530P",
+    "location": "2 LECONTE",
+    "ccn": "2003",
+    "classId": "AMERSTD 10",
+    "enrollment": {
+      "current": 82,
+      "limit": 100
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 70
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "",
+    "time": "Tu 3-4P",
+    "location": "B51 HILDEBRAND",
+    "ccn": "2006",
+    "classId": "AMERSTD 10",
+    "enrollment": {
+      "current": 14,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "",
+    "time": "Tu 4-5P",
+    "location": "75 EVANS",
+    "ccn": "2009",
+    "classId": "AMERSTD 10",
+    "enrollment": {
+      "current": 20,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "",
+    "time": "W 10-11A",
+    "location": "87 EVANS",
+    "ccn": "2012",
+    "classId": "AMERSTD 10",
+    "enrollment": {
+      "current": 25,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 104 DIS",
+    "instructor": "",
+    "time": "W 11-12P",
+    "location": "4 EVANS",
+    "ccn": "2015",
+    "classId": "AMERSTD 10",
+    "enrollment": {
+      "current": 23,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "BRILLIANT, M",
+    "time": "Tu 2-5P",
+    "location": "203 WHEELER",
+    "ccn": "2017",
+    "classId": "AMERSTD 101",
+    "enrollment": {
+      "current": 6,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "HENKIN, D M",
+    "time": "TuTh 330-5P",
+    "location": "245 LI KA SHING",
+    "ccn": "2135",
+    "classId": "AMERSTD 101AC",
+    "enrollment": {
+      "current": 35,
+      "limit": 50
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 50
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "PALMER, C",
+    "time": "TuTh 930-11A",
+    "location": "534 DAVIS",
+    "ccn": "2018",
+    "classId": "AMERSTD 102",
+    "enrollment": {
+      "current": 28,
+      "limit": 50
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 30
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "BRILLIANT, M",
+    "time": "TuTh 930-11A",
+    "location": "101 BARKER",
+    "ccn": "2066",
+    "classId": "AMERSTD 139AC",
+    "enrollment": {
+      "current": 23,
+      "limit": 40
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 40
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "",
+    "time": "Tu 12-1P",
+    "location": "75 EVANS",
+    "ccn": "2069",
+    "classId": "AMERSTD 139AC",
+    "enrollment": {
+      "current": 6,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "",
+    "time": "W 9-10A",
+    "location": "109 WHEELER",
+    "ccn": "2075",
+    "classId": "AMERSTD 139AC",
+    "enrollment": {
+      "current": 8,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "S 104 DIS",
+    "instructor": "",
+    "time": "W 11-12P",
+    "location": "78 BARROWS",
+    "ccn": "2078",
+    "classId": "AMERSTD 139AC",
+    "enrollment": {
+      "current": 5,
+      "limit": 8
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "S 105 DIS",
+    "instructor": "",
+    "time": "Th 11-12P",
+    "location": "121 LATIMER",
+    "ccn": "2081",
+    "classId": "AMERSTD 139AC",
+    "enrollment": {
+      "current": 4,
+      "limit": 12
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 12
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "GOMER, J",
+    "time": "M 4-6P",
+    "location": "121 LATIMER",
+    "ccn": "2102",
+    "classId": "AMERSTD 191",
+    "enrollment": {
+      "current": 13,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 19
+    }
+  },
+  {
+    "id": "P 002 SEM",
+    "instructor": "MULLER, K R",
+    "time": "W 10-12P",
+    "location": "121 LATIMER",
+    "ccn": "2105",
+    "classId": "AMERSTD 191",
+    "enrollment": {
+      "current": 19,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "P 003 SEM",
+    "instructor": "PALMER, C ",
+    "time": "W 2-4P",
+    "location": "121 LATIMER",
+    "ccn": "2108",
+    "classId": "AMERSTD 191",
+    "enrollment": {
+      "current": 9,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "P 004 SEM",
+    "instructor": "PALMER, C ",
+    "time": "Th 12-2P",
+    "location": "121 LATIMER",
+    "ccn": "2111",
+    "classId": "AMERSTD 191",
+    "enrollment": {
+      "current": 10,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "MORAN, K S ",
+    "time": "TuTh 330-5P",
+    "location": "2 LECONTE",
+    "ccn": "2027",
+    "classId": "AMERSTD C111E",
+    "enrollment": {
+      "current": 24,
+      "limit": 50
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 50
+    }
+  },
+  {
+    "id": "S 201 DIS",
+    "instructor": "",
+    "time": "W 2-3P",
+    "location": "81 EVANS",
+    "ccn": "2030",
+    "classId": "AMERSTD C111E",
+    "enrollment": {
+      "current": 8,
+      "limit": 13
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 202 DIS",
+    "instructor": "",
+    "time": "W 3-4P",
+    "location": "81 EVANS",
+    "ccn": "2033",
+    "classId": "AMERSTD C111E",
+    "enrollment": {
+      "current": 2,
+      "limit": 14
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 203 DIS",
+    "instructor": "",
+    "time": "Th 10-11A",
+    "location": "385 LECONTE",
+    "ccn": "2036",
+    "classId": "AMERSTD C111E",
+    "enrollment": {
+      "current": 4,
+      "limit": 12
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 204 DIS",
+    "instructor": "",
+    "time": "Th 11-12P",
+    "location": "5 EVANS",
+    "ccn": "2039",
+    "classId": "AMERSTD C111E",
+    "enrollment": {
+      "current": 10,
+      "limit": 12
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "GROTH, P E",
+    "time": "TuTh 11-1230P",
+    "location": "112 WURSTER",
+    "ccn": "2042",
+    "classId": "AMERSTD C112B",
+    "enrollment": {
+      "current": 17,
+      "limit": 44
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 44
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "",
+    "time": "Tu 1-2P",
+    "location": "101 WURSTER",
+    "ccn": "2045",
+    "classId": "AMERSTD C112B",
+    "enrollment": {
+      "current": 4,
+      "limit": 11
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 11
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "",
+    "time": "W 12-1P",
+    "location": "170 WURSTER",
+    "ccn": "2048",
+    "classId": "AMERSTD C112B",
+    "enrollment": {
+      "current": 7,
+      "limit": 11
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 11
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "",
+    "time": "Th 10-11A",
+    "location": "104 WURSTER",
+    "ccn": "2051",
+    "classId": "AMERSTD C112B",
+    "enrollment": {
+      "current": 3,
+      "limit": 11
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 11
+    }
+  },
+  {
+    "id": "S 104 DIS",
+    "instructor": "",
+    "time": "Th 4-5P",
+    "location": "101 WURSTER",
+    "ccn": "2054",
+    "classId": "AMERSTD C112B",
+    "enrollment": {
+      "current": 3,
+      "limit": 11
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 11
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "CANDIDA SMITH, R",
+    "time": "MW 4-530P",
+    "location": "155 DONNER LAB",
+    "ccn": "2057",
+    "classId": "AMERSTD C132B",
+    "enrollment": {
+      "current": 5,
+      "limit": 45
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 65
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "",
+    "time": "M 2-3P",
+    "location": "206 WHEELER",
+    "ccn": "2060",
+    "classId": "AMERSTD C132B",
+    "enrollment": {
+      "current": 4,
+      "limit": 12
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 12
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "",
+    "time": "Tu 8-9A",
+    "location": "221 WHEELER",
+    "ccn": "2063",
+    "classId": "AMERSTD C132B",
+    "enrollment": {
+      "current": 1,
+      "limit": 12
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 12
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "LIMA, E E",
+    "time": "TuTh 1230-2P",
+    "location": "155 BARROWS",
+    "ccn": "2087",
+    "classId": "AMERSTD C152",
+    "enrollment": {
+      "current": 3,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "ROSEN, C A",
+    "time": "MW 11-1230P",
+    "location": "C230 CHEIT",
+    "ccn": "2090",
+    "classId": "AMERSTD C172",
+    "enrollment": {
+      "current": 49,
+      "limit": 60
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 60
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "MCQUADE, D A",
+    "time": "TuTh 2-330P",
+    "location": "332 GIANNINI",
+    "ccn": "2024",
+    "classId": "AMERSTD H110",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "PALMER, C",
+    "time": "W 10-12P",
+    "location": "81 EVANS",
+    "ccn": "2114",
+    "classId": "AMERSTD H195",
+    "enrollment": {
+      "current": 17,
+      "limit": 21
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 21
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "HALLETT, C H ",
+    "time": "F 9-12P",
+    "location": "308B DOE LIBRARY",
+    "ccn": "2202",
+    "classId": "AHMA 210",
+    "enrollment": {
+      "current": 2,
+      "limit": 2
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "P 001 IND",
+    "instructor": "PORTER, B",
+    "time": "UNSCHED NOFACILITY",
+    "ccn": "2203",
+    "classId": "AHMA 299",
+    "enrollment": {
+      "current": 1,
+      "limit": 5
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "AGARWAL, S C",
+    "time": "TuTh 1230-2P",
+    "location": "WHEELER AUD",
+    "ccn": "2303",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 314,
+      "limit": 341
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 450
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "HU, D",
+    "time": "M 9-10A",
+    "location": "65 BARROWS",
+    "ccn": "2306",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 17,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "HU, D",
+    "time": "M 10-11A",
+    "location": "65 BARROWS",
+    "ccn": "2309",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 17,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "CHILCOTE, C",
+    "time": "M 11-12P",
+    "location": "65 BARROWS",
+    "ccn": "2312",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 15,
+      "limit": 16
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 104 DIS",
+    "instructor": "CHILCOTE, C",
+    "time": "M 12-1P",
+    "location": "65 BARROWS",
+    "ccn": "2315",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 13,
+      "limit": 17
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 105 DIS",
+    "instructor": "HARKEY, A E",
+    "time": "M 1-2P",
+    "location": "65 BARROWS",
+    "ccn": "2318",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 18,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 109 DIS",
+    "instructor": "HU, D",
+    "time": "Tu 10-11A",
+    "location": "65 BARROWS",
+    "ccn": "2330",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 12,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 110 DIS",
+    "instructor": "HU, D",
+    "time": "Tu 11-12P",
+    "location": "65 BARROWS",
+    "ccn": "2333",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 16,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 111 DIS",
+    "instructor": "MILLER, M",
+    "time": "Tu 2-3P",
+    "location": "65 BARROWS",
+    "ccn": "2336",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 18,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 113 DIS",
+    "instructor": "HARKEY, A E",
+    "time": "W 9-10A",
+    "location": "65 BARROWS",
+    "ccn": "2342",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 15,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 114 DIS",
+    "instructor": "HARKEY, A E",
+    "time": "W 10-11A",
+    "location": "65 BARROWS",
+    "ccn": "2345",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 15,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 115 DIS",
+    "instructor": "MILLER, M",
+    "time": "W 11-12P",
+    "location": "65 BARROWS",
+    "ccn": "2348",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 15,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 116 DIS",
+    "instructor": "NIDA, B",
+    "time": "W 12-1P",
+    "location": "65 BARROWS",
+    "ccn": "2351",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 16,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 117 DIS",
+    "instructor": "NIDA, B",
+    "time": "W 1-2P",
+    "location": "65 BARROWS",
+    "ccn": "2354",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 17,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 118 DIS",
+    "instructor": "MILLER, M",
+    "time": "W 2-3P",
+    "location": "65 BARROWS",
+    "ccn": "2357",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 16,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 119 DIS",
+    "instructor": "NIDA, B",
+    "time": "W 3-4P",
+    "location": "65 BARROWS",
+    "ccn": "2360",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 15,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 120 DIS",
+    "instructor": "NIDA, B",
+    "time": "W 4-5P",
+    "location": "65 BARROWS",
+    "ccn": "2363",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 12,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 123 DIS",
+    "instructor": "HARKEY, A E",
+    "time": "Th 11-12P",
+    "location": "65 BARROWS",
+    "ccn": "2372",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 18,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 124 DIS",
+    "instructor": "MILLER, M",
+    "time": "Th 2-3P",
+    "location": "65 BARROWS",
+    "ccn": "2375",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 17,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 129 DIS",
+    "instructor": "CHILCOTE, C",
+    "time": "F 11-12P",
+    "location": "65 BARROWS",
+    "ccn": "2390",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 16,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 130 DIS",
+    "instructor": "CHILCOTE, C",
+    "time": "F 12-1P",
+    "location": "65 BARROWS",
+    "ccn": "2393",
+    "classId": "ANTHRO 1",
+    "enrollment": {
+      "current": 16,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "BEAUCHESNE, P D",
+    "time": "MWF 2-3P",
+    "location": "106 STANLEY",
+    "ccn": "2624",
+    "classId": "ANTHRO 112",
+    "enrollment": {
+      "current": 49,
+      "limit": 80
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 40
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "MAHMOOD, S",
+    "time": "TuTh 1230-2P",
+    "location": "100 LEWIS",
+    "ccn": "2627",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 160,
+      "limit": 240
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 120
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "MELLQUIST, H",
+    "time": "M 9-10A",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2630",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 7,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "MELLQUIST, H",
+    "time": "M 1-2P",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2633",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 12,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "MELLQUIST, H",
+    "time": "M 2-3P",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2636",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 12,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 104 DIS",
+    "instructor": "MELLQUIST, H",
+    "time": "Tu 2-3P",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2639",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 11,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 105 DIS",
+    "instructor": "PRICE, J J",
+    "time": "Tu 3-4P",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2642",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 9,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 106 DIS",
+    "instructor": "PRICE, J J",
+    "time": "Tu 4-5P",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2645",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 10,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 107 DIS",
+    "instructor": "NATARAJ, S",
+    "time": "W 9-10A",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2648",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 6,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 108 DIS",
+    "instructor": "DOUGHAN, S",
+    "time": "W 10-11A",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2651",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 12,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 109 DIS",
+    "instructor": "DOUGHAN, S",
+    "time": "W 11-12P",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2654",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 110 DIS",
+    "instructor": "NATARAJ, S",
+    "time": "W 3-4P",
+    "location": "111 KROEBER",
+    "ccn": "2657",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 12,
+      "limit": 16
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 111 DIS",
+    "instructor": "NATARAJ, S",
+    "time": "W 4-5P",
+    "location": "111 KROEBER",
+    "ccn": "2660",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 9,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 112 DIS",
+    "instructor": "PRICE, J J",
+    "time": "Th 9-10A",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2663",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 9,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 113 DIS",
+    "instructor": "PRICE, J J",
+    "time": "Th 10-11A",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2666",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 10,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 114 DIS",
+    "instructor": "NATARAJ, S",
+    "time": "Th 11-12P",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2669",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 12,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 115 DIS",
+    "instructor": "DOUGHAN, S",
+    "time": "F 9-10A",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2672",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 5,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 116 DIS",
+    "instructor": "DOUGHAN, S",
+    "time": "F 10-11A",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2675",
+    "classId": "ANTHRO 114",
+    "enrollment": {
+      "current": 10,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "SCHEPER-HUGHES, N",
+    "time": "TuTh 2-330P",
+    "location": "160 KROEBER",
+    "ccn": "2678",
+    "classId": "ANTHRO 115",
+    "enrollment": {
+      "current": 65,
+      "limit": 120
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 120
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "MC ISAAC, S R",
+    "time": "M 3-4P",
+    "location": "111 KROEBER",
+    "ccn": "2681",
+    "classId": "ANTHRO 115",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "MC ISAAC, S R",
+    "time": "Tu 12-1P",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2684",
+    "classId": "ANTHRO 115",
+    "enrollment": {
+      "current": 7,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "MC ISAAC, S R",
+    "time": "Tu 1-2P",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2687",
+    "classId": "ANTHRO 115",
+    "enrollment": {
+      "current": 8,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 104 DIS",
+    "instructor": "MC ISAAC, S R",
+    "time": "Tu 4-5P",
+    "location": "134 DWINELLE",
+    "ccn": "2690",
+    "classId": "ANTHRO 115",
+    "enrollment": {
+      "current": 5,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 105 DIS",
+    "instructor": "HANSEN, C C",
+    "time": "Th 12-1P",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2693",
+    "classId": "ANTHRO 115",
+    "enrollment": {
+      "current": 5,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 106 DIS",
+    "instructor": "HANSEN, C C",
+    "time": "Th 1-2P",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2696",
+    "classId": "ANTHRO 115",
+    "enrollment": {
+      "current": 5,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 107 DIS",
+    "instructor": "HANSEN, C C",
+    "time": "Th 4-5P",
+    "location": "189 DWINELLE",
+    "ccn": "2699",
+    "classId": "ANTHRO 115",
+    "enrollment": {
+      "current": 10,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 108 DIS",
+    "instructor": "HANSEN, C C",
+    "time": "F 11-12P",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "2702",
+    "classId": "ANTHRO 115",
+    "enrollment": {
+      "current": 12,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "LOVELL, A M",
+    "time": "TuTh 930-11A",
+    "location": "221 KROEBER",
+    "ccn": "2705",
+    "classId": "ANTHRO 119",
+    "enrollment": {
+      "current": 33,
+      "limit": 40
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 30
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "MAHER, L A",
+    "time": "TuTh 330-5P",
+    "location": "150 GSPP",
+    "ccn": "2711",
+    "classId": "ANTHRO 128",
+    "enrollment": {
+      "current": 26,
+      "limit": 60
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 60
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "HASTORF, C",
+    "time": "Tu 930-1230P",
+    "location": "61 BARROWS",
+    "ccn": "2722",
+    "classId": "ANTHRO 135",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "TAYLOR, G L",
+    "time": "Th 930-1230P",
+    "location": "61 BARROWS",
+    "ccn": "3479",
+    "classId": "ANTHRO 135",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "NADER, L",
+    "time": "TuTh 11-1230P",
+    "location": "105 STANLEY",
+    "ccn": "2723",
+    "classId": "ANTHRO 137",
+    "enrollment": {
+      "current": 166,
+      "limit": 292
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 292
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "BRAUN, N",
+    "time": "W 12-3P",
+    "location": "12 2224 PIEDMNT",
+    "ccn": "2726",
+    "classId": "ANTHRO 138B",
+    "enrollment": {
+      "current": 10,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "BRAUN, N",
+    "time": "F 12-3P",
+    "location": "12 2224 PIEDMNT",
+    "ccn": "2729",
+    "classId": "ANTHRO 138B",
+    "enrollment": {
+      "current": 10,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "FISHER, D T",
+    "time": "TuTh 11-1230P",
+    "location": "223 DWINELLE",
+    "ccn": "2731",
+    "classId": "ANTHRO 152",
+    "enrollment": {
+      "current": 33,
+      "limit": 40
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "HIRSCHKIND, C K",
+    "time": "TuTh 2-330P",
+    "location": "2 LECONTE",
+    "ccn": "2735",
+    "classId": "ANTHRO 158",
+    "enrollment": {
+      "current": 96,
+      "limit": 100
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 40
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "ANTTONEN, P",
+    "time": "TuTh 11-1230P",
+    "location": "101 2251 COLLEGE",
+    "ccn": "2738",
+    "classId": "ANTHRO 162",
+    "enrollment": {
+      "current": 14,
+      "limit": 30
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "DUMAS, N W",
+    "time": "WF 930-11A",
+    "location": "221 KROEBER",
+    "ccn": "2741",
+    "classId": "ANTHRO 166",
+    "enrollment": {
+      "current": 14,
+      "limit": 31
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "LIGHTFOOT, K G",
+    "time": "TuTh 11-1230P",
+    "location": "60 EVANS",
+    "ccn": "2747",
+    "classId": "ANTHRO 174AC",
+    "enrollment": {
+      "current": 87,
+      "limit": 89
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 40
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "PANDOLFO, S",
+    "time": "TuTh 930-11A",
+    "location": "160 KROEBER",
+    "ccn": "2753",
+    "classId": "ANTHRO 181",
+    "enrollment": {
+      "current": 31,
+      "limit": 90
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 45
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "AL-BAHLOLY, S",
+    "time": "M 9-10A",
+    "location": "101 2251 COLLEGE",
+    "ccn": "2756",
+    "classId": "ANTHRO 181",
+    "enrollment": {
+      "current": 10,
+      "limit": 22
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 22
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "AL-BAHLOLY, S",
+    "time": "M 10-11A",
+    "location": "101 2251 COLLEGE",
+    "ccn": "2759",
+    "classId": "ANTHRO 181",
+    "enrollment": {
+      "current": 3,
+      "limit": 22
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 22
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "AL-BAHLOLY, S",
+    "time": "M 11-12P",
+    "location": "101 2251 COLLEGE",
+    "ccn": "2762",
+    "classId": "ANTHRO 181",
+    "enrollment": {
+      "current": 7,
+      "limit": 22
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 22
+    }
+  },
+  {
+    "id": "S 104 DIS",
+    "instructor": "AL-BAHLOLY, S",
+    "time": "M 10-11A",
+    "location": "221 KROEBER",
+    "ccn": "2765",
+    "classId": "ANTHRO 181",
+    "enrollment": {
+      "current": 11,
+      "limit": 24
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 12
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "DUMAS, N W",
+    "time": "WF 4-530P",
+    "location": "221 KROEBER",
+    "ccn": "2768",
+    "classId": "ANTHRO 189",
+    "enrollment": {
+      "current": 6,
+      "limit": 30
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 005 SEM",
+    "instructor": "COHEN, L",
+    "time": "Tu 12-2P",
+    "location": "C109 2538CHANNING",
+    "ccn": "2902",
+    "classId": "ANTHRO 196",
+    "enrollment": {
+      "current": 10,
+      "limit": 16
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 002 SEM",
+    "instructor": "HOLMES, S M",
+    "time": "Tu 12-2P",
+    "location": "C109 2538CHANNING",
+    "ccn": "3494",
+    "classId": "ANTHRO 219",
+    "enrollment": {
+      "current": 7,
+      "limit": 12
+    },
+    "waitlist": {
+      "current": 2,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "MAHER, L A ",
+    "time": "W 2-5P",
+    "location": "101 2251 COLLEGE",
+    "ccn": "3065",
+    "classId": "ANTHRO 229B",
+    "enrollment": {
+      "current": 6,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 3,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "JOYCE, R",
+    "time": "F 10-12P",
+    "location": "209 2251 COLLEGE",
+    "ccn": "3067",
+    "classId": "ANTHRO 229C",
+    "enrollment": {
+      "current": 7,
+      "limit": 8
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 3
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "HABU, J",
+    "time": "M 12-2P",
+    "location": "101 2251 COLLEGE",
+    "ccn": "3068",
+    "classId": "ANTHRO 230",
+    "enrollment": {
+      "current": 4,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 002 SEM",
+    "instructor": "HASTORF, C",
+    "time": "W 9-12P",
+    "location": "101 2251 COLLEGE",
+    "ccn": "3071",
+    "classId": "ANTHRO 230",
+    "enrollment": {
+      "current": 5,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 003 SEM",
+    "instructor": "LIGHTFOOT, K G",
+    "time": "Tu 2-3P",
+    "location": "111 KROEBER",
+    "ccn": "2571",
+    "classId": "ANTHRO 24",
+    "enrollment": {
+      "current": 11,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 004 SEM",
+    "instructor": "HASTORF, C",
+    "time": "Th 4-5P",
+    "location": "101 2251 COLLEGE",
+    "ccn": "3482",
+    "classId": "ANTHRO 24",
+    "enrollment": {
+      "current": 9,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 005 SEM",
+    "instructor": "SUNSERI, J U",
+    "time": "Tu 330-430P",
+    "location": "101 2251 COLLEGE",
+    "ccn": "3485",
+    "classId": "ANTHRO 24",
+    "enrollment": {
+      "current": 7,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "HANKS, W F",
+    "time": "TuTh 2-5P",
+    "location": "221 KROEBER",
+    "ccn": "3074",
+    "classId": "ANTHRO 240B",
+    "enrollment": {
+      "current": 11,
+      "limit": 30
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 30
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "ONG, A",
+    "time": "M 12-2P",
+    "location": "317 KROEBER",
+    "ccn": "3076",
+    "classId": "ANTHRO 250C",
+    "enrollment": {
+      "current": 5,
+      "limit": 12
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "SCHEPER-HUGHES, N",
+    "time": "M 10-12P",
+    "location": "305 KROEBER",
+    "ccn": "3077",
+    "classId": "ANTHRO 250R",
+    "enrollment": {
+      "current": 10,
+      "limit": 11
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 12
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "GRABURN, N H",
+    "time": "Tu 2-4P",
+    "location": "307 KROEBER",
+    "ccn": "3080",
+    "classId": "ANTHRO 250V",
+    "enrollment": {
+      "current": 2,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 002 SEM",
+    "instructor": "BRIGGS, C L",
+    "time": "W 12-2P",
+    "location": "221 KROEBER",
+    "ccn": "3086",
+    "classId": "ANTHRO 250X",
+    "enrollment": {
+      "current": 7,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 004 SEM",
+    "instructor": "MOORE, D S",
+    "time": "Th 5-8P",
+    "location": "101 2251 COLLEGE",
+    "ccn": "3092",
+    "classId": "ANTHRO 250X",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 005 SEM",
+    "instructor": "NADER, L",
+    "time": "M 10-12P",
+    "location": "219 KROEBER",
+    "ccn": "3095",
+    "classId": "ANTHRO 250X",
+    "enrollment": {
+      "current": 5,
+      "limit": 12
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 007 SEM",
+    "instructor": "PANDOLFO, S",
+    "time": "W 12-3P",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "3101",
+    "classId": "ANTHRO 250X",
+    "enrollment": {
+      "current": 11,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 008 SEM",
+    "instructor": "RABINOW, P M",
+    "time": "F 12-2P",
+    "location": "15 2224 PIEDMNT",
+    "ccn": "3104",
+    "classId": "ANTHRO 250X",
+    "enrollment": {
+      "current": 11,
+      "limit": 13
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 010 SEM",
+    "instructor": "FISHER, D T",
+    "time": "W 12-2P",
+    "location": "111 KROEBER",
+    "ccn": "3110",
+    "classId": "ANTHRO 250X",
+    "enrollment": {
+      "current": 10,
+      "limit": 16
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 011 SEM",
+    "instructor": "ANTTONEN, P",
+    "time": "F 2-5P",
+    "location": "115 KROEBER",
+    "ccn": "3112",
+    "classId": "ANTHRO 250X",
+    "enrollment": {
+      "current": 2,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "MAHMOOD, S",
+    "time": "M 4-6P",
+    "location": "221 KROEBER",
+    "ccn": "3125",
+    "classId": "ANTHRO 290",
+    "enrollment": {
+      "current": 43,
+      "limit": 57
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 57
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "JOYCE, R",
+    "time": "M 3-6P",
+    "location": "101 2251 COLLEGE",
+    "ccn": "3128",
+    "classId": "ANTHRO 290",
+    "enrollment": {
+      "current": 18,
+      "limit": 50
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 50
+    }
+  },
+  {
+    "id": "P 1-5 FLD",
+    "instructor": "",
+    "time": "TBA",
+    "classId": "ANTHRO 296A",
+    "enrollment": {
+      "current": null,
+      "limit": null
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 1-5 IND",
+    "instructor": "",
+    "time": "TBA",
+    "classId": "ANTHRO 296B",
+    "enrollment": {
+      "current": null,
+      "limit": null
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 1-35 IND",
+    "instructor": "",
+    "time": "TBA",
+    "classId": "ANTHRO 298",
+    "enrollment": {
+      "current": null,
+      "limit": null
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 1-35 IND",
+    "instructor": "",
+    "time": "TBA",
+    "classId": "ANTHRO 299",
+    "enrollment": {
+      "current": null,
+      "limit": null
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "WILKIE, L A",
+    "time": "TuTh 930-11A",
+    "location": "2050 VALLEY LSB",
+    "ccn": "2396",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 249,
+      "limit": 253
+    },
+    "waitlist": {
+      "current": 2,
+      "limit": 270
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "MCCLEARY, A",
+    "time": "M 9-10A",
+    "location": "74 BARROWS",
+    "ccn": "2399",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "MCCLEARY, A",
+    "time": "M 10-11A",
+    "location": "74 BARROWS",
+    "ccn": "2402",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "HYDE, D G",
+    "time": "M 11-12P",
+    "location": "74 BARROWS",
+    "ccn": "2405",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 15,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 104 DIS",
+    "instructor": "HYDE, D G",
+    "time": "M 1-2P",
+    "location": "74 BARROWS",
+    "ccn": "2408",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 12,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 105 DIS",
+    "instructor": "MCCLEARY, A",
+    "time": "M 2-3P",
+    "location": "74 BARROWS",
+    "ccn": "2411",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 12,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 106 DIS",
+    "instructor": "MCCLEARY, A",
+    "time": "Tu 11-12P",
+    "location": "74 BARROWS",
+    "ccn": "2414",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 107 DIS",
+    "instructor": "MORRIS, A E",
+    "time": "Tu 12-1P",
+    "location": "74 BARROWS",
+    "ccn": "2417",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 108 DIS",
+    "instructor": "MORRIS, A E",
+    "time": "Tu 1-2P",
+    "location": "74 BARROWS",
+    "ccn": "2420",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 109 DIS",
+    "instructor": "COCKRELL, B R",
+    "time": "Tu 2-3P",
+    "location": "74 BARROWS",
+    "ccn": "2423",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 110 DIS",
+    "instructor": "COCKRELL, B R",
+    "time": "Tu 3-4P",
+    "location": "74 BARROWS",
+    "ccn": "2426",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 15,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 111 DIS",
+    "instructor": "LOWMAN, C B",
+    "time": "W 9-10A",
+    "location": "74 BARROWS",
+    "ccn": "2429",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 11,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 112 DIS",
+    "instructor": "LOWMAN, C B",
+    "time": "W 10-11A",
+    "location": "74 BARROWS",
+    "ccn": "2432",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 113 DIS",
+    "instructor": "LOWMAN, C B",
+    "time": "W 11-12P",
+    "location": "74 BARROWS",
+    "ccn": "2435",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 15,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 114 DIS",
+    "instructor": "LOWMAN, C B",
+    "time": "W 2-3P",
+    "location": "74 BARROWS",
+    "ccn": "2438",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 115 DIS",
+    "instructor": "LOWMAN, C B",
+    "time": "W 3-4P",
+    "location": "74 BARROWS",
+    "ccn": "2441",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 116 DIS",
+    "instructor": "COCKRELL, B R",
+    "time": "Th 11-12P",
+    "location": "74 BARROWS",
+    "ccn": "2444",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 117 DIS",
+    "instructor": "COCKRELL, B R",
+    "time": "Th 12-1P",
+    "location": "74 BARROWS",
+    "ccn": "2447",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 16,
+      "limit": 16
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 118 DIS",
+    "instructor": "MCCLEARY, A",
+    "time": "Th 1-2P",
+    "location": "74 BARROWS",
+    "ccn": "2450",
+    "classId": "ANTHRO 2AC",
+    "enrollment": {
+      "current": 16,
+      "limit": 16
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "P 1-9 SEM",
+    "instructor": "",
+    "time": "TBA",
+    "classId": "ANTHRO 301",
+    "enrollment": {
+      "current": null,
+      "limit": null
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "BRANDES, S H",
+    "time": "TuTh 11-1230P",
+    "location": "155 DWINELLE",
+    "ccn": "2453",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 393,
+      "limit": 481
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 330
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "RUSSELL, K",
+    "time": "M 9-10A",
+    "location": "76 BARROWS",
+    "ccn": "2456",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "RUSSELL, K",
+    "time": "M 10-11A",
+    "location": "76 BARROWS",
+    "ccn": "2459",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "COREN, G",
+    "time": "M 11-12P",
+    "location": "76 BARROWS",
+    "ccn": "2462",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 104 DIS",
+    "instructor": "ROSNER, N E",
+    "time": "M 12-1P",
+    "location": "76 BARROWS",
+    "ccn": "2465",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 105 DIS",
+    "instructor": "ROSNER, N E",
+    "time": "M 1-2P",
+    "location": "76 BARROWS",
+    "ccn": "2468",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 106 DIS",
+    "instructor": "COREN, G",
+    "time": "M 2-3P",
+    "location": "76 BARROWS",
+    "ccn": "2471",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 15,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 107 DIS",
+    "instructor": "COREN, G",
+    "time": "M 3-4P",
+    "location": "76 BARROWS",
+    "ccn": "2474",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 108 DIS",
+    "instructor": "NORTON, R",
+    "time": "Tu 9-10A",
+    "location": "76 BARROWS",
+    "ccn": "2477",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 8,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 109 DIS",
+    "instructor": "NORTON, R",
+    "time": "Tu 10-11A",
+    "location": "76 BARROWS",
+    "ccn": "2480",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 110 DIS",
+    "instructor": "FEENEY-KLEINFELDT,",
+    "time": "Tu 1-2P",
+    "location": "76 BARROWS",
+    "ccn": "2483",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 15,
+      "limit": 16
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "S 111 DIS",
+    "instructor": "NORTON, R",
+    "time": "Tu 2-3P",
+    "location": "76 BARROWS",
+    "ccn": "2486",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 112 DIS",
+    "instructor": "RUSSELL, K",
+    "time": "Tu 3-4P",
+    "location": "76 BARROWS",
+    "ccn": "2489",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 3,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 113 DIS",
+    "instructor": "RUSSELL, K",
+    "time": "Tu 4-5P",
+    "location": "76 BARROWS",
+    "ccn": "2492",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 15,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 114 DIS",
+    "instructor": "NORTON, R",
+    "time": "W 9-10A",
+    "location": "76 BARROWS",
+    "ccn": "2495",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 115 DIS",
+    "instructor": "CARTER, J M",
+    "time": "W 10-11A",
+    "location": "76 BARROWS",
+    "ccn": "2498",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 116 DIS",
+    "instructor": "CARTER, J M",
+    "time": "W 11-12P",
+    "location": "76 BARROWS",
+    "ccn": "2501",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 117 DIS",
+    "instructor": "CARTER, J M",
+    "time": "W 12-1P",
+    "location": "76 BARROWS",
+    "ccn": "2504",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 15,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 118 DIS",
+    "instructor": "CARTER, J M",
+    "time": "W 1-2P",
+    "location": "76 BARROWS",
+    "ccn": "2507",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 119 DIS",
+    "instructor": "FEENEY-KLEINFELDT,",
+    "time": "W 2-3P",
+    "location": "76 BARROWS",
+    "ccn": "2510",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 11,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 120 DIS",
+    "instructor": "FEENEY-KLEINFELDT,",
+    "time": "W 3-4P",
+    "location": "76 BARROWS",
+    "ccn": "2513",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 15,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 121 DIS",
+    "instructor": "COREN, G",
+    "time": "W 4-5P",
+    "location": "76 BARROWS",
+    "ccn": "2516",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 15,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 122 DIS",
+    "instructor": "MIN, L",
+    "time": "Th 9-10A",
+    "location": "76 BARROWS",
+    "ccn": "2519",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 3,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 123 DIS",
+    "instructor": "MIN, L",
+    "time": "Th 10-11A",
+    "location": "76 BARROWS",
+    "ccn": "2522",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 15,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 124 DIS",
+    "instructor": "D'ARCY, M J",
+    "time": "Th 1-2P",
+    "location": "76 BARROWS",
+    "ccn": "2525",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 125 DIS",
+    "instructor": "D'ARCY, M J",
+    "time": "Th 2-3P",
+    "location": "76 BARROWS",
+    "ccn": "2528",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 12,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 126 DIS",
+    "instructor": "HAUTER, A S",
+    "time": "Th 3-4P",
+    "location": "76 BARROWS",
+    "ccn": "2531",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 3,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 127 DIS",
+    "instructor": "HAUTER, A S",
+    "time": "Th 4-5P",
+    "location": "76 BARROWS",
+    "ccn": "2534",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 7,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 128 DIS",
+    "instructor": "HAUTER, A S",
+    "time": "F 9-10A",
+    "location": "76 BARROWS",
+    "ccn": "2537",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 11,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 129 DIS",
+    "instructor": "HAUTER, A S",
+    "time": "F 10-11A",
+    "location": "76 BARROWS",
+    "ccn": "2540",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 130 DIS",
+    "instructor": "MIN, L",
+    "time": "F 11-12P",
+    "location": "76 BARROWS",
+    "ccn": "2543",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 131 DIS",
+    "instructor": "MIN, L",
+    "time": "F 12-1P",
+    "location": "76 BARROWS",
+    "ccn": "2546",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 132 DIS",
+    "instructor": "FEENEY-KLEINFELDT,",
+    "time": "F 1-2P",
+    "location": "76 BARROWS",
+    "ccn": "2549",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 10,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 133 DIS",
+    "instructor": "ROSNER, N E",
+    "time": "F 2-3P",
+    "location": "76 BARROWS",
+    "ccn": "2552",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 0,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "S 134 DIS",
+    "instructor": "ROSNER, N E",
+    "time": "F 3-4P",
+    "location": "76 BARROWS",
+    "ccn": "2555",
+    "classId": "ANTHRO 3AC",
+    "enrollment": {
+      "current": 5,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 1-29 IND",
+    "instructor": "",
+    "time": "TBA",
+    "classId": "ANTHRO 602",
+    "enrollment": {
+      "current": null,
+      "limit": null
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "JOYCE, R",
+    "time": "Tu 1-2P",
+    "location": "127 DWINELLE",
+    "ccn": "2572",
+    "classId": "ANTHRO 84",
+    "enrollment": {
+      "current": 13,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 002 SEM",
+    "instructor": "CONKEY, M W",
+    "time": "W 10-11A",
+    "location": "12 2224 PIEDMNT",
+    "ccn": "3476",
+    "classId": "ANTHRO 84",
+    "enrollment": {
+      "current": 9,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 6
+    }
+  },
+  {
+    "id": "P 008 GRP",
+    "instructor": "NADER, L",
+    "time": "M 5-7P",
+    "location": "263 DWINELLE",
+    "ccn": "2594",
+    "classId": "ANTHRO 98",
+    "enrollment": {
+      "current": 2,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 009 GRP",
+    "instructor": "KIRCH, P V",
+    "time": "M 5-6P",
+    "location": "134 DWINELLE",
+    "ccn": "2596",
+    "classId": "ANTHRO 98",
+    "enrollment": {
+      "current": 5,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 010 GRP",
+    "instructor": "HIRSCHKIND, C K",
+    "time": "Tu 6-8P",
+    "location": "5 EVANS",
+    "ccn": "3497",
+    "classId": "ANTHRO 98",
+    "enrollment": {
+      "current": 0,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 011 GRP",
+    "instructor": "RABINOW, P M",
+    "time": "W 5-7P",
+    "location": "122 BARROWS",
+    "ccn": "3499",
+    "classId": "ANTHRO 98",
+    "enrollment": {
+      "current": 5,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "WHITE, T D",
+    "time": "MW 9-1P",
+    "location": "1007 VALLEY LSB",
+    "ccn": "2621",
+    "classId": "ANTHRO C103",
+    "enrollment": {
+      "current": 3,
+      "limit": 7
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 3
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "KIRCH, P V",
+    "time": "TuTh 2-330P",
+    "location": "101 2251 COLLEGE",
+    "ccn": "2714",
+    "classId": "ANTHRO C129D",
+    "enrollment": {
+      "current": 21,
+      "limit": 22
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "ALEXANDER, R",
+    "time": "Th 3-6P",
+    "location": "6415 DWINELLE",
+    "ccn": "3113",
+    "classId": "ANTHRO C262B",
+    "enrollment": {
+      "current": 0,
+      "limit": 1
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "",
+    "time": "TBA",
+    "ccn": "3116",
+    "classId": "ANTHRO C273",
+    "enrollment": {
+      "current": null,
+      "limit": null
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "EDWARDS, T ",
+    "time": "TuTh 330-5P",
+    "location": "100 WHEELER (effective 01/30/14)",
+    "ccn": "2558",
+    "classId": "ANTHRO R5B",
+    "enrollment": {
+      "current": 20,
+      "limit": 21
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "CRAZE, J ",
+    "time": "WF 4-530P",
+    "location": "121 WHEELER (effective 02/05/14)",
+    "ccn": "2561",
+    "classId": "ANTHRO R5B",
+    "enrollment": {
+      "current": 22,
+      "limit": 22
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 003 LEC",
+    "instructor": "GREEN, E M ",
+    "time": "TuTh 330-5P",
+    "location": "283 DWINELLE (effective 01/30/14)",
+    "ccn": "2564",
+    "classId": "ANTHRO R5B",
+    "enrollment": {
+      "current": 18,
+      "limit": 18
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "CREEDON, G T",
+    "time": "MW 2-3P",
+    "location": "112 WURSTER",
+    "ccn": "3633",
+    "classId": "ARCH 100B",
+    "enrollment": {
+      "current": 130,
+      "limit": 175
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 175
+    }
+  },
+  {
+    "id": "S 101 STD",
+    "instructor": "CREEDON, G T",
+    "time": "MW 3-6P",
+    "location": "601 WURSTER",
+    "ccn": "3636",
+    "classId": "ARCH 100B",
+    "enrollment": {
+      "current": 14,
+      "limit": 150
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 150
+    }
+  },
+  {
+    "id": "S 201 LAB",
+    "instructor": "SCHOFIELD, A",
+    "time": "F 12-1P",
+    "location": "112 WURSTER",
+    "ccn": "3663",
+    "classId": "ARCH 100B",
+    "enrollment": {
+      "current": 22,
+      "limit": 175
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 175
+    }
+  },
+  {
+    "id": "P 001 STD",
+    "instructor": "IWAMOTO, L M",
+    "time": "MW 2-6P",
+    "location": "701 WURSTER",
+    "ccn": "3696",
+    "classId": "ARCH 100D",
+    "enrollment": {
+      "current": 22,
+      "limit": 60
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 60
+    }
+  },
+  {
+    "id": "P 002 STD",
+    "instructor": "DAVIDS, R C",
+    "time": "MW 2-6P",
+    "location": "701 WURSTER",
+    "ccn": "3698",
+    "classId": "ARCH 100D",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 003 STD",
+    "instructor": "FIELDS, D W",
+    "time": "MW 2-6P",
+    "location": "701 WURSTER",
+    "ccn": "4113",
+    "classId": "ARCH 100D",
+    "enrollment": {
+      "current": 11,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 004 STD",
+    "instructor": "TSE, A K",
+    "time": "MW 2-6P",
+    "location": "701 WURSTER",
+    "ccn": "4116",
+    "classId": "ARCH 100D",
+    "enrollment": {
+      "current": 8,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "STONER, J",
+    "time": "MW 2-6P",
+    "location": "701 WURSTER",
+    "ccn": "3699",
+    "classId": "ARCH 102B",
+    "enrollment": {
+      "current": 18,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "GONICK, S L ",
+    "time": "TuTh 1230-2P",
+    "location": "112 WURSTER",
+    "ccn": "3702",
+    "classId": "ARCH 111",
+    "enrollment": {
+      "current": 18,
+      "limit": 40
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 40
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "JOHNSON, K A",
+    "time": "Th 2-3P",
+    "location": "314B WURSTER",
+    "ccn": "3705",
+    "classId": "ARCH 111",
+    "enrollment": {
+      "current": 10,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "CHINAN, I",
+    "time": "F 9-10A",
+    "location": "314B WURSTER",
+    "ccn": "3711",
+    "classId": "ARCH 111",
+    "enrollment": {
+      "current": 3,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "S 104 DIS",
+    "instructor": "AL-KANDARI, A Y",
+    "time": "F 10-11A",
+    "location": "170 WURSTER",
+    "ccn": "3714",
+    "classId": "ARCH 111",
+    "enrollment": {
+      "current": 5,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "OGBU, E I",
+    "time": "Tu 9-12P",
+    "location": "901A WURSTER",
+    "ccn": "3617",
+    "classId": "ARCH 119",
+    "enrollment": {
+      "current": 1,
+      "limit": 5
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "ATWOOD, W A",
+    "time": "Tu 7-10P",
+    "location": "104 WURSTER",
+    "ccn": "3715",
+    "classId": "ARCH 129",
+    "enrollment": {
+      "current": 8,
+      "limit": 8
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "STEINFELD, K",
+    "time": "M 10-12P",
+    "location": "901A WURSTER",
+    "ccn": "3620",
+    "classId": "ARCH 129",
+    "enrollment": {
+      "current": 1,
+      "limit": 5
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 2
+    }
+  },
+  {
+    "id": "P 003 LEC",
+    "instructor": "GUTIERREZ, M",
+    "time": "Th 12-3P",
+    "location": "270 WURSTER",
+    "ccn": "3623",
+    "classId": "ARCH 129",
+    "enrollment": {
+      "current": 3,
+      "limit": 3
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 2
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "ISSA, H K",
+    "time": "M 9-12P",
+    "location": "270 WURSTER",
+    "ccn": "3716",
+    "classId": "ARCH 139",
+    "enrollment": {
+      "current": 5,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "CENZATTI, M",
+    "time": "M 9-12P",
+    "location": "172 WURSTER",
+    "ccn": "3608",
+    "classId": "ARCH 139",
+    "enrollment": {
+      "current": 1,
+      "limit": 5
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 003 LEC",
+    "instructor": "CHOKSOMBATCHAI, R",
+    "time": "Th 5-8P",
+    "location": "270 WURSTER",
+    "ccn": "3611",
+    "classId": "ARCH 139",
+    "enrollment": {
+      "current": 5,
+      "limit": 5
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 2
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "BRAGER, G S ",
+    "time": "TuTh 11-1230P",
+    "location": "4 LECONTE",
+    "ccn": "3717",
+    "classId": "ARCH 140",
+    "enrollment": {
+      "current": 156,
+      "limit": 180
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "",
+    "time": "Tu 330-630P",
+    "location": "170 WURSTER",
+    "ccn": "3720",
+    "classId": "ARCH 140",
+    "enrollment": {
+      "current": 25,
+      "limit": 26
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "",
+    "time": "W 9-12P",
+    "location": "104 WURSTER",
+    "ccn": "3723",
+    "classId": "ARCH 140",
+    "enrollment": {
+      "current": 26,
+      "limit": 27
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "",
+    "time": "Tu 1230-330P",
+    "location": "170 WURSTER",
+    "ccn": "3726",
+    "classId": "ARCH 140",
+    "enrollment": {
+      "current": 24,
+      "limit": 26
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 104 DIS",
+    "instructor": "GANDHI, P B",
+    "time": "Th 1230-330P",
+    "location": "172 WURSTER",
+    "ccn": "3729",
+    "classId": "ARCH 140",
+    "enrollment": {
+      "current": 24,
+      "limit": 27
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 105 DIS",
+    "instructor": "KARMANN, C",
+    "time": "F 9-12P",
+    "location": "104 WURSTER",
+    "ccn": "3732",
+    "classId": "ARCH 140",
+    "enrollment": {
+      "current": 20,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 30
+    }
+  },
+  {
+    "id": "S 106 DIS",
+    "instructor": "",
+    "time": "F 2-5P",
+    "location": "104 WURSTER",
+    "ccn": "3735",
+    "classId": "ARCH 140",
+    "enrollment": {
+      "current": 25,
+      "limit": 26
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 30
+    }
+  },
+  {
+    "id": "S 107 DIS",
+    "instructor": "",
+    "time": "Th 330-630P",
+    "location": "172 WURSTER",
+    "ccn": "3737",
+    "classId": "ARCH 140",
+    "enrollment": {
+      "current": 12,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "BLACK, R",
+    "time": "Tu 7-10P",
+    "location": "172 WURSTER",
+    "ccn": "3738",
+    "classId": "ARCH 154",
+    "enrollment": {
+      "current": 10,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "BUNTROCK, D L",
+    "time": "TuTh 2-330P",
+    "location": "112 WURSTER",
+    "ccn": "3741",
+    "classId": "ARCH 160",
+    "enrollment": {
+      "current": 129,
+      "limit": 150
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 101 LAB",
+    "instructor": "EDWARDS, M R",
+    "time": "F 9-12P",
+    "location": "901A WURSTER",
+    "ccn": "3744",
+    "classId": "ARCH 160",
+    "enrollment": {
+      "current": 23,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 102 LAB",
+    "instructor": "SAMUELSON, P A",
+    "time": "F 9-12P",
+    "location": "701A WURSTER",
+    "ccn": "3747",
+    "classId": "ARCH 160",
+    "enrollment": {
+      "current": 23,
+      "limit": 26
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 103 LAB",
+    "instructor": "BERGIN, A R",
+    "time": "F 2-5P",
+    "location": "801A WURSTER",
+    "ccn": "3750",
+    "classId": "ARCH 160",
+    "enrollment": {
+      "current": 22,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 104 LAB",
+    "instructor": "GRENIER, L L",
+    "time": "F 2-5P",
+    "location": "901A WURSTER",
+    "ccn": "3753",
+    "classId": "ARCH 160",
+    "enrollment": {
+      "current": 22,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 105 LAB",
+    "instructor": "MOON, D",
+    "time": "F 2-5P",
+    "location": "170 WURSTER",
+    "ccn": "3756",
+    "classId": "ARCH 160",
+    "enrollment": {
+      "current": 20,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 107 LAB",
+    "instructor": "KAUFFMAN, N E",
+    "time": "F 2-5P",
+    "location": "172 WURSTER",
+    "ccn": "3761",
+    "classId": "ARCH 160",
+    "enrollment": {
+      "current": 19,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 12
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "CRAWFORD, M L",
+    "time": "TuTh 330-5P",
+    "location": "F295 HAAS",
+    "ccn": "3768",
+    "classId": "ARCH 170B",
+    "enrollment": {
+      "current": 132,
+      "limit": 250
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 250
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "GROMBACHER-IRWIN,",
+    "time": "M 12-1P",
+    "location": "170 WURSTER",
+    "ccn": "3771",
+    "classId": "ARCH 170B",
+    "enrollment": {
+      "current": 19,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 26
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "GROMBACHER-IRWIN,",
+    "time": "M 1-2P",
+    "location": "170 WURSTER",
+    "ccn": "3774",
+    "classId": "ARCH 170B",
+    "enrollment": {
+      "current": 19,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 26
+    }
+  },
+  {
+    "id": "S 104 DIS",
+    "instructor": "STILES, E B",
+    "time": "W 1-2P",
+    "location": "172 WURSTER",
+    "ccn": "3780",
+    "classId": "ARCH 170B",
+    "enrollment": {
+      "current": 23,
+      "limit": 26
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 105 DIS",
+    "instructor": "STEWART, A R",
+    "time": "Tu 9-10A",
+    "location": "170 WURSTER",
+    "ccn": "3783",
+    "classId": "ARCH 170B",
+    "enrollment": {
+      "current": 20,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 106 DIS",
+    "instructor": "STEWART, A R",
+    "time": "Tu 10-11A",
+    "location": "170 WURSTER",
+    "ccn": "3786",
+    "classId": "ARCH 170B",
+    "enrollment": {
+      "current": 24,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 25
+    }
+  },
+  {
+    "id": "S 108 DIS",
+    "instructor": "STILES, E B",
+    "time": "Th 10-11A",
+    "location": "172 WURSTER",
+    "ccn": "3792",
+    "classId": "ARCH 170B",
+    "enrollment": {
+      "current": 27,
+      "limit": 26
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 26
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "SHANKEN, A",
+    "time": "Tu 930-1230P",
+    "location": "270 WURSTER",
+    "ccn": "3795",
+    "classId": "ARCH 179",
+    "enrollment": {
+      "current": 3,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "CASTILLO, G",
+    "time": "Th 9-12P",
+    "location": "270 WURSTER",
+    "ccn": "3810",
+    "classId": "ARCH 179",
+    "enrollment": {
+      "current": 0,
+      "limit": 5
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "STONER, J",
+    "time": "TuTh 11-1230P",
+    "location": "2050 VALLEY LSB",
+    "ccn": "3815",
+    "classId": "ARCH 180AC",
+    "enrollment": {
+      "current": 61,
+      "limit": 96
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "S 101 DIS",
+    "instructor": "PARDOW, D",
+    "time": "Tu 1-2P",
+    "location": "50 BARROWS",
+    "ccn": "3600",
+    "classId": "ARCH 180AC",
+    "enrollment": {
+      "current": 7,
+      "limit": 8
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "S 102 DIS",
+    "instructor": "PARDOW, D",
+    "time": "W 9-10A",
+    "location": "50 BARROWS",
+    "ccn": "3601",
+    "classId": "ARCH 180AC",
+    "enrollment": {
+      "current": 6,
+      "limit": 8
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "S 103 DIS",
+    "instructor": "WUN, C",
+    "time": "Th 8-9A",
+    "location": "78 BARROWS",
+    "ccn": "3604",
+    "classId": "ARCH 180AC",
+    "enrollment": {
+      "current": 3,
+      "limit": 8
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "S 104 DIS",
+    "instructor": "SCHULZE-OECHTERING",
+    "time": "Tu 2-3P",
+    "location": "54 BARROWS",
+    "ccn": "3607",
+    "classId": "ARCH 180AC",
+    "enrollment": {
+      "current": 5,
+      "limit": 8
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "S 105 DIS",
+    "instructor": "",
+    "time": "W 10-11A",
+    "location": "50 BARROWS",
+    "ccn": "3610",
+    "classId": "ARCH 180AC",
+    "enrollment": {
+      "current": 6,
+      "limit": 7
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "S 106 DIS",
+    "instructor": "WUN, C",
+    "time": "Th 9-10A",
+    "location": "50 BARROWS",
+    "ccn": "3613",
+    "classId": "ARCH 180AC",
+    "enrollment": {
+      "current": 2,
+      "limit": 8
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "S 108 DIS",
+    "instructor": "LEE, A",
+    "time": "W 12-1P",
+    "location": "118 BARROWS",
+    "ccn": "3619",
+    "classId": "ARCH 180AC",
+    "enrollment": {
+      "current": 6,
+      "limit": 8
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "S 109 DIS",
+    "instructor": "",
+    "time": "Th 10-11A",
+    "location": "246 DWINELLE",
+    "ccn": "3622",
+    "classId": "ARCH 180AC",
+    "enrollment": {
+      "current": 8,
+      "limit": 8
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "S 110 DIS",
+    "instructor": "PRIYANI, R",
+    "time": "Tu 4-5P",
+    "location": "105 DWINELLE",
+    "ccn": "3625",
+    "classId": "ARCH 180AC",
+    "enrollment": {
+      "current": 6,
+      "limit": 8
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "S 111 DIS",
+    "instructor": "SCHULZE-OECHTERING",
+    "time": "W 2-3P",
+    "location": "118 BARROWS",
+    "ccn": "3628",
+    "classId": "ARCH 180AC",
+    "enrollment": {
+      "current": 6,
+      "limit": 8
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "S 112 DIS",
+    "instructor": "LEE, A",
+    "time": "W 1-2P",
+    "location": "54 BARROWS",
+    "ccn": "3631",
+    "classId": "ARCH 180AC",
+    "enrollment": {
+      "current": 6,
+      "limit": 8
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "P 001 GRP",
+    "instructor": "TOMER, S ",
+    "time": "Th 7-8P",
+    "location": "101 WURSTER",
+    "ccn": "3816",
+    "classId": "ARCH 198",
+    "enrollment": {
+      "current": 18,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 18
+    }
+  },
+  {
+    "id": "P 005 GRP",
+    "instructor": "THE STAFF ",
+    "time": "Tu 630-830P",
+    "location": "901A WURSTER",
+    "ccn": "3828",
+    "classId": "ARCH 198",
+    "enrollment": {
+      "current": 9,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 STD",
+    "instructor": "GUTHRIE-BURESH, D",
+    "time": "MW 2-6P",
+    "location": "901 WURSTER",
+    "ccn": "3888",
+    "classId": "ARCH 200B",
+    "enrollment": {
+      "current": 31,
+      "limit": 35
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 30
+    }
+  },
+  {
+    "id": "P 001 STD",
+    "instructor": "UBBELOHDE, M S",
+    "time": "MW 2-6P",
+    "location": "801 WURSTER",
+    "ccn": "3891",
+    "classId": "ARCH 202",
+    "enrollment": {
+      "current": 16,
+      "limit": 60
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 40
+    }
+  },
+  {
+    "id": "P 002 STD",
+    "instructor": "RAEL, R L",
+    "time": "MW 2-6P",
+    "location": "801 WURSTER",
+    "ccn": "3894",
+    "classId": "ARCH 202",
+    "enrollment": {
+      "current": 13,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 003 STD",
+    "instructor": "STEINFELD, K",
+    "time": "MW 2-6P",
+    "location": "801 WURSTER",
+    "ccn": "3897",
+    "classId": "ARCH 202",
+    "enrollment": {
+      "current": 11,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 004 STD",
+    "instructor": "MANFERDINI, E",
+    "time": "MW 2-6P",
+    "location": "801 WURSTER",
+    "ccn": "3899",
+    "classId": "ARCH 202",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 7
+    }
+  },
+  {
+    "id": "P 001 STD",
+    "instructor": "CHOW, R Y",
+    "time": "MW 2-6P",
+    "location": "901 WURSTER",
+    "ccn": "3900",
+    "classId": "ARCH 204B",
+    "enrollment": {
+      "current": 11,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 16
+    }
+  },
+  {
+    "id": "P 002 STD",
+    "instructor": "CHOKSOMBATCHAI, R",
+    "time": "MW 2-6P",
+    "location": "901 WURSTER",
+    "ccn": "3903",
+    "classId": "ARCH 204B",
+    "enrollment": {
+      "current": 8,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 003 STD",
+    "instructor": "ANDERSON, M S",
+    "time": "MW 2-6P",
+    "location": "801 WURSTER",
+    "ccn": "3906",
+    "classId": "ARCH 204B",
+    "enrollment": {
+      "current": 10,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 STD",
+    "instructor": "GUTIERREZ, M",
+    "time": "MW 2-6P",
+    "location": "801 WURSTER",
+    "ccn": "3912",
+    "classId": "ARCH 205B",
+    "enrollment": {
+      "current": 8,
+      "limit": 11
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 11
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "MAITLAND, P D",
+    "time": "Th 630-730P",
+    "location": "172 WURSTER",
+    "ccn": "3915",
+    "classId": "ARCH 207B",
+    "enrollment": {
+      "current": 30,
+      "limit": 30
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 30
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "MARTIN, W M",
+    "time": "Tu 1230-330P",
+    "location": "104 WURSTER",
+    "ccn": "3918",
+    "classId": "ARCH 207D",
+    "enrollment": {
+      "current": 49,
+      "limit": 50
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 45
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "SHARAFIAN, S M",
+    "time": "Tu 10-12P",
+    "location": "104 WURSTER",
+    "ccn": "3921",
+    "classId": "ARCH 208",
+    "enrollment": {
+      "current": 22,
+      "limit": 45
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 45
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "CRAWFORD, M L",
+    "time": "F 12-4P",
+    "location": "491 WURSTER",
+    "ccn": "3924",
+    "classId": "ARCH 209",
+    "enrollment": {
+      "current": 6,
+      "limit": 16
+    },
+    "waitlist": {
+      "current": 2,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "DAVIDS, R C",
+    "time": "M 9-12P",
+    "location": "104 WURSTER",
+    "ccn": "3936",
+    "classId": "ARCH 215",
+    "enrollment": {
+      "current": 14,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "OGBU, E I",
+    "time": "Tu 9-12P",
+    "location": "901A WURSTER",
+    "ccn": "3938",
+    "classId": "ARCH 219",
+    "enrollment": {
+      "current": 5,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 002 SEM",
+    "instructor": "STEINFELD, K",
+    "time": "M 10-12P",
+    "location": "901A WURSTER",
+    "ccn": "3945",
+    "classId": "ARCH 229",
+    "enrollment": {
+      "current": 16,
+      "limit": 21
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 003 SEM",
+    "instructor": "ATWOOD, W A",
+    "time": "Tu 7-10P",
+    "location": "104 WURSTER",
+    "ccn": "3948",
+    "classId": "ARCH 229",
+    "enrollment": {
+      "current": 14,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 004 SEM",
+    "instructor": "GUTIERREZ, M",
+    "time": "Th 12-3P",
+    "location": "270 WURSTER",
+    "ccn": "3950",
+    "classId": "ARCH 229",
+    "enrollment": {
+      "current": 10,
+      "limit": 12
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 6
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "CRYSLER, C G ",
+    "time": "Tu 4-7P",
+    "location": "104 WURSTER",
+    "ccn": "3951",
+    "classId": "ARCH 230",
+    "enrollment": {
+      "current": 36,
+      "limit": 43
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 40
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "ISSA, H K",
+    "time": "M 9-12P",
+    "location": "270 WURSTER",
+    "ccn": "3956",
+    "classId": "ARCH 239",
+    "enrollment": {
+      "current": 4,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "CENZATTI, M",
+    "time": "M 9-12P",
+    "location": "172 WURSTER",
+    "ccn": "3605",
+    "classId": "ARCH 239",
+    "enrollment": {
+      "current": 8,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 003 LEC",
+    "instructor": "CHOKSOMBATCHAI, R",
+    "time": "Th 5-8P",
+    "location": "270 WURSTER",
+    "ccn": "3614",
+    "classId": "ARCH 239",
+    "enrollment": {
+      "current": 9,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 5
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "MARTIN, W M",
+    "time": "Th 12-3P",
+    "location": "501A WURSTER",
+    "ccn": "3603",
+    "classId": "ARCH 24",
+    "enrollment": {
+      "current": 12,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "UBBELOHDE, M S",
+    "time": "Th 4-7P",
+    "location": "104 WURSTER",
+    "ccn": "3602",
+    "classId": "ARCH 245",
+    "enrollment": {
+      "current": 21,
+      "limit": 23
+    },
+    "waitlist": {
+      "current": 2,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "BRAGER, G S",
+    "time": "W 9-12P",
+    "location": "270 WURSTER",
+    "ccn": "3957",
+    "classId": "ARCH 249",
+    "enrollment": {
+      "current": 11,
+      "limit": 16
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "CALDAS, L",
+    "time": "Th 9-12P",
+    "location": "901A WURSTER",
+    "ccn": "3960",
+    "classId": "ARCH 249",
+    "enrollment": {
+      "current": 8,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 003 LEC",
+    "instructor": "SCHIAVON, S",
+    "time": "F 9-12P",
+    "location": "270 WURSTER",
+    "ccn": "3963",
+    "classId": "ARCH 249",
+    "enrollment": {
+      "current": 10,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "BLACK, R",
+    "time": "Tu 7-10P",
+    "location": "901A WURSTER",
+    "ccn": "3969",
+    "classId": "ARCH 259",
+    "enrollment": {
+      "current": 7,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "ANDERSON, M S",
+    "time": "W 9-12P",
+    "location": "172 WURSTER",
+    "ccn": "3975",
+    "classId": "ARCH 269",
+    "enrollment": {
+      "current": 17,
+      "limit": 35
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 35
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "GROTH, P E",
+    "time": "F 9-12P",
+    "location": "172 WURSTER",
+    "ccn": "3980",
+    "classId": "ARCH 276",
+    "enrollment": {
+      "current": 9,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "SHANKEN, A",
+    "time": "Tu 10-1P",
+    "location": "270 WURSTER",
+    "ccn": "3981",
+    "classId": "ARCH 279",
+    "enrollment": {
+      "current": 4,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 003 LEC",
+    "instructor": "CASTILLO, G",
+    "time": "Th 9-12P",
+    "location": "270 WURSTER",
+    "ccn": "3987",
+    "classId": "ARCH 279",
+    "enrollment": {
+      "current": 4,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 004 LEC",
+    "instructor": "CASTILLO, G",
+    "time": "W 2-5P",
+    "location": "270 WURSTER",
+    "ccn": "3990",
+    "classId": "ARCH 279",
+    "enrollment": {
+      "current": 3,
+      "limit": 10
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 10
+    }
+  },
+  {
+    "id": "P 001 SEM",
+    "instructor": "DATE, K",
+    "time": "M 12-1P",
+    "location": "172 WURSTER",
+    "ccn": "4088",
+    "classId": "ARCH 375",
+    "enrollment": {
+      "current": 25,
+      "limit": 26
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 1
+    }
+  },
+  {
+    "id": "P 001 GRP",
+    "instructor": "TOMER, S ",
+    "time": "Th 6-7P",
+    "location": "101 WURSTER",
+    "ccn": "3612",
+    "classId": "ARCH 98",
+    "enrollment": {
+      "current": 11,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 19
+    }
+  },
+  {
+    "id": "P 005 GRP",
+    "instructor": "CHINNAPPA, P ",
+    "time": "TBA",
+    "ccn": "3626",
+    "classId": "ARCH 98",
+    "enrollment": {
+      "current": 4,
+      "limit": 11
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 6
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "DUBOVSKY, A O",
+    "time": "Th 6-930P",
+    "location": "170 WURSTER",
+    "ccn": "4153",
+    "classId": "VIS STD 185X",
+    "enrollment": {
+      "current": 15,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 20
+    }
+  },
+  {
+    "id": "P 001 STD",
+    "instructor": "BOURDIER, J P",
+    "time": "M 7-10P",
+    "location": "489 WURSTER",
+    "ccn": "4159",
+    "classId": "VIS STD 187A",
+    "enrollment": {
+      "current": 10,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": 6,
+      "limit": 25
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "DUBOVSKY, A O",
+    "time": "Tu 630-930P",
+    "location": "170 WURSTER",
+    "ccn": "4210",
+    "classId": "VIS STD 280",
+    "enrollment": {
+      "current": 9,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 0,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 IND",
+    "instructor": "BOURDIER, J P",
+    "time": "M 7-10P",
+    "location": "489 WURSTER",
+    "ccn": "4213",
+    "classId": "VIS STD 298",
+    "enrollment": {
+      "current": 1,
+      "limit": 15
+    },
+    "waitlist": {
+      "current": 1,
+      "limit": 15
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "NAGASAWA, C K",
+    "time": "TuThSA 1-4P",
+    "location": "375 KROEBER",
+    "ccn": "4384",
+    "classId": "ART 102",
+    "enrollment": {
+      "current": 25,
+      "limit": 35
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "MORRE, I M",
+    "time": "MW 9-12P",
+    "location": "385 KROEBER",
+    "ccn": "4387",
+    "classId": "ART 102",
+    "enrollment": {
+      "current": 20,
+      "limit": 23
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "DYM, M",
+    "time": "MWF 4-7P",
+    "location": "355 KROEBER",
+    "ccn": "4390",
+    "classId": "ART 117",
+    "enrollment": {
+      "current": 19,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "GAMEZ, A",
+    "time": "MWF 9-12P",
+    "location": "355 KROEBER",
+    "ccn": "4393",
+    "classId": "ART 118",
+    "enrollment": {
+      "current": 18,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "DESOUZA, A",
+    "time": "Th 4-7P",
+    "location": "238 KROEBER",
+    "ccn": "4396",
+    "classId": "ART 119",
+    "enrollment": {
+      "current": 39,
+      "limit": 49
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "RODRIGUEZ, L E",
+    "time": "MWF 1-4P",
+    "location": "355 KROEBER",
+    "ccn": "4315",
+    "classId": "ART 12",
+    "enrollment": {
+      "current": 21,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 003 LEC",
+    "instructor": "LIE, S F",
+    "time": "TuThSA 9-12P",
+    "location": "355 KROEBER",
+    "ccn": "4318",
+    "classId": "ART 12",
+    "enrollment": {
+      "current": 25,
+      "limit": 29
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "HUSSONG, R M",
+    "time": "MWF 9-12P",
+    "location": "255 KROEBER",
+    "ccn": "4399",
+    "classId": "ART 120",
+    "enrollment": {
+      "current": 17,
+      "limit": 26
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "HUSSONG, R M",
+    "time": "MWF 1-4P",
+    "location": "255 KROEBER",
+    "ccn": "4402",
+    "classId": "ART 123",
+    "enrollment": {
+      "current": 18,
+      "limit": 28
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "MCNAMARA, J S",
+    "time": "MWF 4-7P",
+    "location": "385 KROEBER",
+    "ccn": "4321",
+    "classId": "ART 13",
+    "enrollment": {
+      "current": 19,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "NAGASAWA, C K",
+    "time": "TuTh 9-12P",
+    "location": "375 KROEBER",
+    "ccn": "4324",
+    "classId": "ART 13",
+    "enrollment": {
+      "current": 16,
+      "limit": 23
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "SYJUCO, S",
+    "time": "MWF 9-12P",
+    "location": "165 KROEBER",
+    "ccn": "4405",
+    "classId": "ART 130",
+    "enrollment": {
+      "current": 17,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "SCOLLON, E",
+    "time": "TuThSA 1-4P",
+    "location": "171 WURSTER",
+    "ccn": "4408",
+    "classId": "ART 137",
+    "enrollment": {
+      "current": 8,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "NEVERS, D",
+    "time": "TuThF 9-12P",
+    "location": "165 KROEBER",
+    "ccn": "4327",
+    "classId": "ART 14",
+    "enrollment": {
+      "current": 18,
+      "limit": 26
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 002 LEC",
+    "instructor": "SCOLLON, E",
+    "time": "MWF 9-12P",
+    "location": "171 WURSTER",
+    "ccn": "4330",
+    "classId": "ART 14",
+    "enrollment": {
+      "current": 20,
+      "limit": 25
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
+  },
+  {
+    "id": "P 001 LEC",
+    "instructor": "RAVEN, L",
+    "time": "TuThSA 1-4P",
+    "location": "135 DWINELLE",
+    "ccn": "4411",
+    "classId": "ART 141",
+    "enrollment": {
+      "current": 10,
+      "limit": 20
+    },
+    "waitlist": {
+      "current": null,
+      "limit": null
+    }
   }
 ]

@@ -13,5 +13,8 @@ cd src
 foreman run node load-courses.js
 foreman run node load-names.js
 foreman run node load-sections.js # This one is REEAAAAALLY slow
-foreman run node build-section-list.js
+foreman run node load-enrollment.js
 ```
+
+# Notes
+Running `load-enrollment` will throw errors sometimes, especially with upper-division Architecture classes. This is because the Berkeley API tends to buckle under rapid querying, which is one of many reasons why we cache the results. If this happens, just rerun `load-enrollment` until no errors are reported.
