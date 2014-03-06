@@ -73,7 +73,7 @@ sections.get('section-list', function(err, section_list) {
 });
 
 // Allow new requests for things to poll.
-server.get('/poll/:key/:ccn', function(req, res, next) {
+server.post('/poll/:key/:ccn', function(req, res, next) {
   if (config.NODE_ENV == 'production') {
     if (!totp.verify(req.params.key)) {
       return res.send(403);
@@ -127,7 +127,7 @@ enrollment_monitor.on('message', function(m) {
       if (err) {
         return console.error('[ERROR] API connection error to', request_url, err);
       }
-      console.log('[DEBUG] Sending]', _.values(m.message));
+      console.log('[DEBUG] Sending', _.values(m.message));
     });
   }
 });
