@@ -22,7 +22,10 @@
     "q": "*",
 
     "cheerio": "*",
-    "request": "*"
+    "request": "*",
+
+    "cacheman": "*",
+    "cacheman-redis": "*"
   },
   "devDependencies": {
     "mocha": "*",
