@@ -13,6 +13,8 @@
     "start": "foreman start"
   },
   "dependencies": {
+    "nodemon": "*",
+
     "restify": "*",
     "bunyan": "*",
 
