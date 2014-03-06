@@ -36,16 +36,16 @@ server.on('after', restify.auditLogger({
   })
 }));
 
-var totp = new TOTP(key)
+var totp = new TOTP(key, null, 60)
   , enrollment_monitor = fork(path.join(__dirname, 'src', 'poll-enrollment'), {
     cwd: path.join(__dirname, 'src'),
     env: process.env
   });
 
 server.get('/poll/:key/:ccn', function(req, res, next) {
-  // if (!totp.verify(req.params.key)) {
-  //   return res.send(403);
-  // }
+  if (!totp.verify(req.params.key)) {
+    return res.send(403);
+  }
 
   console.log('[DEBUG] Assigning child to watch', req.params.ccn);
   enrollment_monitor.send({
