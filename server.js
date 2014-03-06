@@ -61,12 +61,26 @@ server.get('/poll/:key/:ccn', function(req, res, next) {
 enrollment_monitor.on('message', function(m) {
   if (m.name == 'change') {
     console.log('[DEBUG] Received diff', m.message);
-    var request_url = path.join(app_url, '' + totp.now(), _.values(m.message).join('/'));
-    request(request_url, function(err, res, body) {
+
+    var request_url = [
+      app_url,
+      '' + totp.now(),
+      m.message.ccn,
+      m.message.enroll,
+      m.message.enrollLimit,
+      m.message.waitlist,
+      m.message.waitlistLimit
+    ].join('/');
+
+    if (m.message.init) {
+      request_url += '/' + m.message.init;
+    }
+
+    request.post(request_url, function(err, res, body) {
       if (err) {
         return console.error('[ERROR] API connection error to', request_url, err);
       }
-      console.log(_.values(m.message));
+      console.log('[DEBUG] Sending]', _.values(m.message));
     });
   }
 });

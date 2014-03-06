@@ -3,34 +3,34 @@ var path = require('path')
   , _ = require('underscore')
   , q = require('q')
 
-  // , get = require(path.join(__dirname, 'get'));
+  , get = require(path.join(__dirname, 'get'));
 
 var count = 0;
-var get = {
-  enrollment: function(ccn, callback) {
-    count++;
+// var get = {
+//   enrollment: function(ccn, callback) {
+//     count++;
 
-    if (count > 4) {
-      return callback(null, 
-      {
-        ccn: '557',
-        enroll: 2,
-        enrollLimit: 10,
-        waitlist: 0,
-        waitlistLimit: 10
-      });
-    }
+//     if (count > 4) {
+//       return callback(null, 
+//       {
+//         ccn: '557',
+//         enroll: 2,
+//         enrollLimit: 10,
+//         waitlist: 0,
+//         waitlistLimit: 10
+//       });
+//     }
 
-    callback(null, 
-      {
-        ccn: '557',
-        enroll: 0,
-        enrollLimit: 10,
-        waitlist: 0,
-        waitlistLimit: 10
-      });
-  }
-};
+//     callback(null, 
+//       {
+//         ccn: '557',
+//         enroll: 0,
+//         enrollLimit: 10,
+//         waitlist: 0,
+//         waitlistLimit: 10
+//       });
+//   }
+// };
 
 process.on('message', function(m) {
   if (m.name == 'watch' && !_.has(sections, m.message)) {
@@ -68,14 +68,14 @@ var poll = function() {
   .then(function(results) {
     console.log('[DEBUG] Results', results);
     console.log('[DEBUG] Previous', sections);
-    console.log('---');
+    console.log('[DEBUG] ---');
     var diffs = [];
 
     _.each(results, function(result) {
       var prev = sections[result.ccn];
       if (prev.enroll === undefined || prev.waitlist === undefined) {
         sections[result.ccn] = result;
-        return;
+        result.init = true;
       }
       if (prev.enroll != result.enroll ||
           prev.enrollLimit != result.enrollLimit ||
