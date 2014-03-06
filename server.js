@@ -132,5 +132,5 @@ enrollment_monitor.on('message', function(m) {
   }
 });
 
-server.listen(port || 2713);
-console.log('Server listening on port', port || 2713);
+server.listen(config.PORT);
+console.log('Server listening on port', config.PORT);
